@@ -1,0 +1,46 @@
+name: Weekly Update
+
+on:
+  # Every Monday at 12:00 UTC = 6am Central / 7am Eastern
+  schedule:
+    - cron: '0 12 * * 1'
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to commit data snapshots back to repo
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install (no deps)
+        run: npm ci || true
+
+      - name: Run weekly pipeline
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: npm run weekly
+
+      - name: Commit snapshots
+        run: |
+          git config user.name "Nashville Intel Bot"
+          git config user.email "actions@github.com"
+          git add data/ dist/
+          git diff --staged --quiet || git commit -m "Weekly update $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Upload dist artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: dist/
+          retention-days: 90
