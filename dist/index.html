@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Nashville Intel</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #0f1419; color: #e6e6e6; }
+  #app { display: grid; grid-template-columns: 280px 1fr 360px; height: 100vh; }
+  .panel { background: #161b22; border-right: 1px solid #2a2f37; overflow-y: auto; padding: 16px; }
+  .panel.right { border-right: none; border-left: 1px solid #2a2f37; padding: 0; }
+  h1 { font-size: 14px; margin: 0 0 4px 0; letter-spacing: 0.5px; text-transform: uppercase; color: #9aa4b1; }
+  h2 { font-size: 12px; margin: 16px 0 8px 0; color: #6c7686; text-transform: uppercase; letter-spacing: 0.6px; }
+  .subtitle { font-size: 11px; color: #6c7686; margin-bottom: 12px; }
+  .meta { font-size: 11px; color: #6c7686; line-height: 1.5; }
+  #map { height: 100%; }
+  .leaflet-container { background: #0a0d12 !important; }
+
+  /* Strategy + risk controls */
+  .strategy-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 8px; }
+  .strategy-card { background: #1f242c; border: 1.5px solid transparent; border-radius: 4px; padding: 10px; cursor: pointer; }
+  .strategy-card.active { border-color: #4fc3f7; background: #1a2a36; }
+  .strategy-card .strat-name { font-size: 12px; font-weight: 600; }
+  .strategy-card .strat-desc { font-size: 10px; color: #8a939f; margin-top: 4px; line-height: 1.3; }
+  .risk-pills { display: flex; gap: 4px; background: #1f242c; padding: 3px; border-radius: 4px; margin-bottom: 6px; }
+  .risk-pill { flex: 1; background: transparent; border: none; color: #8a939f; padding: 7px; border-radius: 3px; cursor: pointer; font-size: 11px; font-weight: 600; }
+  .risk-pill.active { background: #4fc3f7; color: #0f1419; }
+
+  /* Layer control */
+  .layer-control { position: absolute; top: 80px; left: 10px; background: rgba(22, 27, 34, 0.97); padding: 10px 12px; border: 1px solid #2a2f37; border-radius: 4px; z-index: 1000; min-width: 200px; }
+  .layer-control-title { font-size: 10px; color: #6c7686; text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 8px; font-weight: 600; }
+  .layer-row { display: flex; align-items: center; gap: 8px; padding: 4px 0; cursor: pointer; }
+  .layer-row input { accent-color: #4fc3f7; cursor: pointer; }
+  .layer-name { font-size: 12px; color: #c8cdd4; flex: 1; }
+  .layer-swatch { display: inline-block; width: 12px; height: 12px; border-radius: 2px; margin-right: 5px; vertical-align: middle; }
+
+  /* Legend */
+  .legend { position: absolute; top: 16px; right: 16px; background: rgba(22, 27, 34, 0.97); padding: 12px 14px; border: 1px solid #2a2f37; border-radius: 4px; z-index: 1000; min-width: 240px; }
+  .legend-title { font-size: 10px; color: #6c7686; text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 8px; font-weight: 600; }
+  .legend-row { display: grid; grid-template-columns: 4px 1fr auto; gap: 10px; align-items: center; padding: 5px 0; }
+  .legend-bar { width: 4px; min-height: 28px; border-radius: 2px; }
+  .legend-tier { font-size: 12px; font-weight: 600; }
+  .legend-tier .legend-range { color: #6c7686; font-weight: 400; font-size: 10.5px; margin-left: 4px; }
+  .legend-action { font-size: 10.5px; color: #8a939f; margin-top: 1px; }
+  .legend-count { font-size: 16px; font-weight: 700; color: #4fc3f7; font-variant-numeric: tabular-nums; }
+
+  /* Bottom drawer */
+  .drawer { position: absolute; bottom: 0; left: 0; right: 0; background: #161b22; border-top: 1px solid #2a2f37; z-index: 1000; overflow: hidden; transition: height 0.22s ease; }
+  .drawer.collapsed { height: 38px; }
+  .drawer.expanded { height: 320px; }
+  .drawer-header { display: flex; align-items: center; gap: 14px; padding: 0 16px; height: 38px; cursor: pointer; font-size: 12px; color: #c8cdd4; border-bottom: 1px solid #2a2f37; }
+  .drawer-header .toggle-icon { color: #4fc3f7; font-weight: 600; min-width: 100px; }
+  .drawer-table-wrap { overflow: auto; height: calc(100% - 38px); }
+  .drawer-table { width: 100%; border-collapse: collapse; font-size: 11.5px; }
+  .drawer-table thead { position: sticky; top: 0; background: #161b22; }
+  .drawer-table th { text-align: left; padding: 9px 12px; color: #8a939f; font-weight: 600; text-transform: uppercase; font-size: 10px; letter-spacing: 0.5px; cursor: pointer; border-bottom: 1px solid #2a2f37; white-space: nowrap; }
+  .drawer-table th:hover, .drawer-table th.active { color: #4fc3f7; }
+  .drawer-table td { padding: 8px 12px; border-bottom: 1px solid #1a1f26; color: #c8cdd4; }
+  .drawer-table tbody tr { cursor: pointer; }
+  .drawer-table tbody tr:hover { background: #1a2530; }
+  .drawer-table tbody tr.selected { background: #1a2a36; box-shadow: inset 2px 0 0 #4fc3f7; }
+  .drawer-table .tier-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; vertical-align: middle; }
+
+  /* Right panel — Signal Feed + Parcel Detail */
+  .tabs { display: flex; border-bottom: 1px solid #2a2f37; }
+  .tab { flex: 1; padding: 12px; text-align: center; cursor: pointer; font-size: 11px; text-transform: uppercase; letter-spacing: 0.6px; color: #6c7686; font-weight: 600; user-select: none; }
+  .tab.active { color: #4fc3f7; border-bottom: 2px solid #4fc3f7; margin-bottom: -1px; }
+  .tab-content { display: none; padding: 16px; height: calc(100vh - 45px); overflow-y: auto; }
+  .tab-content.active { display: block; }
+
+  /* Signal feed */
+  .signal-meta { font-size: 10.5px; color: #6c7686; margin-bottom: 14px; padding: 8px; background: #1a2530; border-radius: 3px; }
+  .signal-item { background: #1f242c; border-left: 3px solid #4fc3f7; padding: 10px 12px; margin-bottom: 10px; border-radius: 0 3px 3px 0; }
+  .signal-item.high { border-left-color: #f87171; }
+  .signal-item.medium { border-left-color: #fbbf24; }
+  .signal-item .sig-type { font-size: 9.5px; color: #6c7686; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
+  .signal-item .sig-headline { font-size: 12.5px; color: #e6e6e6; font-weight: 600; margin: 4px 0; line-height: 1.3; }
+  .signal-item .sig-detail { font-size: 11px; color: #8a939f; line-height: 1.4; }
+  .signal-item a { color: #4fc3f7; text-decoration: none; font-size: 10.5px; }
+  .signal-item a:hover { text-decoration: underline; }
+
+  /* Parcel detail */
+  .parcel-name { font-size: 18px; font-weight: 600; }
+  .parcel-loc { font-size: 11px; color: #6c7686; margin-bottom: 12px; }
+  .score-big { font-size: 44px; font-weight: 700; line-height: 1; }
+  .score-label { font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 16px; font-weight: 600; }
+  .yield-section { background: #1a2530; border-left: 2px solid #16a34a; padding: 12px; border-radius: 0 3px 3px 0; }
+  .yield-row { display: grid; grid-template-columns: 1fr auto; padding: 4px 0; font-size: 12px; gap: 8px; }
+  .yield-row .y-label { color: #8a939f; }
+  .yield-row .y-val { color: #e6e6e6; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .yield-row.highlight .y-val { color: #16a34a; font-size: 15px; }
+  .empty { color: #6c7686; font-size: 12px; padding: 30px 0; text-align: center; }
+</style>
+</head>
+<body>
+<div id="app">
+  <div class="panel">
+    <h1>Investment Thesis</h1>
+    <div class="subtitle">Pick how you think. Map updates live.</div>
+
+    <h2 style="margin-top:0;">1. Strategy</h2>
+    <div class="strategy-grid">
+      <div class="strategy-card" data-strategy="ready">
+        <div class="strat-name">Infrastructure-Ready</div>
+        <div class="strat-desc">Pipes there. Quick deployment.</div>
+      </div>
+      <div class="strategy-card" data-strategy="growth">
+        <div class="strat-name">Growth Corridor</div>
+        <div class="strat-desc">People moving in. Long hold.</div>
+      </div>
+      <div class="strategy-card" data-strategy="contrarian">
+        <div class="strat-name">Contrarian</div>
+        <div class="strat-desc">Bet ahead of the curve.</div>
+      </div>
+      <div class="strategy-card active" data-strategy="balanced">
+        <div class="strat-name">Balanced</div>
+        <div class="strat-desc">Equal weight all factors.</div>
+      </div>
+    </div>
+
+    <h2>2. Risk tolerance</h2>
+    <div class="risk-pills">
+      <button class="risk-pill" data-risk="low">Low</button>
+      <button class="risk-pill active" data-risk="medium">Medium</button>
+      <button class="risk-pill" data-risk="high">High</button>
+    </div>
+
+    <h2>Data Sources</h2>
+    <div class="meta">
+      <b>POIs:</b> OpenStreetMap, refreshed weekly.<br>
+      <b>SEC filings:</b> EDGAR, scanned for retailer expansion mentions.<br>
+      <b>News:</b> RSS feeds from Nashville Business Journal, Nashville Post, Tennessean.<br>
+      <b>Parcels &amp; zoning:</b> Real Metro Nashville categories. Per-parcel assignments illustrative.
+      <br><br>
+      <b>Last updated:</b> <span id="lastUpdated">—</span>
+    </div>
+  </div>
+
+  <div style="position: relative;">
+    <div id="map"></div>
+
+    <div class="layer-control">
+      <div class="layer-control-title">Map Layers</div>
+      <label class="layer-row"><input type="checkbox" id="layerParcels" checked /><span class="layer-name">Parcels</span></label>
+      <label class="layer-row"><input type="checkbox" id="layerInfra" /><span class="layer-name"><span class="layer-swatch" style="background:#3b82f6"></span>Water/Sewer Service</span></label>
+      <label class="layer-row"><input type="checkbox" id="layerPOI" /><span class="layer-name"><span class="layer-swatch" style="background:#16a34a"></span>Live Amenities</span></label>
+      <label class="layer-row"><input type="checkbox" id="layerSignals" /><span class="layer-name"><span class="layer-swatch" style="background:#f87171"></span>This Week's Signals</span></label>
+    </div>
+
+    <div class="legend">
+      <div class="legend-title">Action by Tier</div>
+      <div class="legend-row"><div class="legend-bar" style="background:#16a34a"></div><div><div class="legend-tier" style="color:#16a34a">Strong<span class="legend-range">75+</span></div><div class="legend-action">Pursue now</div></div><div class="legend-count" id="cntStrong">0</div></div>
+      <div class="legend-row"><div class="legend-bar" style="background:#eab308"></div><div><div class="legend-tier" style="color:#eab308">Diligence<span class="legend-range">60–75</span></div><div class="legend-action">Shortlist</div></div><div class="legend-count" id="cntDil">0</div></div>
+      <div class="legend-row"><div class="legend-bar" style="background:#dc2626"></div><div><div class="legend-tier" style="color:#dc2626">Watch<span class="legend-range">40–60</span></div><div class="legend-action">Monitor</div></div><div class="legend-count" id="cntWatch">0</div></div>
+      <div class="legend-row"><div class="legend-bar" style="background:#6b7280"></div><div><div class="legend-tier" style="color:#6b7280">Pass<span class="legend-range">0–40</span></div><div class="legend-action">Skip</div></div><div class="legend-count" id="cntPass">0</div></div>
+    </div>
+
+    <div class="drawer collapsed" id="drawer">
+      <div class="drawer-header" id="drawerHeader">
+        <span class="toggle-icon" id="drawerToggle">▲ Expand list</span>
+        <span style="color:#8a939f;" id="drawerSummary">—</span>
+      </div>
+      <div class="drawer-table-wrap">
+        <table class="drawer-table" id="parcelsTable">
+          <thead><tr>
+            <th data-sort="name">Parcel</th>
+            <th data-sort="county">County</th>
+            <th data-sort="tier">Tier</th>
+            <th data-sort="score" class="active">Score ↓</th>
+            <th data-sort="acres">Acres</th>
+            <th data-sort="zone">Zone</th>
+            <th data-sort="units">Realistic Yield</th>
+          </tr></thead>
+          <tbody id="parcelsTableBody"></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel right">
+    <div class="tabs">
+      <div class="tab active" data-tab="signals">This Week</div>
+      <div class="tab" data-tab="detail">Parcel Detail</div>
+    </div>
+    <div class="tab-content active" id="tab-signals">
+      <div class="signal-meta" id="signalMeta">Loading signal feed…</div>
+      <div id="signalFeed"></div>
+    </div>
+    <div class="tab-content" id="tab-detail">
+      <div id="detail"><div class="empty">Click any parcel on the map to see scoring breakdown and live amenity data.</div></div>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+// __PARCELS_DATA__ — replaced at build time
+const parcels = window.PRELOADED_DATA?.parcels || [];
+
+const POI_CATEGORIES = [
+  { key:'grocery',     label:'Grocery',     color:'#16a34a', critical:true,  benchmark:3 },
+  { key:'hospital',    label:'Hospital',    color:'#dc2626', critical:true,  benchmark:1 },
+  { key:'clinic',      label:'Walk-in Clinic', color:'#ef4444', critical:true,  benchmark:2 },
+  { key:'pharmacy',    label:'Pharmacy',    color:'#f87171', critical:true,  benchmark:3 },
+  { key:'dentist',     label:'Dentist',     color:'#06b6d4', benchmark:2 },
+  { key:'cafe',        label:'Coffee',      color:'#92400e', benchmark:3 },
+  { key:'restaurant',  label:'Restaurant',  color:'#f97316', benchmark:5 },
+  { key:'fast_food',   label:'Fast Food',   color:'#fbbf24', benchmark:5 },
+  { key:'childcare',   label:'Childcare',   color:'#ec4899', critical:true,  benchmark:3 },
+  { key:'fuel',        label:'Gas Station', color:'#6b7280', benchmark:3 },
+  { key:'auto',        label:'Auto/Tire',   color:'#475569', benchmark:2 },
+  { key:'bank',        label:'Bank',        color:'#8b5cf6', benchmark:3 },
+  { key:'convenience', label:'Convenience', color:'#14b8a6', benchmark:3 }
+];
+
+const STRATEGIES = {
+  ready:      { w1:35, w2:30, w3:10, w4:10, w5:15 },
+  growth:     { w1:10, w2:15, w3:35, w4:30, w5:10 },
+  contrarian: { w1:5,  w2:25, w3:15, w4:15, w5:40 },
+  balanced:   { w1:20, w2:20, w3:20, w4:20, w5:20 }
+};
+const RISK_MAP = { low: 30, medium: 10, high: 2 };
+let weights = { ...STRATEGIES.balanced, w6: 10 };
+
+function colorFor(s) {
+  if (s >= 75) return '#16a34a';
+  if (s >= 60) return '#eab308';
+  if (s >= 40) return '#dc2626';
+  return '#6b7280';
+}
+function tierFor(s) {
+  if (s >= 75) return 'Strong Signal';
+  if (s >= 60) return 'Diligence';
+  if (s >= 40) return 'Watch';
+  return 'Pass';
+}
+function distMiles(lat1, lng1, lat2, lng2) {
+  const R = 3959, toRad = d => d * Math.PI / 180;
+  const dLat = toRad(lat2 - lat1), dLng = toRad(lng2 - lng1);
+  const a = Math.sin(dLat/2)**2 + Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLng/2)**2;
+  return 2 * R * Math.asin(Math.sqrt(a));
+}
+function computeAmenityGapFromReal(rings) {
+  const crit = POI_CATEGORIES.filter(c => c.critical);
+  let total = 0;
+  crit.forEach(c => {
+    const have = rings['3mi'][c.key] || 0;
+    total += Math.min(have / (c.benchmark || 1), 1);
+  });
+  return Math.round((1 - total / crit.length) * 100);
+}
+function computeNearbyAmenities(parcel, pois) {
+  const rings = { '1mi': {}, '3mi': {}, '5mi': {} };
+  POI_CATEGORIES.forEach(c => { rings['1mi'][c.key] = 0; rings['3mi'][c.key] = 0; rings['5mi'][c.key] = 0; });
+  pois.forEach(p => {
+    if (!p.category) return;
+    const d = distMiles(parcel.lat, parcel.lng, p.lat, p.lng);
+    if (d <= 5) rings['5mi'][p.category]++;
+    if (d <= 3) rings['3mi'][p.category]++;
+    if (d <= 1) rings['1mi'][p.category]++;
+  });
+  return rings;
+}
+function computeScore(p, w) {
+  const tot = w.w1 + w.w2 + w.w3 + w.w4 + w.w5;
+  if (!tot) return 0;
+  const pos = (p.water * w.w1 + p.permits * w.w2 + p.popGrowth * w.w3 + p.zoning * w.w4 + p.amenity * w.w5) / tot;
+  const pen = (p.risk * w.w6) / 100;
+  return Math.max(0, Math.min(100, pos - pen));
+}
+
+// Map setup
+const map = L.map('map').setView([36.10, -86.70], 9);
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+  attribution: '© OpenStreetMap, © CartoDB', maxZoom: 18
+}).addTo(map);
+map.createPane('infraPane');
+map.getPane('infraPane').style.zIndex = 350;
+map.createPane('amenityPane');
+map.getPane('amenityPane').style.zIndex = 360;
+
+let circles = [];
+let selected = null;
+const layers = {
+  parcels: { visible: true, group: null },
+  infra:   { visible: false, group: null },
+  poi:     { visible: false, group: null },
+  signals: { visible: false, group: null }
+};
+
+function render() {
+  circles.forEach(c => map.removeLayer(c));
+  circles = [];
+  const counts = { strong:0, dil:0, watch:0, pass:0 };
+  parcels.forEach(p => {
+    const score = computeScore(p, weights);
+    p._score = score;
+    if (score >= 75) counts.strong++;
+    else if (score >= 60) counts.dil++;
+    else if (score >= 40) counts.watch++;
+    else counts.pass++;
+    const c = L.circle([p.lat, p.lng], {
+      radius: 1500 + (p.acres * 80),
+      color: colorFor(score),
+      fillColor: colorFor(score),
+      fillOpacity: 0.45,
+      weight: 1.5
+    });
+    if (layers.parcels.visible) c.addTo(map);
+    c.on('click', () => showDetail(p));
+    c.bindTooltip(`${p.name}<br><b>${score.toFixed(0)}</b> · ${tierFor(score)}`);
+    circles.push(c);
+  });
+  document.getElementById('cntStrong').textContent = counts.strong;
+  document.getElementById('cntDil').textContent = counts.dil;
+  document.getElementById('cntWatch').textContent = counts.watch;
+  document.getElementById('cntPass').textContent = counts.pass;
+  renderTable();
+  if (selected) showDetail(selected);
+}
+
+function showDetail(p) {
+  selected = p;
+  document.querySelector('.tab[data-tab="detail"]').click();
+  const score = computeScore(p, weights);
+  const usableAcres = p.acres * (p.usablePct / 100);
+  const realistic = Math.round(usableAcres * p.maxDensity * 0.85);
+  let amenityHtml = '';
+  if (p.realAmenities) {
+    amenityHtml = `<h2>Live Amenities Within Range</h2>
+      <div style="background:#1a2530; border-left:2px solid #f59e0b; padding:10px; border-radius:0 3px 3px 0;">
+        <div style="display:grid; grid-template-columns:1fr 28px 28px 28px; gap:4px 8px; font-size:11px; align-items:center;">
+          <div style="color:#6c7686; font-size:9.5px; text-transform:uppercase;">Category</div>
+          <div style="color:#6c7686; font-size:9.5px; text-align:right;">1mi</div>
+          <div style="color:#6c7686; font-size:9.5px; text-align:right;">3mi</div>
+          <div style="color:#6c7686; font-size:9.5px; text-align:right;">5mi</div>
+          ${POI_CATEGORIES.map(c => `
+            <div><span style="display:inline-block; width:7px; height:7px; border-radius:50%; background:${c.color}; margin-right:5px;"></span>${c.label}</div>
+            <div style="text-align:right; ${p.realAmenities['1mi'][c.key]===0?'color:#6b7280':''}">${p.realAmenities['1mi'][c.key]}</div>
+            <div style="text-align:right; ${p.realAmenities['3mi'][c.key]===0?'color:#6b7280':''}">${p.realAmenities['3mi'][c.key]}</div>
+            <div style="text-align:right; ${p.realAmenities['5mi'][c.key]===0?'color:#6b7280':''}">${p.realAmenities['5mi'][c.key]}</div>
+          `).join('')}
+        </div>
+        <div style="font-size:9.5px; color:#6c7686; margin-top:8px; font-style:italic;">Source: OpenStreetMap (refreshed weekly).</div>
+      </div>`;
+  }
+  document.getElementById('detail').innerHTML = `
+    <div class="parcel-name">${p.name}</div>
+    <div class="parcel-loc">${p.county} County · ${p.acres} acres · ${p.currentUse || ''}</div>
+    <div class="score-big" style="color:${colorFor(score)}">${score.toFixed(0)}</div>
+    <div class="score-label" style="color:${colorFor(score)}">${tierFor(score)}</div>
+
+    <h2>Zoning &amp; Yield</h2>
+    <div class="yield-section">
+      <div class="yield-row"><div class="y-label">Zoning</div><div class="y-val">${p.zone}</div></div>
+      <div class="yield-row"><div class="y-label">Description</div><div class="y-val" style="font-weight:400; font-size:11px;">${p.zoneDesc}</div></div>
+      <div class="yield-row"><div class="y-label">Max density</div><div class="y-val">${p.maxDensity} DU/ac</div></div>
+      <div class="yield-row"><div class="y-label">Usable acres</div><div class="y-val">${usableAcres.toFixed(1)} (${p.usablePct}%)</div></div>
+      <div class="yield-row highlight"><div class="y-label" style="color:#c8cdd4;">Realistic yield</div><div class="y-val">${realistic} units</div></div>
+    </div>
+    ${amenityHtml}
+  `;
+}
+
+// Sortable table
+let sortColumn = 'score', sortDir = 'desc';
+function renderTable() {
+  let rows = parcels.map(p => ({
+    id: p.id, name: p.name, county: p.county,
+    tier: tierFor(p._score || 0),
+    score: Math.round(p._score || 0),
+    acres: p.acres, zone: p.zone,
+    units: Math.round(p.acres * (p.usablePct/100) * p.maxDensity * 0.85)
+  }));
+  rows.sort((a,b) => {
+    const av = a[sortColumn], bv = b[sortColumn];
+    const cmp = typeof av === 'number' ? av-bv : String(av).localeCompare(bv);
+    return sortDir === 'asc' ? cmp : -cmp;
+  });
+  const tbody = document.getElementById('parcelsTableBody');
+  tbody.innerHTML = rows.map(r => `
+    <tr data-id="${r.id}"${selected && selected.id === r.id ? ' class="selected"' : ''}>
+      <td>${r.name}</td><td>${r.county}</td>
+      <td><span class="tier-dot" style="background:${colorFor(r.score)}"></span>${r.tier}</td>
+      <td style="font-weight:700; color:${colorFor(r.score)}">${r.score}</td>
+      <td>${r.acres.toFixed(1)}</td><td>${r.zone}</td><td>${r.units}</td>
+    </tr>`).join('');
+  tbody.querySelectorAll('tr').forEach(tr => {
+    tr.addEventListener('click', () => {
+      const p = parcels.find(x => x.id === +tr.dataset.id);
+      if (p) { map.setView([p.lat, p.lng], 12); showDetail(p); renderTable(); }
+    });
+  });
+  document.getElementById('drawerSummary').textContent = `${rows.length} parcels`;
+}
+
+// Wire up controls
+document.querySelectorAll('.strategy-card').forEach(card => card.addEventListener('click', () => {
+  document.querySelectorAll('.strategy-card').forEach(c => c.classList.remove('active'));
+  card.classList.add('active');
+  weights = { ...STRATEGIES[card.dataset.strategy], w6: weights.w6 };
+  render();
+}));
+document.querySelectorAll('.risk-pill').forEach(pill => pill.addEventListener('click', () => {
+  document.querySelectorAll('.risk-pill').forEach(p => p.classList.remove('active'));
+  pill.classList.add('active');
+  weights.w6 = RISK_MAP[pill.dataset.risk];
+  render();
+}));
+document.querySelectorAll('#parcelsTable th').forEach(th => th.addEventListener('click', () => {
+  const col = th.dataset.sort;
+  if (sortColumn === col) sortDir = sortDir === 'asc' ? 'desc' : 'asc';
+  else { sortColumn = col; sortDir = ['name','county','zone','tier'].includes(col) ? 'asc' : 'desc'; }
+  document.querySelectorAll('#parcelsTable th').forEach(t => t.classList.toggle('active', t.dataset.sort === col));
+  renderTable();
+}));
+document.getElementById('drawerHeader').addEventListener('click', () => {
+  const d = document.getElementById('drawer');
+  const wasCollapsed = d.classList.contains('collapsed');
+  d.classList.toggle('collapsed', !wasCollapsed);
+  d.classList.toggle('expanded', wasCollapsed);
+  document.getElementById('drawerToggle').textContent = wasCollapsed ? '▼ Collapse' : '▲ Expand list';
+});
+document.querySelectorAll('.tab').forEach(t => t.addEventListener('click', () => {
+  document.querySelectorAll('.tab').forEach(x => x.classList.remove('active'));
+  document.querySelectorAll('.tab-content').forEach(x => x.classList.remove('active'));
+  t.classList.add('active');
+  document.getElementById('tab-' + t.dataset.tab).classList.add('active');
+}));
+
+// Layer toggles
+function toggleLayer(name, visible) {
+  layers[name].visible = visible;
+  if (name === 'parcels') {
+    if (visible) circles.forEach(c => c.addTo(map));
+    else circles.forEach(c => map.removeLayer(c));
+    return;
+  }
+  if (visible && !layers[name].group) layers[name].group = buildLayer(name);
+  if (visible) layers[name].group?.addTo(map);
+  else if (layers[name].group) map.removeLayer(layers[name].group);
+}
+function buildLayer(name) {
+  const g = L.layerGroup();
+  if (name === 'infra') {
+    (window.PRELOADED_DATA?.serviceAreas || []).forEach(a => {
+      const p = L.polygon(a.coords, { pane:'infraPane', color:'#3b82f6', weight:1, opacity:0.7, fillOpacity:0.15, dashArray:'4,3' });
+      p.bindTooltip(`<b>${a.name}</b><br>Water/sewer service area`, { sticky: true });
+      g.addLayer(p);
+    });
+  } else if (name === 'poi') {
+    (window.PRELOADED_DATA?.amenities?.pois || []).forEach(poi => {
+      const cat = POI_CATEGORIES.find(c => c.key === poi.category);
+      if (!cat) return;
+      const m = L.circleMarker([poi.lat, poi.lng], { pane:'amenityPane', radius:3, color:cat.color, fillColor:cat.color, fillOpacity:0.85, weight:0 });
+      m.bindTooltip(`<b>${poi.name || '(unnamed)'}</b><br>${cat.label}`, { sticky:true });
+      g.addLayer(m);
+    });
+  } else if (name === 'signals') {
+    (window.PRELOADED_DATA?.signals?.feed || []).filter(s => s.lat && s.lng).forEach(s => {
+      const m = L.circleMarker([s.lat, s.lng], { pane:'amenityPane', radius:8, color:'#f87171', fillColor:'#f87171', fillOpacity:0.7, weight:2 });
+      m.bindTooltip(`<b>${s.headline}</b><br>${s.detail}`, { sticky:true });
+      g.addLayer(m);
+    });
+  }
+  return g;
+}
+['Parcels','Infra','POI','Signals'].forEach(n => {
+  document.getElementById('layer' + n).addEventListener('change', e => toggleLayer(n.toLowerCase(), e.target.checked));
+});
+
+// Render signal feed
+function renderSignals() {
+  const sigs = window.PRELOADED_DATA?.signals;
+  const meta = document.getElementById('signalMeta');
+  const feed = document.getElementById('signalFeed');
+  if (!sigs) { meta.textContent = 'Signal feed unavailable.'; return; }
+  meta.innerHTML = `Computed ${new Date(sigs.computed_at).toLocaleString()}<br>
+    <b>${sigs.amenity_diff.added_count}</b> new POIs · <b>${sigs.sec_diff.new_filings_count}</b> SEC filings · <b>${sigs.news_diff.new_items_count}</b> news items`;
+  if (!sigs.feed?.length) { feed.innerHTML = '<div class="empty">No signals this week.</div>'; return; }
+  feed.innerHTML = sigs.feed.map(s => `
+    <div class="signal-item ${s.severity}">
+      <div class="sig-type">${s.type.replace('_',' ')}${s.source ? ' · ' + s.source : ''}</div>
+      <div class="sig-headline">${s.headline}</div>
+      ${s.detail ? `<div class="sig-detail">${s.detail}</div>` : ''}
+      ${s.url ? `<a href="${s.url}" target="_blank" rel="noopener">View source →</a>` : ''}
+    </div>
+  `).join('');
+}
+
+// Init
+async function init() {
+  // If data is preloaded (build-time injection), use it. Otherwise try fetching.
+  if (!window.PRELOADED_DATA) {
+    try {
+      const [parcelsR, amenitiesR, signalsR, infraR] = await Promise.all([
+        fetch('./data/parcels.json').then(r => r.json()).catch(() => null),
+        fetch('./data/amenities-latest.json').then(r => r.json()).catch(() => null),
+        fetch('./data/signals-latest.json').then(r => r.json()).catch(() => null),
+        fetch('./data/service-areas.json').then(r => r.json()).catch(() => null)
+      ]);
+      window.PRELOADED_DATA = {
+        parcels: parcelsR,
+        amenities: amenitiesR,
+        signals: signalsR,
+        serviceAreas: infraR
+      };
+      if (parcelsR) parcels.push(...parcelsR);
+    } catch (e) {
+      console.warn('Failed to load data files:', e);
+    }
+  }
+
+  // Update each parcel with realAmenities computed from POIs
+  if (window.PRELOADED_DATA?.amenities?.pois) {
+    parcels.forEach(p => {
+      p.realAmenities = computeNearbyAmenities(p, window.PRELOADED_DATA.amenities.pois);
+      p.amenity = computeAmenityGapFromReal(p.realAmenities);
+    });
+  }
+
+  // Set last-updated stamp
+  const ts = window.PRELOADED_DATA?.signals?.computed_at || window.PRELOADED_DATA?.amenities?.fetched_at;
+  document.getElementById('lastUpdated').textContent = ts ? new Date(ts).toLocaleString() : 'never';
+
+  render();
+  renderSignals();
+}
+
+init();
+</script>
+</body>
+</html>
