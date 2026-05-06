@@ -26,19 +26,24 @@ async function main() {
 
   const html = await fs.readFile(path.join(PUBLIC_DIR, 'prototype.html'), 'utf8');
   await fs.writeFile(path.join(DIST_DIR, 'index.html'), html);
-  console.log('  ✓ index.html');
+  console.log(' \u2713 index.html');
 
   const datasets = [
+    'parcels.json',
+    'service-areas.json',
     'amenities-latest.json',
     'signals-latest.json',
     'sec-latest.json',
     'news-latest.json'
   ];
+
   for (const f of datasets) {
     const data = await safeRead(path.join(DATA_DIR, f));
     if (data) {
       await fs.writeFile(path.join(DIST_DATA_DIR, f), JSON.stringify(data));
-      console.log(`  ✓ ${f}`);
+      console.log(` \u2713 ${f}`);
+    } else {
+      console.log(` \u2717 ${f} (missing)`);
     }
   }
 
