@@ -1,0 +1,511 @@
+{
+  "computed_at": "2026-05-11T18:23:58.575Z",
+  "amenity_diff": {
+    "added_count": 34,
+    "removed_count": 7,
+    "added_by_category": {
+      "restaurant": 11,
+      "clinic": 1,
+      "auto": 1,
+      "cafe": 5,
+      "fast_food": 10,
+      "fuel": 3,
+      "dentist": 1,
+      "convenience": 1,
+      "grocery": 1
+    },
+    "note": "Comparing amenities-2026-05-11.json vs amenities-2026-05-06.json"
+  },
+  "sec_diff": {
+    "new_filings_count": 0
+  },
+  "news_diff": {
+    "new_items_count": 23
+  },
+  "feed": [
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New clinic: Southern Joint Replacement Institute",
+      "detail": "1001 Health Park drive",
+      "lat": 36.0417,
+      "lng": -86.7717,
+      "category": "clinic",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New grocery: Whole Foods Market",
+      "detail": "1566 West McEwen Drive Franklin",
+      "lat": 35.9342186,
+      "lng": -86.8249673,
+      "category": "grocery",
+      "brand": "Whole Foods Market"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Mt. Juliet neighbors push back against proposed 69-lot housing development in growing Wilson County - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxON2R0bTJIdDBGVUVBRzNqZno0ZjNrVFJNeFMzVHRwT3VxaTZXSGFPcDNyZ2x5YjU3eC1uVE9IUDNWWW1mb3RZMndJcXNTbHdfX3pTZ2JwRk9EWE16bnhheXNrMC1CSWJjZEVJUzZTekNocnJuZm5uRmYxRTA4SWJBckNWQWtHUG12Q1c3MnAyS25vZEkzek9nbWszbVhhZGFjUFpubkdxWGh",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxON2R0bTJIdDBGVUVBRzNqZno0ZjNrVFJNeFMzVHRwT3VxaTZXSGFPcDNyZ2x5YjU3eC1uVE9IUDNWWW1mb3RZMndJcXNTbHdfX3pTZ2JwRk9EWE16bnhheXNrMC1CSWJjZEVJUzZTekNocnJuZm5uRmYxRTA4SWJBckNWQWtHUG12Q1c3MnAyS25vZEkzek9nbWszbVhhZGFjUFpubkdxWGh2dFAzbGdRVDFBa3owNjhpYzV5cVh0RzFfX1M4QmVtMUZVVERjNVZsaHVuc25pQXBGdGdJT21VS2JKMXNPTTExR3pIejhHM3ZZdjlO?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Why multi-million mansion communities are booming in Nashville's sprawling suburbs, from Brentwood to Mt. Juliet - The Tennessean",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOMFc2MXJJdi1Na1ZHbnF6alBkSTBsem11R3RvX0JydWtTMjczc041a1FrUnBzNXFaWi0wTVZocmN0U05oTXRCbGQtNzJPVmlac0VNM3hDT1oxX0ttSFFJMkhjYkJvVTVzN1dqd001TUhLXzA5NGp5RENKeS1YejNRLVFrbm9CMDRzSk5GMGU3ZThKTDFUeEpuMGlHdldfYnpxcV9ELUhHVUx",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMFc2MXJJdi1Na1ZHbnF6alBkSTBsem11R3RvX0JydWtTMjczc041a1FrUnBzNXFaWi0wTVZocmN0U05oTXRCbGQtNzJPVmlac0VNM3hDT1oxX0ttSFFJMkhjYkJvVTVzN1dqd001TUhLXzA5NGp5RENKeS1YejNRLVFrbm9CMDRzSk5GMGU3ZThKTDFUeEpuMGlHdldfYnpxcV9ELUhHVUxkX1J4?oc=5",
+      "source": "The Tennessean",
+      "pubDate": "Sun, 01 Dec 2024 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "The Community Foundation Of Middle Tennessee To Boast Nashville’s Newest 99% Mass Timber Development. - CITY NOW NEXT",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPMlJBanNQdk1DeEV1ZnpMTEMxejNwNGxJSUZnVFphT3AtZXpCbVAwZDJzTnFZVnotbTZaSXRwc09lcVFWTHg5aGpNNWwzQTlUZU9VcHoxeUIyTmhUOEx2ZDRUTWFQUWM5bzZGY2dlc0d4NUVTdjJiVjh5cmFjM2RLdFZMUUlZZWYtU081eXdtcjdzWEtDc0p1Wk5xWGE3QVZoUm1CSm5mNkR",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMlJBanNQdk1DeEV1ZnpMTEMxejNwNGxJSUZnVFphT3AtZXpCbVAwZDJzTnFZVnotbTZaSXRwc09lcVFWTHg5aGpNNWwzQTlUZU9VcHoxeUIyTmhUOEx2ZDRUTWFQUWM5bzZGY2dlc0d4NUVTdjJiVjh5cmFjM2RLdFZMUUlZZWYtU081eXdtcjdzWEtDc0p1Wk5xWGE3QVZoUm1CSm5mNkRyQmFFaHhqYVBqU2ZVQVJJRVE3Z2xxR3JnUEpCZGRYdnFEQWZ5bTQ?oc=5",
+      "source": "CITY NOW NEXT",
+      "pubDate": "Thu, 14 Jul 2022 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Crescent Communities celebrates groundbreaking of 277-unit apartment community in West Nashville - REJournals",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNDUwelpfOE5GRXRyMEJkZl9WY09PS200NlNVOVk5SXo3ZkkzbFdZNUtFeHlYU0FScnNYcFVvcUlDTjFQdW0ydWFtNTNyNjhTSFBkT0JGWEM4RnZKZ3IzZUtNMGhuS01pNjdpODJra2hJUGt3S0gyc2lnVzN3ODVrVkU1MWxjbDEzakVMQnk0aS1XOXYzWjR3YTR1OHlPWUZ4ZV9QV2JIa0l",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNDUwelpfOE5GRXRyMEJkZl9WY09PS200NlNVOVk5SXo3ZkkzbFdZNUtFeHlYU0FScnNYcFVvcUlDTjFQdW0ydWFtNTNyNjhTSFBkT0JGWEM4RnZKZ3IzZUtNMGhuS01pNjdpODJra2hJUGt3S0gyc2lnVzN3ODVrVkU1MWxjbDEzakVMQnk0aS1XOXYzWjR3YTR1OHlPWUZ4ZV9QV2JIa0lzNi1lTzhBd0tmZ2QyZUF2SmI1Xw?oc=5",
+      "source": "REJournals",
+      "pubDate": "Mon, 11 May 2026 14:50:43 GMT"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Demos'",
+      "detail": "36.1885, -86.2935",
+      "lat": 36.1885216,
+      "lng": -86.2935089,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New auto: CWRAPS - Ceramic Pro Elite Dealer",
+      "detail": "955 Commerce Street Clarksville",
+      "lat": 36.5286938,
+      "lng": -87.3466382,
+      "category": "auto",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New cafe: Black Rifle Coffee Company",
+      "detail": "36.5793, -87.3003",
+      "lat": 36.5792745,
+      "lng": -87.3002573,
+      "category": "cafe",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Arby's",
+      "detail": "1631 Fort Campbell Boulevard",
+      "lat": 36.5771032,
+      "lng": -87.4080694,
+      "category": "fast_food",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New cafe: Out of Mana",
+      "detail": "1891 Fort Campbell Boulevard",
+      "lat": 36.589156,
+      "lng": -87.4137706,
+      "category": "cafe",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New cafe: The Well Coffeehouse",
+      "detail": "690 Suite 104 Old Hickory Boulevard",
+      "lat": 36.0407897,
+      "lng": -86.7687757,
+      "category": "cafe",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Chipotle",
+      "detail": "36.5859, -87.4136",
+      "lat": 36.5858938,
+      "lng": -87.4136453,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Whataburger",
+      "detail": "36.5854, -87.4132",
+      "lat": 36.5854074,
+      "lng": -87.4131878,
+      "category": "fast_food",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fuel: Aircraft Fuel Farm",
+      "detail": "35.8759, -86.3798",
+      "lat": 35.8758565,
+      "lng": -86.3797548,
+      "category": "fuel",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Firebirds Wood Fired Grill",
+      "detail": "35.8603, -86.4415",
+      "lat": 35.8602656,
+      "lng": -86.4414631,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: In-N-Out Burger",
+      "detail": "35.8598, -86.4409",
+      "lat": 35.8598344,
+      "lng": -86.4408757,
+      "category": "fast_food",
+      "brand": "In-N-Out Burger"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Raising Canes's Chicken Fingers",
+      "detail": "35.8593, -86.4402",
+      "lat": 35.8592547,
+      "lng": -86.4402097,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Drake's",
+      "detail": "35.8612, -86.4411",
+      "lat": 35.8612079,
+      "lng": -86.4410637,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Neighbors Murfreesboro",
+      "detail": "35.8609, -86.4411",
+      "lat": 35.8609071,
+      "lng": -86.4411216,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Buona",
+      "detail": "35.8636, -86.4434",
+      "lat": 35.8635902,
+      "lng": -86.4433865,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Taziki's Mediterranean Cafe",
+      "detail": "230 11th Avenue South Nashville",
+      "lat": 36.153932,
+      "lng": -86.7840878,
+      "category": "fast_food",
+      "brand": "Taziki's Mediterranean Cafe"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Popup Bagels - Nashville Gulch",
+      "detail": "226 11th Avenue South Nashville",
+      "lat": 36.1540762,
+      "lng": -86.7841962,
+      "category": "fast_food",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New dentist: Gulch Dental Studio",
+      "detail": "224 11th Avenue South Nashville",
+      "lat": 36.1541499,
+      "lng": -86.7842492,
+      "category": "dentist",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Vui's Juice Cafe - The Gulch",
+      "detail": "222 11th Avenue South Nashville",
+      "lat": 36.1542268,
+      "lng": -86.7842994,
+      "category": "fast_food",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Potbelly",
+      "detail": "220 11th Avenue South Nashville",
+      "lat": 36.1543293,
+      "lng": -86.7843616,
+      "category": "fast_food",
+      "brand": "Potbelly"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Milk & Honey Nashville",
+      "detail": "214 11th Avenue South Nashville",
+      "lat": 36.1545739,
+      "lng": -86.7846367,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New convenience: Sudden Service",
+      "detail": "36.1886, -86.4103",
+      "lat": 36.1886141,
+      "lng": -86.4102631,
+      "category": "convenience",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fuel: Speedway",
+      "detail": "36.0686, -86.4328",
+      "lat": 36.0685857,
+      "lng": -86.4327963,
+      "category": "fuel",
+      "brand": "Speedway"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fuel: 7-Eleven",
+      "detail": "36.0687, -86.4341",
+      "lat": 36.0687329,
+      "lng": -86.4341202,
+      "category": "fuel",
+      "brand": "7-Eleven"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Marco's Pizza",
+      "detail": "35.9297, -86.8247",
+      "lat": 35.9296658,
+      "lng": -86.8247416,
+      "category": "fast_food",
+      "brand": "Marco's Pizza"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Oscar's Taco Shop",
+      "detail": "35.9296, -86.8248",
+      "lat": 35.9295927,
+      "lng": -86.8247734,
+      "category": "fast_food",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Chipotle",
+      "detail": "36.1328, -86.8945",
+      "lat": 36.1328141,
+      "lng": -86.8944777,
+      "category": "fast_food",
+      "brand": "Chipotle"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New cafe: Starbucks",
+      "detail": "36.1329, -86.8943",
+      "lat": 36.1328921,
+      "lng": -86.8942577,
+      "category": "cafe",
+      "brand": "Starbucks"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Tequilas Mexican Restaurant",
+      "detail": "36.1415, -86.8821",
+      "lat": 36.1415,
+      "lng": -86.8820891,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New cafe: Crema Coffee Roasters - Brentwood",
+      "detail": "330 Franklin Road Brentwood",
+      "lat": 36.0263878,
+      "lng": -86.7895671,
+      "category": "cafe",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Hogwood BBQ",
+      "detail": "600a Frazier Drive Franklin",
+      "lat": 35.9454967,
+      "lng": -86.8212735,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Cledis Burger - Bellevue",
+      "detail": "7648 Memphis-Bristol Highway Nashville",
+      "lat": 36.08018,
+      "lng": -86.9530938,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Detours expected in Mt. Juliet amid Old Lebanon Dirt Road improvement projects - WKRN News 2",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDdreVpXdEEzTVM2Z2xGZzA2U1FnVktWZk1XeHJfN3c3OF9Vb0ZwNU9TdTE3VWtnMnNXcXRDcHgzaHo5QmhNVi0tVVVhZVZacWtCNWJmOVU3eFF3bnhLd1Yyd1EzZ09ucHMxejJQR3l5M1NXdWlrWjdUYVRmb3QwZFEtbldPLXoyWjlXbXBzeG5ES2FrVW5BZkNGYVhmbXV5R1JUdERNakV",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDdreVpXdEEzTVM2Z2xGZzA2U1FnVktWZk1XeHJfN3c3OF9Vb0ZwNU9TdTE3VWtnMnNXcXRDcHgzaHo5QmhNVi0tVVVhZVZacWtCNWJmOVU3eFF3bnhLd1Yyd1EzZ09ucHMxejJQR3l5M1NXdWlrWjdUYVRmb3QwZFEtbldPLXoyWjlXbXBzeG5ES2FrVW5BZkNGYVhmbXV5R1JUdERNakVtV0VNbklTVnEzYTMyZ9IBuwFBVV95cUxNVDhqaENuY25zSG9vRVpBZFl0RzhuWFFBLWoyNmRTNlZObUxRb1J6UTdFU0wwQVN4WnYwVGFwbGdud1BfR2piSjJaTUZkUDloaXYwazNYRldhcU5ZNWNydjczMXNVZ2NGZi1kYThwdXlkQWNnb1pDMjNiSFU0MHRoUVY4dDJuMlZkSENJRGd0X3ZjaHZmYjJnaGc2X3hUeWV2TEMwZnhwb2o0WHd0ZE9hcEhRZXlOcjdSZmQ0?oc=5",
+      "source": "WKRN News 2",
+      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Groundbreaking for the MNPD's Southeast Precinct is Wednesday at 10 a.m. - Nashville.gov",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTldqZUFGd3dYVl8xN0dOUktqMklNWXdVR3ViMHZiWFBRZ2M0VUFjMjE4NmJjbDdYc2ZQNXJqYnB1RVd6NUJxVm1tWWdGVEM1SmxZYk14WENBTXFOSkViUDJOeWp6MU1TWkNhMW1hYUkxeEhpV2tHZWJSQ2ZSSzFkZ01kOHFqY3hOeGpxalRlZUd3ZnpFeVcwczhpeHEwX1p4S2NWS0tvVXE",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTldqZUFGd3dYVl8xN0dOUktqMklNWXdVR3ViMHZiWFBRZ2M0VUFjMjE4NmJjbDdYc2ZQNXJqYnB1RVd6NUJxVm1tWWdGVEM1SmxZYk14WENBTXFOSkViUDJOeWp6MU1TWkNhMW1hYUkxeEhpV2tHZWJSQ2ZSSzFkZ01kOHFqY3hOeGpxalRlZUd3ZnpFeVcwczhpeHEwX1p4S2NWS0tvVXE?oc=5",
+      "source": "Nashville.gov",
+      "pubDate": "Tue, 30 May 2023 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Nashville group acquires East End apartment complex - Louisville Business First - The Business Journals",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWWYyZWY2LUE2Ty1yVGNQMnVGUDBfaUNUaEVxNVdKakl2Q1FFU2VaUEU4bEZ0MjVZNzI4bzJuVUxpcF9Bb2RMd05iWG9yNzNUM25scERyMzdpcXZaZmFzckpoTFpsVXhfY3dMRDVVTHJSX2dkVVl2cVk0U2R6Z0JpcVV6ckRqMGQ3QVU2U0hUX2JtNUgxWXFiUUFOZkZFdlZEWGNPUlVn?oc",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWWYyZWY2LUE2Ty1yVGNQMnVGUDBfaUNUaEVxNVdKakl2Q1FFU2VaUEU4bEZ0MjVZNzI4bzJuVUxpcF9Bb2RMd05iWG9yNzNUM25scERyMzdpcXZaZmFzckpoTFpsVXhfY3dMRDVVTHJSX2dkVVl2cVk0U2R6Z0JpcVV6ckRqMGQ3QVU2U0hUX2JtNUgxWXFiUUFOZkZFdlZEWGNPUlVn?oc=5",
+      "source": "The Business Journals",
+      "pubDate": "Thu, 30 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Nashville's \"Thrivence\" Selected by City Council to Lead Murfreesboro Planning Department Efficiency Study - WGNS Radio",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS1B4TDY3VVhvcHc1cDJCOXd0Uk90WWIwQWp0cE0yQTNrWnZJajVaX2Y3eVg4ejYwbkxoNXhKUkl4ck55UkVVRVpveUMwMmdrU202MkpQYmJHMVdvWENyRFJ1VHE1OEtzX3hOWktxUlEwRkQ0YjVIaHdNM084OGxnUjg2M3B6WEdXS21pdUZmMEd6RE5fMjI5TWczR0RoVHh6WTFHQW9LaDB",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS1B4TDY3VVhvcHc1cDJCOXd0Uk90WWIwQWp0cE0yQTNrWnZJajVaX2Y3eVg4ejYwbkxoNXhKUkl4ck55UkVVRVpveUMwMmdrU202MkpQYmJHMVdvWENyRFJ1VHE1OEtzX3hOWktxUlEwRkQ0YjVIaHdNM084OGxnUjg2M3B6WEdXS21pdUZmMEd6RE5fMjI5TWczR0RoVHh6WTFHQW9LaDBKRTU4UDJzUVQ1cUp1OUh4Zlc5eHN6MlJacUQyRFJfX042RUZ2bUJ4a096SDhRdzJyM2PSAeABQVVfeXFMT3Fpcl9NWnMzMi1CN0lqRDhySzlVYmdKTzEzb296OURFS1UzWE9WUm41Q0RnWm5HaTZEdmcxVnk3Z0pxbjgzcEtYb1cyN2RtbkpkOTB0Vm12S3AtTWhjTmhldURZSlpTWUxLMXI0clhaMTlzNnc3aXFIQkQ4dXZMS2p4ZHIzOExzRGhxMjFsS05OYTVGbzFLOVdVdC1TbmFVQlBycjVtdzgwS3dpZi1xNkJjOGtVbGhyTW5DVGdLUENaU0VPMkhUODlxYzBYb3JZTFg5R0hpNGhxdklrNzhaeG8?oc=5",
+      "source": "WGNS Radio",
+      "pubDate": "Thu, 23 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Oracle's Nashville headquarters project moves closer to groundbreaking after years of delays - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZmhMTEI3UjEzS05nMWh2eEt4T3dCZUtzajM3bGNWcFhLVDJQVFR1NWg3WGdNdm51Z0VISVRTMXZIdnY4Tm9KSHRtSm5NcGs3bUhzYlRZa05pMlVyU3BPRGJvVUloV29DcUM0RDhZMFhuVWlCTnIyZGcydGNGcm9fcG42RnFzTXk3OTg2OUEzRWtLTGVCYmZJeUwyb0xpNDVRV25FdzZWRWZ",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZmhMTEI3UjEzS05nMWh2eEt4T3dCZUtzajM3bGNWcFhLVDJQVFR1NWg3WGdNdm51Z0VISVRTMXZIdnY4Tm9KSHRtSm5NcGs3bUhzYlRZa05pMlVyU3BPRGJvVUloV29DcUM0RDhZMFhuVWlCTnIyZGcydGNGcm9fcG42RnFzTXk3OTg2OUEzRWtLTGVCYmZJeUwyb0xpNDVRV25FdzZWRWZ2T21ueUVrNnZSZjJVeVVfR05yR3ZBZ0EwVXM?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Utility giant buys $65 million in Nashville real estate, including prime Germantown site - The Business Journals",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbnIzN0UtelNYdGFZQ2hHUmMzVXo2bldhcWNmQnd1MUVZZzg0bWlxRnRNYVJDbTQxM2RBdmJGRkJaNmh1VmxWbFN2akVia2dFNkJYVzY2TlJBS2hsRUJxdl9TRVpzUnFLX2xuR2FiRmlXd0l4WkExNnpYVlZONHltOHFRNDBQTFpSV0k0RnRMb1ZINlNUZ1UxOThSYl9IWmV4V0NqYmMxMkN",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbnIzN0UtelNYdGFZQ2hHUmMzVXo2bldhcWNmQnd1MUVZZzg0bWlxRnRNYVJDbTQxM2RBdmJGRkJaNmh1VmxWbFN2akVia2dFNkJYVzY2TlJBS2hsRUJxdl9TRVpzUnFLX2xuR2FiRmlXd0l4WkExNnpYVlZONHltOHFRNDBQTFpSV0k0RnRMb1ZINlNUZ1UxOThSYl9IWmV4V0NqYmMxMkNXQQ?oc=5",
+      "source": "The Business Journals",
+      "pubDate": "Thu, 09 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Metro leaders celebrate groundbreaking at Nashville Youth Campus for Empowerment - WKRN News 2",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQZUVuckVoVlk0SkRDVXZCWnM1bUlMQ1l3R3VPUHdBYlpiT2t2YjRtMlpZSnpITmJZQ1Y4cnBuNFpqU2hneloyTlc0dDFHRDVJOHB5VEZlTExTRWNJV090ZGp3aHlpVmw4aFFudmV2YVY3QnNzdzFuemZnVXVCbVoyY3d3X3hUWkZ3RF9UUy1QbzVvZkU0SkVWMFdoZTNjUlhvek0xWVFGY0F",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZUVuckVoVlk0SkRDVXZCWnM1bUlMQ1l3R3VPUHdBYlpiT2t2YjRtMlpZSnpITmJZQ1Y4cnBuNFpqU2hneloyTlc0dDFHRDVJOHB5VEZlTExTRWNJV090ZGp3aHlpVmw4aFFudmV2YVY3QnNzdzFuemZnVXVCbVoyY3d3X3hUWkZ3RF9UUy1QbzVvZkU0SkVWMFdoZTNjUlhvek0xWVFGY0FkaWFNYmlzeUtfOXhXRW4yeXZ3RXdrSE5OSUZLSXZZ0gHMAUFVX3lxTE0xeGN6LS1zdWpQYnZibkpoMGlyLWh0cnMza3JfV0dnRkp1dFNZWFZ0dDFkMGwyLTY5TTlDbmVGUDhVY0loLVRsZk5laFZpT0JDby11N2t4R1ZHcEFjXzJwYnY5RlpickpPQ3VLREtEbkNJR1JLcS1wRWpFTmlQOXdLeEF4dFAzS1ZqRS1VVEROMm9LQXlVUk0wSTFqWC1EYTdlLW91QXlYZ2M5MWx3blNsa0lkZXF4Q2tOZFNrUVJ1RTNpeThRb3kzNTJ2TA?oc=5",
+      "source": "WKRN News 2",
+      "pubDate": "Thu, 08 Aug 2024 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Crescent, Stockbridge Capital Break Ground on 277-Unit Apartment Development in West Nashville - REBusinessOnline",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa01PbURZclZYUXQ0bE10MFgwV1JwLU43b19XMDRnQ0IyRVk1NUpEMWZRUFBGc0ZveXJHQ1JZOUVCWnZabWtTNVpodlhwZ19QLXdpRi1JeDU1VUFmSTlCWDRFb2tJRXhmM1VqamVpN3RBRGVnT1IzZEVqanpwQ1Y1eFdwMm8tclhxQXJvRUJ4MVhuVzU2RF95U3JOMEU2VmRrbVN1VVpOMlB",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa01PbURZclZYUXQ0bE10MFgwV1JwLU43b19XMDRnQ0IyRVk1NUpEMWZRUFBGc0ZveXJHQ1JZOUVCWnZabWtTNVpodlhwZ19QLXdpRi1JeDU1VUFmSTlCWDRFb2tJRXhmM1VqamVpN3RBRGVnT1IzZEVqanpwQ1Y1eFdwMm8tclhxQXJvRUJ4MVhuVzU2RF95U3JOMEU2VmRrbVN1VVpOMlBEWXIxOXJ3TVR2dlR2b0paenA4MG9KVHU?oc=5",
+      "source": "REBusinessOnline",
+      "pubDate": "Thu, 07 May 2026 14:17:41 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Senior living community development plan approved by Franklin Planning Commission - Williamson Herald",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxOU05MU0xJZHNJS3NCVHY4YmlaOGxlSENObGxQYzZIa1lqdDVscm5xeWlSemJ0bXdmRDRjMFUtSWlpZU13eXBmT2lCMW41VG5KR1Jtd1dGa3luUXdzVXJpVThXSVh1V0NZVjJkRVRiSGtjRkhmdlFGejA0RmJlVTllNjdjaGtxZU1TempQdVJhQ0dtdHNjZHE2bVJBa0pBcXZrZUlwOTBLdFB",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOU05MU0xJZHNJS3NCVHY4YmlaOGxlSENObGxQYzZIa1lqdDVscm5xeWlSemJ0bXdmRDRjMFUtSWlpZU13eXBmT2lCMW41VG5KR1Jtd1dGa3luUXdzVXJpVThXSVh1V0NZVjJkRVRiSGtjRkhmdlFGejA0RmJlVTllNjdjaGtxZU1TempQdVJhQ0dtdHNjZHE2bVJBa0pBcXZrZUlwOTBLdFBEamh0NThjZFlUR3paQ0hBbVhyRzh0TjUwVnBDQWNlYkc4eTlxTE9Pek1xVko5RG1MamMtdm9OZE5LSUF0UmplT1pJU1BRejlxelBQX1M2OEVVbHVKR2VjOHo1MndDU1AwYnRf?oc=5",
+      "source": "Williamson Herald",
+      "pubDate": "Thu, 06 Mar 2025 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Byrna Expands Retail Footprint with Nashville Store Opening - GlobeNewswire",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOTWZuVW9YYkFDcEdwLVZBS29IQWxQdThZdkw5aVpqcHpRQ2xoZjA1eXNET3lFOG1iUjNXQVNGRXozeXZwc0xabUR4bEcwLTZBR21CdmhBQ2dXSWVzd2NsR1NKQWh0YTBadW50MGhpN0RQemNZeXdzR1J5ejFmaFlDQjZGeWptMnZ6RVNKTVc0V3k2S04zYTVOUGxnNlNPZ2d6cmhCNGJudU4",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTWZuVW9YYkFDcEdwLVZBS29IQWxQdThZdkw5aVpqcHpRQ2xoZjA1eXNET3lFOG1iUjNXQVNGRXozeXZwc0xabUR4bEcwLTZBR21CdmhBQ2dXSWVzd2NsR1NKQWh0YTBadW50MGhpN0RQemNZeXdzR1J5ejFmaFlDQjZGeWptMnZ6RVNKTVc0V3k2S04zYTVOUGxnNlNPZ2d6cmhCNGJudU45Qm1zdWsxSGh1VWt4YlpBdC1fLU5TU1JUOVpOZVNEUG1PQQ?oc=5",
+      "source": "GlobeNewswire",
+      "pubDate": "Thu, 06 Feb 2025 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Spring Hill aldermen weigh in on Crossings mixed-use development in northern Maury County - columbiadailyherald.com",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNclRkTlJJM3JkaWNwcy1mZzVGV0pBangtNmxQTVE2c2hha3JVdEozR21aQXhuUnpKM2QtTUp4TGx4WmNxVmxaeVNFTXJNZWRiaURPMVdHeWp6UUNOTkc3MXJhNTFCbjhQMm1penUzbGZzMWhoOUVaaTFjRmRjSWNOd2hNSXc3ZEtGNmVVaHdHYWdKWlhVT1daVVpTSVR2a294TktrdUwtRHF",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNclRkTlJJM3JkaWNwcy1mZzVGV0pBangtNmxQTVE2c2hha3JVdEozR21aQXhuUnpKM2QtTUp4TGx4WmNxVmxaeVNFTXJNZWRiaURPMVdHeWp6UUNOTkc3MXJhNTFCbjhQMm1penUzbGZzMWhoOUVaaTFjRmRjSWNOd2hNSXc3ZEtGNmVVaHdHYWdKWlhVT1daVVpTSVR2a294TktrdUwtRHFNU1RpNmE5ZVlKck9ta0tDVlVXUQ?oc=5",
+      "source": "columbiadailyherald.com",
+      "pubDate": "Thu, 05 Jan 2023 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Future TruGreen headquarters in Franklin approved for $1M state grant - Nashville Post",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVXVJUTV3ZmI0ZXlyRWJCSElwTHZ0VHJLOWVkM0UtTmY1M2VFMU1PZWdVX0NiYjZMczdzRFI2Skt2cUhrcGJsWjVVTmNGakJORnFDbFdBSk93WS1McjZOdVFqTkpJQTI2T19hQjA1ZG1XU3U4Rzd2TlNCSFdSUXBSemItSk9SZFFibFRKQmdTVURBTlFkSjFMVWNEVGgzclZ6WWJiemR2TDh",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVXVJUTV3ZmI0ZXlyRWJCSElwTHZ0VHJLOWVkM0UtTmY1M2VFMU1PZWdVX0NiYjZMczdzRFI2Skt2cUhrcGJsWjVVTmNGakJORnFDbFdBSk93WS1McjZOdVFqTkpJQTI2T19hQjA1ZG1XU3U4Rzd2TlNCSFdSUXBSemItSk9SZFFibFRKQmdTVURBTlFkSjFMVWNEVGgzclZ6WWJiemR2TDhXVWVkemEtWXAxLVd0eXl0NzhBSTlZeFM1S3NrQ09ZSXV5bElMbXVPakNfVnZpYVEwaDlnYUR4UExPX1JTWkItVzhnT3Ayb29yMDhXQmlYN01Fc0Zldw?oc=5",
+      "source": "Nashville Post",
+      "pubDate": "Thu, 05 Dec 2024 08:00:00 GMT"
+    }
+  ]
+}
