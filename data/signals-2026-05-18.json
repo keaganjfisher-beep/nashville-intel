@@ -1,0 +1,279 @@
+{
+  "computed_at": "2026-05-18T18:23:11.670Z",
+  "amenity_diff": {
+    "added_count": 5,
+    "removed_count": 2,
+    "added_by_category": {
+      "auto": 1,
+      "restaurant": 2,
+      "cafe": 1,
+      "grocery": 1
+    },
+    "note": "Comparing amenities-2026-05-18.json vs amenities-2026-05-11.json"
+  },
+  "sec_diff": {
+    "new_filings_count": 0
+  },
+  "news_diff": {
+    "new_items_count": 23
+  },
+  "feed": [
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New grocery: Aldi",
+      "detail": "4917 Main Street Spring Hill",
+      "lat": 35.7764105,
+      "lng": -86.9176223,
+      "category": "grocery",
+      "brand": "Aldi"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Site, groundbreaking date announced for Williamson County mixed-use project | Development - Nashville Post",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxOYXJtb19iVG4yOUJJaXh4OEtGODZ2Z004R2dNMDFkRjU2Y0lpb3RWWU5WdEJNWDZFYnVIckkydExFUGkyQU9zbWNOMlYxOFh0UFRELXJaemJBb0EtYV83OWVnVWJOa2xjbEFtNkVyM2gtdVBVYjN4SGtyQVFNdkF2ZVJJV3gyb2VGUHE4N28zcFJmcVFSRjlLczBuaW5yMzRlQ05XREFUUHJ",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOYXJtb19iVG4yOUJJaXh4OEtGODZ2Z004R2dNMDFkRjU2Y0lpb3RWWU5WdEJNWDZFYnVIckkydExFUGkyQU9zbWNOMlYxOFh0UFRELXJaemJBb0EtYV83OWVnVWJOa2xjbEFtNkVyM2gtdVBVYjN4SGtyQVFNdkF2ZVJJV3gyb2VGUHE4N28zcFJmcVFSRjlLczBuaW5yMzRlQ05XREFUUHJ0WmVWMF94Ni16dEotUWdsWVRvbmVHTFJ2NTlfN1ZESEI1cDNTRkJfM2RIVlI2VWJaRmFmcHNZaE10eUJLNFBvWVlJVzg0dk9hVU1SaTNvNWxYM0hRbG5WSUgxWkFB?oc=5",
+      "source": "Nashville Post",
+      "pubDate": "Wed, 29 Jan 2025 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Middle Tenn. Electric warning of impersonator scam in Mt. Juliet and Lebanon areas - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxORV9rZmpkOGhTWklUbEdJSmNRdnhCQ0wyS2FDT1pQbGRHYXJQOWRubkJiLWVENlU1MElzbGZtWTdhNWJwQXNwUmNVdVplMHZISDE1a2tJZnEwVEVrSzdoTjNRWEFCSm9abWlHWU5jQTBiV0l0VFZLRjBVdHpmeHlZLXVoa3kwYk5wdlNXaW5KdUNUWGw2aThBdy1FTnBDUWdRR3JHWklSY0h",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORV9rZmpkOGhTWklUbEdJSmNRdnhCQ0wyS2FDT1pQbGRHYXJQOWRubkJiLWVENlU1MElzbGZtWTdhNWJwQXNwUmNVdVplMHZISDE1a2tJZnEwVEVrSzdoTjNRWEFCSm9abWlHWU5jQTBiV0l0VFZLRjBVdHpmeHlZLXVoa3kwYk5wdlNXaW5KdUNUWGw2aThBdy1FTnBDUWdRR3JHWklSY0hEUlo1SDd4amhsa3hCbG81bFhrMF85VWM0STF2TlhrQXhTMnF2dGtIbTh6c1M4bWxfdXF0?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Mt. Juliet groundbreaking for new development, Golden Bear Place - WKRN News 2",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNNUp0WTV1UGtlQ01SemNKTGpJeVRmQkt0Yk9TY1JiNXNrY01KRDQ3UzByQndUZ252MERfMlhOMk9Bckd5dUF3Ylp6bWRDVWd0TGx5VG5tbTlxWDkzZHdkYTgtNW54TC1zSDRGd2RVQjdxbGU2YnlEdmVWbDJwb3l2bW14WDFHX0RPZWfSAY8BQVVfeXFMT0EzTklNOENxbTdhSzdITWppZUE",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNUp0WTV1UGtlQ01SemNKTGpJeVRmQkt0Yk9TY1JiNXNrY01KRDQ3UzByQndUZ252MERfMlhOMk9Bckd5dUF3Ylp6bWRDVWd0TGx5VG5tbTlxWDkzZHdkYTgtNW54TC1zSDRGd2RVQjdxbGU2YnlEdmVWbDJwb3l2bW14WDFHX0RPZWfSAY8BQVVfeXFMT0EzTklNOENxbTdhSzdITWppZUE5Ymp1RktOeExXcGprcFhRT09JMGk3VFVwdFp2OV83ZGJLSXVMWXRSU3M2R0REWU9kSmVyTlk3MTh0ak5Jd01fOGxPdHhSXzVqeWxSOExjUDlOTGxzSHlkdkFwVEVINC0zVEo0Z2VKVE5Da243a19sVXhtd1U?oc=5",
+      "source": "WKRN News 2",
+      "pubDate": "Tue, 10 Sep 2024 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Nashville SC breaks ground on 15-acre training complex in Antioch; to be complete by end of 2022 - The Tennessean",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeVhmdnFXSDJUOUN1S1ZqWGpLUWRudlpTcmlGZEdqSXAzZk1BOGhERmhvZ3hZbFRqQTBSdF9UNDUwcHhsRzdKTld1MDBsWE9UNkFmUTA2aTY3RW5hVlJIaEkzQzRKR2stakJPaG4xSk1CTXUweHdIM2YzR1ZqbkMwM1NYYWctM1RRRnFEMlItRndhcFBpakpCM3gzUkgtT3ozb19hSHdSRGE",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeVhmdnFXSDJUOUN1S1ZqWGpLUWRudlpTcmlGZEdqSXAzZk1BOGhERmhvZ3hZbFRqQTBSdF9UNDUwcHhsRzdKTld1MDBsWE9UNkFmUTA2aTY3RW5hVlJIaEkzQzRKR2stakJPaG4xSk1CTXUweHdIM2YzR1ZqbkMwM1NYYWctM1RRRnFEMlItRndhcFBpakpCM3gzUkgtT3ozb19hSHdSRGE1bzRmMzB2aDRVUllhOV9qZzRlOXpUWmt3MzRMSDFjWkotRzBUU1ZrOHNhZl9nMUM?oc=5",
+      "source": "The Tennessean",
+      "pubDate": "Tue, 05 Oct 2021 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Nashville State holds groundbreaking for expansion and renovation of Clarksville campus - clarksvillenow.com",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNUG40NnZHbzFZd2UyR0UwNndpbE5yLW5DMllWZUNibjg0M3o1eWpxYnBVaXpGNGRadXNlVnpRcjFqdjM4My11dDBia2w5UWNIOUhzVlBVWHI0VDJyMXlmM3BmWm00Z1JhTE02NTBwOXlUSFFxYU1PVmROdWtLY0VnT1BJYU0tU2REZDZaMXNTVFVqbDBlbDJncEVwakhvTDJOeFoyWWJLQkZ",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUG40NnZHbzFZd2UyR0UwNndpbE5yLW5DMllWZUNibjg0M3o1eWpxYnBVaXpGNGRadXNlVnpRcjFqdjM4My11dDBia2w5UWNIOUhzVlBVWHI0VDJyMXlmM3BmWm00Z1JhTE02NTBwOXlUSFFxYU1PVmROdWtLY0VnT1BJYU0tU2REZDZaMXNTVFVqbDBlbDJncEVwakhvTDJOeFoyWWJLQkZCNDVkQUtfSmNVWVhqUXNvaDVud3F3?oc=5",
+      "source": "clarksvillenow.com",
+      "pubDate": "Thu, 16 May 2024 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Groundbreaking Ceremony for Senior Workforce Housing Development in North Nashville - The Tennessee Tribune",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDRKUU00QmVJM3N1dU56N2YtRVR4ckx1ZDJzS2VnME5ycVQxUEFhZWNpQ201UWdLREYxelNiZEhPWHI4cjgxLWVZS0t5ampEQmJHbFh0a3FscTNlbElGMm5yN2FmTGwzMjBmdGRoUzBXUF9xeEtKbjJkUTVsNXdmeHFlNVp1SWxNaFRIaGNqR2d1eEZIYzAwcG1vZkRfQ01sYUpsRUN0eHB",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDRKUU00QmVJM3N1dU56N2YtRVR4ckx1ZDJzS2VnME5ycVQxUEFhZWNpQ201UWdLREYxelNiZEhPWHI4cjgxLWVZS0t5ampEQmJHbFh0a3FscTNlbElGMm5yN2FmTGwzMjBmdGRoUzBXUF9xeEtKbjJkUTVsNXdmeHFlNVp1SWxNaFRIaGNqR2d1eEZIYzAwcG1vZkRfQ01sYUpsRUN0eHBwZw?oc=5",
+      "source": "The Tennessee Tribune",
+      "pubDate": "Thu, 16 Jan 2025 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Antioch residents oppose new warehouse development over traffic, safety concerns - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQMEcyVmtiZVgxeVZuUXlrMGVYS0tzZFBuMmREYW1WYzVNMnZIQVRMdi1mNEcycXI3SHpBMFExZW85RWxiUjN0VV9MNDVuZzNSYXdXc0taRXVLaVg0MFhZUWhqVUktUlhkN3FXR1lWbGZGV1NwMGg1elJiU2NGWWZiTVozTTQxdS1wMjBxNUJUOWl6SDdjOC1SRzl6UUllaDU5a2ZobGFtdGh",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMEcyVmtiZVgxeVZuUXlrMGVYS0tzZFBuMmREYW1WYzVNMnZIQVRMdi1mNEcycXI3SHpBMFExZW85RWxiUjN0VV9MNDVuZzNSYXdXc0taRXVLaVg0MFhZUWhqVUktUlhkN3FXR1lWbGZGV1NwMGg1elJiU2NGWWZiTVozTTQxdS1wMjBxNUJUOWl6SDdjOC1SRzl6UUllaDU5a2ZobGFtdGhoelV3Z0tYZjdDQQ?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Fri, 25 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Holladay Begins Development of The Opaline, the First Phase of a Nashville Mixed-Use Project - Multifamily &amp; Affordable Housing Business",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSDlMWElqbHZyVkg1VHBMQXJrMFpJSzA3Sl90a2N4aXQ0VVM2RmpRRHBfZXpFSlpBR1R5ZUdrVEh1OTc4c2tsMGJIczdXeXFDNkF4U2lsM1B5SmlTc2YzQ3ZlV2VvUm9BU3hYcEExWHhmQ3ZVczdqeTdmcjdTV3B6MGx5bHNyQllmQ3RzMGF1TlVvZGlaeTVSU2lfcHZyQy14cDNuRHJVUUJ",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSDlMWElqbHZyVkg1VHBMQXJrMFpJSzA3Sl90a2N4aXQ0VVM2RmpRRHBfZXpFSlpBR1R5ZUdrVEh1OTc4c2tsMGJIczdXeXFDNkF4U2lsM1B5SmlTc2YzQ3ZlV2VvUm9BU3hYcEExWHhmQ3ZVczdqeTdmcjdTV3B6MGx5bHNyQllmQ3RzMGF1TlVvZGlaeTVSU2lfcHZyQy14cDNuRHJVUUJDSkdqOEdGcmFhc19hZmVHWmFZNE13TTRydk4tLW9EQTN0XzZZZw?oc=5",
+      "source": "Multifamily &amp; Affordable Housing Business",
+      "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Harlin development approved in Franklin despite neighbor opposition - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMWRsemU5VlJFTGhIaUc1YmlXNi1Qb3lJaklGUUVMbkhrd3RyZlhUa1NFZl9UQ05PZDFvVFl0Mkk4ZXluNGx5bzBES1BldWtneEdkT2xsS1VWQ1V6WXo4Q0JOdU84RGdqT1lFak1ZYnZwR01SRlZzV2tQSlVvUWwwZUtfZEVQa0w1YjJHYnVGYW9uR3lUWXgtX0t4RGw3NG90Z3BHVDNpanB",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMWRsemU5VlJFTGhIaUc1YmlXNi1Qb3lJaklGUUVMbkhrd3RyZlhUa1NFZl9UQ05PZDFvVFl0Mkk4ZXluNGx5bzBES1BldWtneEdkT2xsS1VWQ1V6WXo4Q0JOdU84RGdqT1lFak1ZYnZwR01SRlZzV2tQSlVvUWwwZUtfZEVQa0w1YjJHYnVGYW9uR3lUWXgtX0t4RGw3NG90Z3BHVDNpanBza3ozUE1FREV3QnlnNm9jaW9wSUt6V1dkOFU0dW5KWC1MMEdVLVFn?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New auto: O'Reilly's Auto Parts",
+      "detail": "36.1933, -86.2739",
+      "lat": 36.193315,
+      "lng": -86.2739467,
+      "category": "auto",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Texas Roadhouse",
+      "detail": "36.1814, -86.4580",
+      "lat": 36.1813546,
+      "lng": -86.4580432,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New cafe: The LOCAL Place",
+      "detail": "35.7782, -87.4665",
+      "lat": 35.7782397,
+      "lng": -87.4664572,
+      "category": "cafe",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: The Mason Jar Restaurant",
+      "detail": "35.7783, -87.4666",
+      "lat": 35.7782605,
+      "lng": -87.466615,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Sylvan Heights apartment building sells for $57.6M - Nashville Post",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRlRvVjNMU29nbS1OcVFvRHZrMTdtQnVOVExCX2lEeVBERUx5T216SHgzZFhkVUFPMVE5a0Y1SjhzQUQ5dXo5elNJcnRfZmRsREd5clZnejRfREFHekcyblVzVHlPa0ZGT1FxQzVpcURIaF9BZzVNcjd3Z1o2UUUwdGpVZ2l5RWU5Y3ZCQUVuUlJnNzJnTzJWY0ZPaVNWVEhNMG5GbS11ZzB",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRlRvVjNMU29nbS1OcVFvRHZrMTdtQnVOVExCX2lEeVBERUx5T216SHgzZFhkVUFPMVE5a0Y1SjhzQUQ5dXo5elNJcnRfZmRsREd5clZnejRfREFHekcyblVzVHlPa0ZGT1FxQzVpcURIaF9BZzVNcjd3Z1o2UUUwdGpVZ2l5RWU5Y3ZCQUVuUlJnNzJnTzJWY0ZPaVNWVEhNMG5GbS11ZzBuWWppQ1BDdzFaODF5QUg1X05DS1d4cmc3UzZFdkYzSEtxeHFFSnRKR2VONkRnTEt0TkFQWnR0NXBVUk8?oc=5",
+      "source": "Nashville Post",
+      "pubDate": "Wed, 31 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Flournoy Development Plans Nashville Community - Multifamily Housing News",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDJORWFxekRQWnZoUjI5dnRiMEJTZGduOUdablZxU1JlZkRqVFBzaXEyNGlod081YlFTNzR4T01CdF9QOXdOWE9DMldKWHoyOW1HVDQ4RUVvczFVeXRTdWpJbzV0aVlGa1dzNGlwREtVdVRocDRCUlJHSlNlZ084eUNsVS10b1k?oc=5\" target=\"_blank\"&gt;Flournoy Developme",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDJORWFxekRQWnZoUjI5dnRiMEJTZGduOUdablZxU1JlZkRqVFBzaXEyNGlod081YlFTNzR4T01CdF9QOXdOWE9DMldKWHoyOW1HVDQ4RUVvczFVeXRTdWpJbzV0aVlGa1dzNGlwREtVdVRocDRCUlJHSlNlZ084eUNsVS10b1k?oc=5",
+      "source": "Multifamily Housing News",
+      "pubDate": "Wed, 30 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "The History of Nashville Superspeedway: A Legacy of Racing in Middle Tennessee | News | Media - Nashville Superspeedway",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUTJRRHI3WlVyRjBydnZmT1kzd2pXaHB0WVVDMmxtT0xJdUc5dDlxeHdBV1NoV210RHNnUXJPS3M5OTU5Vld1WjE1X1hDVXJKX3liZElEUFhnZUF2TVY1T2s1STB2R0tXQ012dFJMaFNHYkNWMUJkMFVsbGQyUzVhRkVvVW1VR2ZCQm5HLVhUQ01adGo5Yi01VHd4NWNjX0hYM2trODc1Rzd",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUTJRRHI3WlVyRjBydnZmT1kzd2pXaHB0WVVDMmxtT0xJdUc5dDlxeHdBV1NoV210RHNnUXJPS3M5OTU5Vld1WjE1X1hDVXJKX3liZElEUFhnZUF2TVY1T2s1STB2R0tXQ012dFJMaFNHYkNWMUJkMFVsbGQyUzVhRkVvVW1VR2ZCQm5HLVhUQ01adGo5Yi01VHd4NWNjX0hYM2trODc1RzdmTGYzaDRCaURiU1B1eEZF?oc=5",
+      "source": "Nashville Superspeedway",
+      "pubDate": "Wed, 19 Feb 2025 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Crescent Communities Started Work on Multifamily Mixed-Use Community NOVEL Richland Creek in West Nashville. - Yield PRO",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QZU4xejNrNXhKMWpJUndQXzE0ajY5VG4wMEFtM1ZZMXFHMXkyUGFWYy1DNGlTcVpjYnU1VFZfQ3JCcFpKS19BTU05bTVEOU5kVDloQ2xyRHBNSkhkSm84?oc=5\" target=\"_blank\"&gt;Crescent Communities Started Work on Multifamily Mixed-Use Community NOVE",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QZU4xejNrNXhKMWpJUndQXzE0ajY5VG4wMEFtM1ZZMXFHMXkyUGFWYy1DNGlTcVpjYnU1VFZfQ3JCcFpKS19BTU05bTVEOU5kVDloQ2xyRHBNSkhkSm84?oc=5",
+      "source": "Yield PRO",
+      "pubDate": "Wed, 13 May 2026 16:26:25 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "L.A. company acquires under-development rental community in Franklin - The Business Journals",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaW9oeW56X0E5R20zQktDdDIyN3RhS3VXanpHeXVVeVN4aHN5Zzd3Z3BWZllDMUdWbGhqbEFkV0FZS3ROTFZTcVJTUTRMTWdIUlFjRHl2cmRPdW9oT3VNWm5IUGNiaTlESlA0TUdVY293R3M4WTF2VVZHM0wxWkQxY0s3bVg5bXRoWndjZS11Rk5VTHBhTjdOQW5iSW5JWDJDbnhhS2d1Zll",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaW9oeW56X0E5R20zQktDdDIyN3RhS3VXanpHeXVVeVN4aHN5Zzd3Z3BWZllDMUdWbGhqbEFkV0FZS3ROTFZTcVJTUTRMTWdIUlFjRHl2cmRPdW9oT3VNWm5IUGNiaTlESlA0TUdVY293R3M4WTF2VVZHM0wxWkQxY0s3bVg5bXRoWndjZS11Rk5VTHBhTjdOQW5iSW5JWDJDbnhhS2d1ZllLSUU?oc=5",
+      "source": "The Business Journals",
+      "pubDate": "Wed, 12 Oct 2022 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Ridgeline Development Partners, Deep Cove Partners break ground on mixed-use The Bend at Capitol District in Nashville – REJournals - REJournals",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV0xFMzloQk1zMm00RS03b0ZCNVp6ekp1OGRhenJ4YUVFYXE3bExqOFJVaGNmSGkyRk82ZXNJNE1WNklrTmQ4M2psdExKZVJBQzkwendBTm9jNUZDUzhDWkZxZHVvZmpjd1JNbjRPd2tkbkRoV0FlcndKdU9uaWlOd050ZjV4TkMySklsOVFxMVRZa1p6bzVGcWMxTnBTNEVfTGNfTHA0bUh",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV0xFMzloQk1zMm00RS03b0ZCNVp6ekp1OGRhenJ4YUVFYXE3bExqOFJVaGNmSGkyRk82ZXNJNE1WNklrTmQ4M2psdExKZVJBQzkwendBTm9jNUZDUzhDWkZxZHVvZmpjd1JNbjRPd2tkbkRoV0FlcndKdU9uaWlOd050ZjV4TkMySklsOVFxMVRZa1p6bzVGcWMxTnBTNEVfTGNfTHA0bUhyeWg1eUxCWDhJUFZFbGhWeWo5WFVKMW9MNVgtVW5NcGtNb1RpRUJCWXVrZDgtdW0?oc=5",
+      "source": "REJournals",
+      "pubDate": "Wed, 07 May 2025 20:06:49 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Metro Council Advances Rezoning Plan for The Nations - Nashville Scene",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGJBTzhrT1RYN09zWVFkMlc3czgyUS05TXFYTXhRbHlNOVowWHdLVEJHNlFZQy1JeVFER3ZNSHZ0bXBMTjBNd19oeURYdVc3ZnZ3am53d1NUS05xcWh2RXNfV19pQ2RZUHhjMS1MOUVodE9NRjByZUMzdUs5eEZLdDhZeGk1VzFPeHd1MmU2dEdxLXhzRy1MUl9XM3BJYzBROWN3Y3RKQTF",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGJBTzhrT1RYN09zWVFkMlc3czgyUS05TXFYTXhRbHlNOVowWHdLVEJHNlFZQy1JeVFER3ZNSHZ0bXBMTjBNd19oeURYdVc3ZnZ3am53d1NUS05xcWh2RXNfV19pQ2RZUHhjMS1MOUVodE9NRjByZUMzdUs5eEZLdDhZeGk1VzFPeHd1MmU2dEdxLXhzRy1MUl9XM3BJYzBROWN3Y3RKQTFsR3pkNms3d1gteVR6eEVWTG96TVVVVHBadUFvd3Q1WXVsNHQyZw?oc=5",
+      "source": "Nashville Scene",
+      "pubDate": "Wed, 06 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "8 more Middle Tennessee Whataburger locations announced as restaurant prepares to break ground - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOd3lVYnB2dzV6aU5mWDNseVhXeVhSbW5MMUV1UWwzSDh1ZWNRVXRoTDkyRHpKYzZsU2FjbUNMMWNuZlNrQTdQR1pybXVNeFdTTE5mMHZhZWxBVEhCY1FkTldzZnEycmZvbm1yQUxBVHYtTWpZVDFkUXFUUXNDMk4wM2cxbDNfVV84YUg3STVkd085dHYtU1hqbXo4NDl0dGlud0MxZ1IxQ3J",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd3lVYnB2dzV6aU5mWDNseVhXeVhSbW5MMUV1UWwzSDh1ZWNRVXRoTDkyRHpKYzZsU2FjbUNMMWNuZlNrQTdQR1pybXVNeFdTTE5mMHZhZWxBVEhCY1FkTldzZnEycmZvbm1yQUxBVHYtTWpZVDFkUXFUUXNDMk4wM2cxbDNfVV84YUg3STVkd085dHYtU1hqbXo4NDl0dGlud0MxZ1IxQ3JXdzdwZzdzb3RNUzlxdjQ0NThfTkc0V2VsNDg5ejF3?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Tue, 27 Jul 2021 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Clari Park development in Murfreesboro touts restaurants and 300 apartments at The Rowley - The Daily News Journal",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMF8ydzlWRWY4c1FHcEs2QVlMWU5xTERVQVVURnN0NUtoeERPZGZna1JOS1dZdVoxM1ZqUlVxVXp4S1VaRXFZTzAxU1B0OWJ2UDBHTDRyWUcyUEN2cU5hRmk0ZkN3MjBIeUw1cEhtU2ZvdDlSbUhEVUNkTEs1NjNxX0oyel9xSUtfUkxHMXpTWEtsb3d1al9rY2JQT0Y0bmUxRmNUcDhES0l",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMF8ydzlWRWY4c1FHcEs2QVlMWU5xTERVQVVURnN0NUtoeERPZGZna1JOS1dZdVoxM1ZqUlVxVXp4S1VaRXFZTzAxU1B0OWJ2UDBHTDRyWUcyUEN2cU5hRmk0ZkN3MjBIeUw1cEhtU2ZvdDlSbUhEVUNkTEs1NjNxX0oyel9xSUtfUkxHMXpTWEtsb3d1al9rY2JQT0Y0bmUxRmNUcDhES0lORlBOTXpQb3RsS21kN1d6a3BkQUhiT0k?oc=5",
+      "source": "The Daily News Journal",
+      "pubDate": "Tue, 17 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Mt. Juliet arrest two after reportedly stealing nearly $2,800 worth of groceries from Kroger - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV3VlS2pwV21Tb213a1Rid1RPVDlFbzRiSzJKTDVldEczSEpZOHd4XzFpY0RFOVZmWmlhQnJKN25FREMxTHFMYXB5emtFWjAwdHA2VV9maE1RNjk4ZlZQVVlCX0ZTYUVUSjU3ME1aQUlHbHpfQzB3MzRVX0JYV0tVOTJRYTVHS1RaN19UT1FiWUc2UTJiZENhSnAwR2liYTdFQ3VMVkVFeFh",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV3VlS2pwV21Tb213a1Rid1RPVDlFbzRiSzJKTDVldEczSEpZOHd4XzFpY0RFOVZmWmlhQnJKN25FREMxTHFMYXB5emtFWjAwdHA2VV9maE1RNjk4ZlZQVVlCX0ZTYUVUSjU3ME1aQUlHbHpfQzB3MzRVX0JYV0tVOTJRYTVHS1RaN19UT1FiWUc2UTJiZENhSnAwR2liYTdFQ3VMVkVFeFh6RzNKc0FIYkpPSDJWazFqOUstNUlpVml1ZHl6LVVzWEx4Q1pJZ2U1NFcyWXZ2WnpUaV8zOEo3VWFDd2d2YV9kOEE?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Thu, 30 Apr 2026 17:10:35 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Metro Nashville Public Schools Turf Groundbreaking – Pearl-Cohn High School | Community Photos - Tennessee Titans",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQTh1aWtHSS1XejVXc2xoTGQ1N0pBOXptQ0Zzb1lYbmxYYk51SDBfVEs4T1lVQXRKcldPa29uanZBM21yU21qUkdXLWNVbmtDbnMycUlMU0NWX2NacUl2ZVVPc2dwcVZIRDdRbVlkdmluRnNrcU91MlJtMlhLalhXa3RPd29iSkxfZzN3NWFhUlE5MUEyZkNEOG1tN1VUQXpiX2hscFpTRVl",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQTh1aWtHSS1XejVXc2xoTGQ1N0pBOXptQ0Zzb1lYbmxYYk51SDBfVEs4T1lVQXRKcldPa29uanZBM21yU21qUkdXLWNVbmtDbnMycUlMU0NWX2NacUl2ZVVPc2dwcVZIRDdRbVlkdmluRnNrcU91MlJtMlhLalhXa3RPd29iSkxfZzN3NWFhUlE5MUEyZkNEOG1tN1VUQXpiX2hscFpTRVlDWGlodGkwQmMxOFVGMHpTOWxn?oc=5",
+      "source": "Tennessee Titans",
+      "pubDate": "Thu, 27 Jul 2023 23:48:38 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "‘Nashville’ finale sets up groundbreaking storyline: An openly gay country music star - The Washington Post",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOEswdTM5RDEyc1FQMTF4MVVMRWQ1ci03dEpkTXJYTnEtUUFSQm9DY0w5OFd3YTJQN3pMNE9MSWVfdDFQZmY4QmlWRDVzWTY4S3prOFZJaEM4Qk1OUDVNWGkyNFlzcTdqd3Z2WDJ0X1ozdTYya1Qwd3pFWnk1a1lEUTFEdDVpdXFrZl9CSkVUN09JbHh3QmFBaGZ5dDBqbThfdXdzR1NuOFF",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOEswdTM5RDEyc1FQMTF4MVVMRWQ1ci03dEpkTXJYTnEtUUFSQm9DY0w5OFd3YTJQN3pMNE9MSWVfdDFQZmY4QmlWRDVzWTY4S3prOFZJaEM4Qk1OUDVNWGkyNFlzcTdqd3Z2WDJ0X1ozdTYya1Qwd3pFWnk1a1lEUTFEdDVpdXFrZl9CSkVUN09JbHh3QmFBaGZ5dDBqbThfdXdzR1NuOFF4eWxVQlA3UVRFWkYyYVUxYW5XeGpUb3JQZG9FelZSbnlveTJKdmZ1allzLUU0MTJSa0R4bDFVeGpMbHRrZ3QzcUhudg?oc=5",
+      "source": "The Washington Post",
+      "pubDate": "Thu, 15 May 2014 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "February groundbreaking targeted for Midtown brewpub - Nashville Post",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR0s3S2F4UWNuWVB6eHVkbTZ0Qm5SeEZLbnFVQnFDc2J5bWRwalhLVmNZbUpCdXg1TVhqRF9LdzRBV1l4NWJrNks0cmdGNklycTRQNHN2bTc4QjZyellDQTJpWDhJOE5TX1NOUUhkeEdvZXA2NU96UVVpRVNUalJINVFxblp1alMtVXFVeTVlZGxCYUhBbHZxWWRLY1lYYWp2QURlMExqS2M",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR0s3S2F4UWNuWVB6eHVkbTZ0Qm5SeEZLbnFVQnFDc2J5bWRwalhLVmNZbUpCdXg1TVhqRF9LdzRBV1l4NWJrNks0cmdGNklycTRQNHN2bTc4QjZyellDQTJpWDhJOE5TX1NOUUhkeEdvZXA2NU96UVVpRVNUalJINVFxblp1alMtVXFVeTVlZGxCYUhBbHZxWWRLY1lYYWp2QURlMExqS2MxdWRHWGdwM2s0b1RWVVBCb29zZFFhNmxjU0R6WnI3S0RxbDZxVk1yQlNQdFZSQ1M0ZmZNWlRDcHEzN3pwMGZV?oc=5",
+      "source": "Nashville Post",
+      "pubDate": "Thu, 11 Dec 2014 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "St. Mary Villa Partnership Leads to Groundbreaking of New Childcare Facility - Nashville Catholic",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQZGJyRkFkWW0tbEt0c2FPQVNsdVcxbkxOUXhUTWNiOUpZWnNteUdHalpBRUpxUmpGQzNwdmlvV2h2SFJPRzNhU2pPS01XM0Z6WndvSWk4RmRGamlobU1rMFJ3ZmpHck02bWVjZVFRNlNlQ0xtaF9nUHRQbjdtUFFKY0hFQ0NUcFE3QmNOOGdvY2VKeWFSZk9TVHpONXZEY09xUk9YT054anQ",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZGJyRkFkWW0tbEt0c2FPQVNsdVcxbkxOUXhUTWNiOUpZWnNteUdHalpBRUpxUmpGQzNwdmlvV2h2SFJPRzNhU2pPS01XM0Z6WndvSWk4RmRGamlobU1rMFJ3ZmpHck02bWVjZVFRNlNlQ0xtaF9nUHRQbjdtUFFKY0hFQ0NUcFE3QmNOOGdvY2VKeWFSZk9TVHpONXZEY09xUk9YT054anQzeFJBaWZONU16MWVQSTJaQXNZOA?oc=5",
+      "source": "Nashville Catholic",
+      "pubDate": "Thu, 10 Oct 2024 15:08:10 GMT"
+    }
+  ]
+}
