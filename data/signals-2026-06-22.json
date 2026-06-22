@@ -1,0 +1,283 @@
+{
+  "computed_at": "2026-06-22T16:31:29.209Z",
+  "amenity_diff": {
+    "added_count": 8,
+    "removed_count": 2,
+    "added_by_category": {
+      "restaurant": 2,
+      "cafe": 1,
+      "fast_food": 3,
+      "dentist": 1,
+      "childcare": 1
+    },
+    "note": "Comparing amenities-2026-06-22.json vs amenities-2026-06-15.json"
+  },
+  "sec_diff": {
+    "new_filings_count": 1
+  },
+  "news_diff": {
+    "new_items_count": 19
+  },
+  "feed": [
+    {
+      "type": "sec_filing",
+      "severity": "high",
+      "headline": "HCA Healthcare filed 8-K mentioning Nashville/TN",
+      "detail": "...tion of incorporation) &#160; (Commission File Number) &#160; (IRS Employer Identification No.) &#160; One Park Plaza , Nashville , Tennessee &#160; 37203 (Address of principal executive offices) &#160; (Zip Code) Registrant&#8217;s telephone number, including area code: (615) 344-9551 Not Applicabl...",
+      "filingDate": "2026-06-18",
+      "url": "https://www.sec.gov/Archives/edgar/data/860730/000119312526275086/d163825d8k.htm",
+      "keyword": "Nashville"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Paragon Mills Elementary groundbreaking ceremony kicks off expansion and renovations - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQdWdXT2Iwb1lqekRMYXBxc0xhaVhVOFhZWDNCTW52WW45R2Z6Q21qNkdxQnd6Sk1KbjBlUF9RMEpTVXZYdXpSRU1KVTJSU2lkLWVaSU5fLWpuWjBxN1l0QmVNQl83dXR6eTJvcURkNjg0LXM3ZWF1ZlhXMVhZcFdYeVFMU1drTWtSaFN0ZFZSYlZMRk1HM0RjNV85LTlIX3MyMFR3bnlkdll",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdWdXT2Iwb1lqekRMYXBxc0xhaVhVOFhZWDNCTW52WW45R2Z6Q21qNkdxQnd6Sk1KbjBlUF9RMEpTVXZYdXpSRU1KVTJSU2lkLWVaSU5fLWpuWjBxN1l0QmVNQl83dXR6eTJvcURkNjg0LXM3ZWF1ZlhXMVhZcFdYeVFMU1drTWtSaFN0ZFZSYlZMRk1HM0RjNV85LTlIX3MyMFR3bnlkdllSdGFpT1JaVzI0ZEREalpBY3c?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Sumner County school board approves rezoning as housing growth outpaces school planning - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaE9ScVlNbU04NXlwd2Y2WHNJcTM5TXZuQ0Zjd25sYXl4dXN0U043WWlrMzlpVlg5b3BJR2wtM1hGbmdDU1RTOHpOYmJWMHlLYktUa2NURVYxNVJBNTNMb3MzY3M1dVZuMHNMNGhWVWV2cHNHQWM4aXF2Nk1WcXN2dUcwdlhPd0FLM09mbTBBRVItUXBUUlBmUTlIbkxpWFZPQmp4TmtzT3B",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaE9ScVlNbU04NXlwd2Y2WHNJcTM5TXZuQ0Zjd25sYXl4dXN0U043WWlrMzlpVlg5b3BJR2wtM1hGbmdDU1RTOHpOYmJWMHlLYktUa2NURVYxNVJBNTNMb3MzY3M1dVZuMHNMNGhWVWV2cHNHQWM4aXF2Nk1WcXN2dUcwdlhPd0FLM09mbTBBRVItUXBUUlBmUTlIbkxpWFZPQmp4TmtzT3BTVmdnNlMtdF93ZVdpZktmRzdObi1wQWhqcGdUa0dJbWtIS0s1Y2RBVVBZMHNMQ1BSb3VTd2d3cDB1T2pNQQ?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Thu, 21 May 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "The Community Foundation Of Middle Tennessee To Boast Nashville’s Newest 99% Mass Timber Development. - CITY NOW NEXT",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPMlJBanNQdk1DeEV1ZnpMTEMxejNwNGxJSUZnVFphT3AtZXpCbVAwZDJzTnFZVnotbTZaSXRwc09lcVFWTHg5aGpNNWwzQTlUZU9VcHoxeUIyTmhUOEx2ZDRUTWFQUWM5bzZGY2dlc0d4NUVTdjJiVjh5cmFjM2RLdFZMUUlZZWYtU081eXdtcjdzWEtDc0p1Wk5xWGE3QVZoUm1CSm5mNkR",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMlJBanNQdk1DeEV1ZnpMTEMxejNwNGxJSUZnVFphT3AtZXpCbVAwZDJzTnFZVnotbTZaSXRwc09lcVFWTHg5aGpNNWwzQTlUZU9VcHoxeUIyTmhUOEx2ZDRUTWFQUWM5bzZGY2dlc0d4NUVTdjJiVjh5cmFjM2RLdFZMUUlZZWYtU081eXdtcjdzWEtDc0p1Wk5xWGE3QVZoUm1CSm5mNkRyQmFFaHhqYVBqU2ZVQVJJRVE3Z2xxR3JnUEpCZGRYdnFEQWZ5bTQ?oc=5",
+      "source": "CITY NOW NEXT",
+      "pubDate": "Thu, 14 Jul 2022 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Nolensville Pike development sparks debate over traffic and green space in Nashville - WZTV",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQndJVUlmQ0ppek1ORXJhUlJfRzFIVkFDTUJkTjNrelViWjZPQ1VpRGFVUk82Q3B3VEcxRVFneEZuZ2ZDZkE3NWFJSkloZE9yRS1XaklZUW4tVzNlMlFHNXJFUUdQMjlBWDJPUldOWkZIWnExNEFZLVp1YWQweU4tX0h6MGE2cjZWdzFHWUFrTEZIMkxqRkdKNXQ0cVhoRE9yS0VaVkh1bGl",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQndJVUlmQ0ppek1ORXJhUlJfRzFIVkFDTUJkTjNrelViWjZPQ1VpRGFVUk82Q3B3VEcxRVFneEZuZ2ZDZkE3NWFJSkloZE9yRS1XaklZUW4tVzNlMlFHNXJFUUdQMjlBWDJPUldOWkZIWnExNEFZLVp1YWQweU4tX0h6MGE2cjZWdzFHWUFrTEZIMkxqRkdKNXQ0cVhoRE9yS0VaVkh1bGlzNlNiX2VicEJRMnoydV9wMUUtWW8yY3pKSzg?oc=5",
+      "source": "WZTV",
+      "pubDate": "Mon, 15 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Boro Bourbon & Brews",
+      "detail": "124 North Maple Street",
+      "lat": 35.8469826,
+      "lng": -86.3923767,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New cafe: Just Love Coffee Cafe",
+      "detail": "1200 Clinton Street",
+      "lat": 36.1647375,
+      "lng": -86.795707,
+      "category": "cafe",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Smoothie King",
+      "detail": "36.0260, -86.7918",
+      "lat": 36.0259582,
+      "lng": -86.79177,
+      "category": "fast_food",
+      "brand": "Smoothie King"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New dentist: Embassy Dental",
+      "detail": "36.0252, -86.7905",
+      "lat": 36.0251508,
+      "lng": -86.7905457,
+      "category": "dentist",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Subway",
+      "detail": "36.0263, -86.7895",
+      "lat": 36.0263363,
+      "lng": -86.7895203,
+      "category": "fast_food",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Bruegger's Bagels",
+      "detail": "36.0256, -86.7920",
+      "lat": 36.0256014,
+      "lng": -86.7920427,
+      "category": "fast_food",
+      "brand": "Bruegger's Bagels"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New childcare: The Children's Playroom",
+      "detail": "36.0251, -86.7903",
+      "lat": 36.0250599,
+      "lng": -86.7902963,
+      "category": "childcare",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Karrington Rowe",
+      "detail": "36.0266, -86.7901",
+      "lat": 36.026571,
+      "lng": -86.7901176,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Murfreesboro approves $782 million budget to manage growth without raising property taxes - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeFRxdldTZUJXUzZaNUh2U1ByVVBzSk1UbTJNMHhKNGM0OXhVbnU0Qm9McXk2TExGYU5QbGpZMEF1RVotRFNsSEIzVXVSSzlkT1F4dU9FTDVvMktfeHFIOExtTTNJbzkxVU1sdjVHMVhwb3NHRTNkdEtHendFVklZR2tpbTZtcXVsOFJ1bUlkY3BTTndBNm5ZVFBVdGJnS3ZZN1ZKa0xxMm9",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeFRxdldTZUJXUzZaNUh2U1ByVVBzSk1UbTJNMHhKNGM0OXhVbnU0Qm9McXk2TExGYU5QbGpZMEF1RVotRFNsSEIzVXVSSzlkT1F4dU9FTDVvMktfeHFIOExtTTNJbzkxVU1sdjVHMVhwb3NHRTNkdEtHendFVklZR2tpbTZtcXVsOFJ1bUlkY3BTTndBNm5ZVFBVdGJnS3ZZN1ZKa0xxMm9aTjhzSFNDc2VjWnNhMEx4dzhna01uZzdFSDNCUzNrQmNodkJxalB6bzFOalloYXpxSDAxTHJvRDZiNmhZRDFLaE5JeQ?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Wed, 17 Jun 2026 21:26:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Sir Richard Branson coming to Nashville for Virgin Hotels groundbreaking - The Tennessean",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNWDNkNGhLZC1JaW5jemdTV1ZWTjh3ZVFNU2E4TkVLNUpEYmFnM2lYN2xTWXJZUnpEY1BkNUZEc1BHU2QwZlZ4T0NfY3ZuRWw4akV6b3BpYkFGYnNKNm1rcVNCZHIwX3BScjNOZlctWWc3b3VQNWVNUTRHUzNYQUlwcXZhVUpMdm5MVHg1NkVWWHd3cnJ3WVVqNGplWVQzYXpmXzN6REptRnB",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWDNkNGhLZC1JaW5jemdTV1ZWTjh3ZVFNU2E4TkVLNUpEYmFnM2lYN2xTWXJZUnpEY1BkNUZEc1BHU2QwZlZ4T0NfY3ZuRWw4akV6b3BpYkFGYnNKNm1rcVNCZHIwX3BScjNOZlctWWc3b3VQNWVNUTRHUzNYQUlwcXZhVUpMdm5MVHg1NkVWWHd3cnJ3WVVqNGplWVQzYXpmXzN6REptRnBaQXBXX3VRdVotdjVjYWRQWWdzVkp3?oc=5",
+      "source": "The Tennessean",
+      "pubDate": "Wed, 13 Sep 2017 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Embrey Sells Statler MCain’s Station Near Nashville - Multifamily &amp; Affordable Housing Business",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNLWtYNmJ1X3VKT0ZYR3BfcGR4SEp3djBOYWlWRTNKRWRXZGJoOXZxaUZDSnR2Y20yZ3Nrc0FkMVp2TWF5QW1oYnQ3d2Y2c3pmeEZzOHFzY2lPY24zS1RObmVHVGNJM05leHVMR1diN0ZGRGRBdkVnSXVxZDJNNmtBMHRYbWNNaDBIRnZ1cXM4R0h3T25ZUjhZ?oc=5\" target=\"_blank\"&",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLWtYNmJ1X3VKT0ZYR3BfcGR4SEp3djBOYWlWRTNKRWRXZGJoOXZxaUZDSnR2Y20yZ3Nrc0FkMVp2TWF5QW1oYnQ3d2Y2c3pmeEZzOHFzY2lPY24zS1RObmVHVGNJM05leHVMR1diN0ZGRGRBdkVnSXVxZDJNNmtBMHRYbWNNaDBIRnZ1cXM4R0h3T25ZUjhZ?oc=5",
+      "source": "Multifamily &amp; Affordable Housing Business",
+      "pubDate": "Wed, 10 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Groundbreaking for the MNPD's Southeast Precinct is Wednesday at 10 a.m. - Nashville.gov",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTldqZUFGd3dYVl8xN0dOUktqMklNWXdVR3ViMHZiWFBRZ2M0VUFjMjE4NmJjbDdYc2ZQNXJqYnB1RVd6NUJxVm1tWWdGVEM1SmxZYk14WENBTXFOSkViUDJOeWp6MU1TWkNhMW1hYUkxeEhpV2tHZWJSQ2ZSSzFkZ01kOHFqY3hOeGpxalRlZUd3ZnpFeVcwczhpeHEwX1p4S2NWS0tvVXE",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTldqZUFGd3dYVl8xN0dOUktqMklNWXdVR3ViMHZiWFBRZ2M0VUFjMjE4NmJjbDdYc2ZQNXJqYnB1RVd6NUJxVm1tWWdGVEM1SmxZYk14WENBTXFOSkViUDJOeWp6MU1TWkNhMW1hYUkxeEhpV2tHZWJSQ2ZSSzFkZ01kOHFqY3hOeGpxalRlZUd3ZnpFeVcwczhpeHEwX1p4S2NWS0tvVXE?oc=5",
+      "source": "Nashville.gov",
+      "pubDate": "Tue, 30 May 2023 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "The Housing Fund hosts pitch event to award developers funding for affordable housing in Middle Tennessee - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxOdUd3MXA2S2M4TU4yWXNGUlk5dXpVQW5HV3hPdXZnSmtrZ09IRnExZllQLUVQOVdQd3FFMkFrb2xzek1VZEpjVmRGN2YyYTR6blBFOFpmUGdWdnBQei1TSHNjLXp3bFl1aGZZNmNjUm5xd0d5TzFMV1BHUFYzY2hmeUk0X0hDOExRM3Y1eDcwdkZaMGU5eVhnSHIteUVMZFY3dG1lbHR2YnJ",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdUd3MXA2S2M4TU4yWXNGUlk5dXpVQW5HV3hPdXZnSmtrZ09IRnExZllQLUVQOVdQd3FFMkFrb2xzek1VZEpjVmRGN2YyYTR6blBFOFpmUGdWdnBQei1TSHNjLXp3bFl1aGZZNmNjUm5xd0d5TzFMV1BHUFYzY2hmeUk0X0hDOExRM3Y1eDcwdkZaMGU5eVhnSHIteUVMZFY3dG1lbHR2YnJETFp3bnEzWGlheWZJVVlScXdCMmttcVpaaG1LNHByUExEcjk0UVctSElMN1dfTkpPY0NZWkNuSzA3RHJsUXhTeUZFLVh2aFpTOExQenBzZjM1STdzMTdPLUdmamVBM01QcG1N?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "MTSU, Middle Tennessee Electric partner on quantum research - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPRGV6NFRnUC02MmpKME8zRnlIODVtODBUcXFPd0M1UWZTSHFUTlVlMjNIS0F5NU1uMUVBVmdDVGQ2UGF0NFZxZ2FySjZzdjBfN0tOT1FscGhCTnNqY2UwRDVLeGR2eHZqdldpUFBsLThOcmxfYmktV2xvTnpIbjVUekRyQ0ZUNEFwTGNUTmNyZXZlQk82d0dr?oc=5\" target=\"_blank\"&",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRGV6NFRnUC02MmpKME8zRnlIODVtODBUcXFPd0M1UWZTSHFUTlVlMjNIS0F5NU1uMUVBVmdDVGQ2UGF0NFZxZ2FySjZzdjBfN0tOT1FscGhCTnNqY2UwRDVLeGR2eHZqdldpUFBsLThOcmxfYmktV2xvTnpIbjVUekRyQ0ZUNEFwTGNUTmNyZXZlQk82d0dr?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Tue, 19 May 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Holladay Ventures closes on funding for 251-unit mixed-use development in Nashville - REJournals",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOWZBR2pSMEZERGdDN2JxYXpIek5sOGFqeUVnQ3NZSFlsOUptalAwV3NMeHNJTEloa1NvVVZkTl85T3hZRHAyc01kUFFEM0V4Z2t6MGFTQlg5YThPaUQ2RHYyamlUQmpyb3BiSjBRa0ZqZ1FRR085VF9LcEN4YXhqWEdyOFNKa0FVMjhGbnVRZ3M0NFJaRmY1RFdQLWROU3g1Y0lWV1VPVlJ",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOWZBR2pSMEZERGdDN2JxYXpIek5sOGFqeUVnQ3NZSFlsOUptalAwV3NMeHNJTEloa1NvVVZkTl85T3hZRHAyc01kUFFEM0V4Z2t6MGFTQlg5YThPaUQ2RHYyamlUQmpyb3BiSjBRa0ZqZ1FRR085VF9LcEN4YXhqWEdyOFNKa0FVMjhGbnVRZ3M0NFJaRmY1RFdQLWROU3g1Y0lWV1VPVlJBNmc?oc=5",
+      "source": "REJournals",
+      "pubDate": "Tue, 18 Nov 2025 17:12:52 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Mt. Juliet crash blocks East Division Street - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVmhRb09aRVNDNzhJbDRwenAxYUxvRXNzcTV5QXgtRlJhMV9Xb3g0aTF0elUtdG9QVVMxaUJRekJ1Ml9FbFJYSWJiajZLQkFPeC01d1hFSTI0bmVPenlyMUFPb0xHbmFDeTd2dDZzS0tVUXJVTHVoSm1obVEzbzVBRXBzZWZBSW5fYlJYSjQyTFBQOExSN0lzaG9EdHFiQ3dqbkpxZmxHYnd",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVmhRb09aRVNDNzhJbDRwenAxYUxvRXNzcTV5QXgtRlJhMV9Xb3g0aTF0elUtdG9QVVMxaUJRekJ1Ml9FbFJYSWJiajZLQkFPeC01d1hFSTI0bmVPenlyMUFPb0xHbmFDeTd2dDZzS0tVUXJVTHVoSm1obVEzbzVBRXBzZWZBSW5fYlJYSjQyTFBQOExSN0lzaG9EdHFiQ3dqbkpxZmxHYndwZ1k?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Tue, 16 Jun 2026 17:46:08 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Groundbreaking held for Buc-ees in Murfreesboro - WSMV",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5PLTBwMk55M2lLTm9uSDBVMk9mQmgwS3pHZ290azcyZHR4ZVJMRUp2Z0tqX2xKRmhzSFk4azBZYmtKYndIb0R1WmtObzV0THh6aUxsVjVRWWVqcmc0YW5TN2FkbHJHWGdsUXdmZENOdVFkNHZtVXRVcUpHb2tHdw?oc=5\" target=\"_blank\"&gt;Groundbreaking held for Buc-ees",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PLTBwMk55M2lLTm9uSDBVMk9mQmgwS3pHZ290azcyZHR4ZVJMRUp2Z0tqX2xKRmhzSFk4azBZYmtKYndIb0R1WmtObzV0THh6aUxsVjVRWWVqcmc0YW5TN2FkbHJHWGdsUXdmZENOdVFkNHZtVXRVcUpHb2tHdw?oc=5",
+      "source": "WSMV",
+      "pubDate": "Tue, 14 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "New mixed-use development coming to Spring Hill - WSMV",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPT1U3YjFJUVVxZGlMWEJ3YkFYWUc3TWtxazhlRlVrRFJCSTNYOS1ZcG5BdjdEQkV2R0N0ZmhiMl8yY0ctZDB0ZUI2LXlIT1VGT1czc3R3ZTd6OUdNc2Zmc2Nma24zdVg2ckQ0TV96dVcyMmtZdzE3ZVVSWmY2cGhUUTR1MNIBlwFBVV95cUxPZzlfTVdPTEZrRDlBRWh2RlhDODdwZEozR0F",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT1U3YjFJUVVxZGlMWEJ3YkFYWUc3TWtxazhlRlVrRFJCSTNYOS1ZcG5BdjdEQkV2R0N0ZmhiMl8yY0ctZDB0ZUI2LXlIT1VGT1czc3R3ZTd6OUdNc2Zmc2Nma24zdVg2ckQ0TV96dVcyMmtZdzE3ZVVSWmY2cGhUUTR1MNIBlwFBVV95cUxPZzlfTVdPTEZrRDlBRWh2RlhDODdwZEozR0FkMFFwdThpeE8tYVNfMlEwdTRCTjI4bUhDSXBLTlNSdVlvX1ktWHJLR1kxTkFmWDZ4eGstREZiZVA4RjZBV1BIeV9TQU15Z05LbG1UYTdtLXpCZGY4Y3UzdTlMdnZQSzlLQmJVbjF0Q01IV1o0bTFVa292ZHBJ?oc=5",
+      "source": "WSMV",
+      "pubDate": "Tue, 13 Sep 2022 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Nashville Stampede announce inaugural season for groundbreaking PBR Team Series - PBR | Professional Bull Riders",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQTWdSNGxzZzlHZ3RsYzFXZXhOYk9NT3A3RHJzX3VsZXl1U3ladzFzWHkwTkNLN2xjc3QtMDROZjR1Z001VVhtR2xJZURxdWxuejM4S0xJOXF6bTN6UEVBWEgtVTNaalZ2TnFJdHhlSlBiWmJOTEp0dF9iRnVFdFdjTUNUa05GSVhscUUyWUFxQmpQQ0pSZ2ZvNW1CNzhYMkt4aHhDVEROU0g",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTWdSNGxzZzlHZ3RsYzFXZXhOYk9NT3A3RHJzX3VsZXl1U3ladzFzWHkwTkNLN2xjc3QtMDROZjR1Z001VVhtR2xJZURxdWxuejM4S0xJOXF6bTN6UEVBWEgtVTNaalZ2TnFJdHhlSlBiWmJOTEp0dF9iRnVFdFdjTUNUa05GSVhscUUyWUFxQmpQQ0pSZ2ZvNW1CNzhYMkt4aHhDVEROU0gxSk96Q2JwaTBuUQ?oc=5",
+      "source": "PBR | Professional Bull Riders",
+      "pubDate": "Thu, 30 Jun 2022 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Metro leaders celebrate groundbreaking at Nashville Youth Campus for Empowerment - WKRN News 2",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQZUVuckVoVlk0SkRDVXZCWnM1bUlMQ1l3R3VPUHdBYlpiT2t2YjRtMlpZSnpITmJZQ1Y4cnBuNFpqU2hneloyTlc0dDFHRDVJOHB5VEZlTExTRWNJV090ZGp3aHlpVmw4aFFudmV2YVY3QnNzdzFuemZnVXVCbVoyY3d3X3hUWkZ3RF9UUy1QbzVvZkU0SkVWMFdoZTNjUlhvek0xWVFGY0F",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZUVuckVoVlk0SkRDVXZCWnM1bUlMQ1l3R3VPUHdBYlpiT2t2YjRtMlpZSnpITmJZQ1Y4cnBuNFpqU2hneloyTlc0dDFHRDVJOHB5VEZlTExTRWNJV090ZGp3aHlpVmw4aFFudmV2YVY3QnNzdzFuemZnVXVCbVoyY3d3X3hUWkZ3RF9UUy1QbzVvZkU0SkVWMFdoZTNjUlhvek0xWVFGY0FkaWFNYmlzeUtfOXhXRW4yeXZ3RXdrSE5OSUZLSXZZ0gHMAUFVX3lxTE0xeGN6LS1zdWpQYnZibkpoMGlyLWh0cnMza3JfV0dnRkp1dFNZWFZ0dDFkMGwyLTY5TTlDbmVGUDhVY0loLVRsZk5laFZpT0JDby11N2t4R1ZHcEFjXzJwYnY5RlpickpPQ3VLREtEbkNJR1JLcS1wRWpFTmlQOXdLeEF4dFAzS1ZqRS1VVEROMm9LQXlVUk0wSTFqWC1EYTdlLW91QXlYZ2M5MWx3blNsa0lkZXF4Q2tOZFNrUVJ1RTNpeThRb3kzNTJ2TA?oc=5",
+      "source": "WKRN News 2",
+      "pubDate": "Thu, 08 Aug 2024 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Future TruGreen headquarters in Franklin approved for $1M state grant - Nashville Post",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVXVJUTV3ZmI0ZXlyRWJCSElwTHZ0VHJLOWVkM0UtTmY1M2VFMU1PZWdVX0NiYjZMczdzRFI2Skt2cUhrcGJsWjVVTmNGakJORnFDbFdBSk93WS1McjZOdVFqTkpJQTI2T19hQjA1ZG1XU3U4Rzd2TlNCSFdSUXBSemItSk9SZFFibFRKQmdTVURBTlFkSjFMVWNEVGgzclZ6WWJiemR2TDh",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVXVJUTV3ZmI0ZXlyRWJCSElwTHZ0VHJLOWVkM0UtTmY1M2VFMU1PZWdVX0NiYjZMczdzRFI2Skt2cUhrcGJsWjVVTmNGakJORnFDbFdBSk93WS1McjZOdVFqTkpJQTI2T19hQjA1ZG1XU3U4Rzd2TlNCSFdSUXBSemItSk9SZFFibFRKQmdTVURBTlFkSjFMVWNEVGgzclZ6WWJiemR2TDhXVWVkemEtWXAxLVd0eXl0NzhBSTlZeFM1S3NrQ09ZSXV5bElMbXVPakNfVnZpYVEwaDlnYUR4UExPX1JTWkItVzhnT3Ayb29yMDhXQmlYN01Fc0Zldw?oc=5",
+      "source": "Nashville Post",
+      "pubDate": "Thu, 05 Dec 2024 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Rucker Lane improvements moving closer to construction in Murfreesboro - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxORkQ1dE9wTnRXYTNSUzNfTk1XeDA1WXBNTG1tZEt2R1hMeXQ4cTQxOEJFSFJtWlFWckRaRzM1MHVIcWdCbHk3dUZNR1kyRXJhVk4taVc3MTRWb05ETjJjTzVYSzFNOHNoOHdZYmg3VGlFZ21IcGQ1MkNtMDVNWk9LdDVmM01tcmVBMmdZYXFGdldQM2tkX25EbkFpYnNsTkZZRGU1Q2JoQXJ",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORkQ1dE9wTnRXYTNSUzNfTk1XeDA1WXBNTG1tZEt2R1hMeXQ4cTQxOEJFSFJtWlFWckRaRzM1MHVIcWdCbHk3dUZNR1kyRXJhVk4taVc3MTRWb05ETjJjTzVYSzFNOHNoOHdZYmg3VGlFZ21IcGQ1MkNtMDVNWk9LdDVmM01tcmVBMmdZYXFGdldQM2tkX25EbkFpYnNsTkZZRGU1Q2JoQXJyYnF5OW5ZZFVQRmkxVFJ4VVZiU3RHekZZYVpmLUwyYVdxQlZGdElndlRLeg?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Growth and development: Averitt expands in Middle Tennessee - Upper Cumberland Business Journal",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNNTZjbi1IVDVwQ0sxaHZGSVpNMFBQREJKVVIxemZoRXdHeE9mQ2ZocUFNQ0xwMVF0NmtIcVlGbV9fZlNSQUY3dlRfZUtwLWdiMTRJa3ZRQ2FOSXR5amRic0JCZTRhODNlSTZJRlp2MTdUZjU1Q2VadmFlbWxycnZqZTBaM3RTbWt6bWZVZXlOVQ?oc=5\" target=\"_blank\"&gt;Growth ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNTZjbi1IVDVwQ0sxaHZGSVpNMFBQREJKVVIxemZoRXdHeE9mQ2ZocUFNQ0xwMVF0NmtIcVlGbV9fZlNSQUY3dlRfZUtwLWdiMTRJa3ZRQ2FOSXR5amRic0JCZTRhODNlSTZJRlp2MTdUZjU1Q2VadmFlbWxycnZqZTBaM3RTbWt6bWZVZXlOVQ?oc=5",
+      "source": "Upper Cumberland Business Journal",
+      "pubDate": "Thu, 01 Feb 2024 08:00:00 GMT"
+    }
+  ]
+}
