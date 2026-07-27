@@ -1,0 +1,215 @@
+{
+  "computed_at": "2026-07-27T14:13:33.508Z",
+  "amenity_diff": {
+    "added_count": 6,
+    "removed_count": 0,
+    "added_by_category": {
+      "fuel": 2,
+      "fast_food": 4
+    },
+    "note": "Comparing amenities-2026-07-27.json vs amenities-2026-07-20.json"
+  },
+  "sec_diff": {
+    "new_filings_count": 1
+  },
+  "news_diff": {
+    "new_items_count": 14
+  },
+  "feed": [
+    {
+      "type": "sec_filing",
+      "severity": "high",
+      "headline": "HCA Healthcare filed 8-K mentioning Nashville/TN",
+      "detail": "...on) (Commission File Number) (IRS Employer Identification No.) &#160; &#160; &#160; &#160; &#160; One Park Plaza &#160; Nashville , Tennessee &#160; 37203 (Address of Principal Executive Offices) &#160; (Zip Code) &#160; Registrant&#8217;s Telephone Number, Including Area Code: (615) 344-9551 &#160;...",
+      "filingDate": "2026-07-24",
+      "url": "https://www.sec.gov/Archives/edgar/data/860730/000119312526315151/hca-20260724.htm",
+      "keyword": "Nashville"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "American Landmark Apartments Acquires 240-Unit Multifamily Community in Nashville - citybiz",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNd2F2S0JVTVdsSWN3MmVJeXVQUTBYQmM4cHA3Z1pVc2l5dzlCdUJwSkVJd0VUdWd0UmJPSGdrVjVOWG9kNmdmeDFHR0pEcHM4RVduOXd2ZzZqU3RGWFhLQUhQN0ZoT0k2N3hHQ1Q1aS00OUExeEVXcW5Cc1FITHBOQnQ0Rl8xWWZPbWZPclZSSG1xZVlvd3BITzlDYkFiNkdoY2IwSDAzRHd",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd2F2S0JVTVdsSWN3MmVJeXVQUTBYQmM4cHA3Z1pVc2l5dzlCdUJwSkVJd0VUdWd0UmJPSGdrVjVOWG9kNmdmeDFHR0pEcHM4RVduOXd2ZzZqU3RGWFhLQUhQN0ZoT0k2N3hHQ1Q1aS00OUExeEVXcW5Cc1FITHBOQnQ0Rl8xWWZPbWZPclZSSG1xZVlvd3BITzlDYkFiNkdoY2IwSDAzRHdMM0VsdkpOUlRqcTRHOHFaOFZGNg?oc=5",
+      "source": "citybiz",
+      "pubDate": "Mon, 29 Jun 2026 16:25:21 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Holladay Begins Development of The Opaline, the First Phase of a Nashville Mixed-Use Project - Multifamily &amp; Affordable Housing Business",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSDlMWElqbHZyVkg1VHBMQXJrMFpJSzA3Sl90a2N4aXQ0VVM2RmpRRHBfZXpFSlpBR1R5ZUdrVEh1OTc4c2tsMGJIczdXeXFDNkF4U2lsM1B5SmlTc2YzQ3ZlV2VvUm9BU3hYcEExWHhmQ3ZVczdqeTdmcjdTV3B6MGx5bHNyQllmQ3RzMGF1TlVvZGlaeTVSU2lfcHZyQy14cDNuRHJVUUJ",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSDlMWElqbHZyVkg1VHBMQXJrMFpJSzA3Sl90a2N4aXQ0VVM2RmpRRHBfZXpFSlpBR1R5ZUdrVEh1OTc4c2tsMGJIczdXeXFDNkF4U2lsM1B5SmlTc2YzQ3ZlV2VvUm9BU3hYcEExWHhmQ3ZVczdqeTdmcjdTV3B6MGx5bHNyQllmQ3RzMGF1TlVvZGlaeTVSU2lfcHZyQy14cDNuRHJVUUJDSkdqOEdGcmFhc19hZmVHWmFZNE13TTRydk4tLW9EQTN0XzZZZw?oc=5",
+      "source": "Multifamily &amp; Affordable Housing Business",
+      "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fuel: Centerville Express",
+      "detail": "99 TN-50",
+      "lat": 35.7590866,
+      "lng": -87.4584808,
+      "category": "fuel",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: The Steel Pony - Leiper’s Fork",
+      "detail": "4136 Old Hillsboro Road Franklin",
+      "lat": 35.8959284,
+      "lng": -86.9957682,
+      "category": "fast_food",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: DQ Grill & Chill",
+      "detail": "35.9456, -86.8795",
+      "lat": 35.9456482,
+      "lng": -86.8795172,
+      "category": "fast_food",
+      "brand": "DQ Grill & Chill"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fuel: Gas station",
+      "detail": "35.7509, -87.4046",
+      "lat": 35.7508826,
+      "lng": -87.4046324,
+      "category": "fuel",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Hunts brothers pizza",
+      "detail": "35.7591, -87.4585",
+      "lat": 35.7590575,
+      "lng": -87.4584613,
+      "category": "fast_food",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Marco's Pizza",
+      "detail": "3266 Memorial Blvd A Murfreesboro",
+      "lat": 35.9055004,
+      "lng": -86.3830978,
+      "category": "fast_food",
+      "brand": "Marco's Pizza"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Flournoy Development Plans Nashville Community - Multifamily Housing News",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDJORWFxekRQWnZoUjI5dnRiMEJTZGduOUdablZxU1JlZkRqVFBzaXEyNGlod081YlFTNzR4T01CdF9QOXdOWE9DMldKWHoyOW1HVDQ4RUVvczFVeXRTdWpJbzV0aVlGa1dzNGlwREtVdVRocDRCUlJHSlNlZ084eUNsVS10b1k?oc=5\" target=\"_blank\"&gt;Flournoy Developme",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDJORWFxekRQWnZoUjI5dnRiMEJTZGduOUdablZxU1JlZkRqVFBzaXEyNGlod081YlFTNzR4T01CdF9QOXdOWE9DMldKWHoyOW1HVDQ4RUVvczFVeXRTdWpJbzV0aVlGa1dzNGlwREtVdVRocDRCUlJHSlNlZ084eUNsVS10b1k?oc=5",
+      "source": "Multifamily Housing News",
+      "pubDate": "Wed, 30 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Growing, growing gone: How rapid growth in Middle Tennessee concerns some Gallatin leaders - The Tennessean",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVi12NjdFc3Z6TDVNNkh4OGJTdm85NmZnb0FtQ2kzRDRsaURrOWxYYTRURXV1NWdqNjJzRklsQ1NKeURETkl6aTFJTVNmMEhnci03V1Q3dmI5OTVUMGFJYlZDdmFCSzBnX1lYOGJMd2lFZjNBdjNtemk2NTJuRF92VkhzN3k5SzVINlNaN1J2N01tUlgxa0NFNXI4ZjhHeGJ2S3JVYkNTVzZ",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVi12NjdFc3Z6TDVNNkh4OGJTdm85NmZnb0FtQ2kzRDRsaURrOWxYYTRURXV1NWdqNjJzRklsQ1NKeURETkl6aTFJTVNmMEhnci03V1Q3dmI5OTVUMGFJYlZDdmFCSzBnX1lYOGJMd2lFZjNBdjNtemk2NTJuRF92VkhzN3k5SzVINlNaN1J2N01tUlgxa0NFNXI4ZjhHeGJ2S3JVYkNTVzZDdlR3OTkxQTI5MEdIZHR5b0F6WWtNRFJMN2tsNk5FZmt6R1RHSll1d1JJ?oc=5",
+      "source": "The Tennessean",
+      "pubDate": "Wed, 26 Jun 2024 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Middle TN flooding: How much rain did Nashville, Hermitage, Mt. Juliet get? - The Tennessean",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOckJKdVNKM3pkQnd0WElYcVlxa3hTcl9uWEtCSUp0VG93MjlYWFdZVVFPdTNpNXRJclFmQ21oeEFQdTJ2TDdFQ19nYlBaaEtZaHFwZkFmLXBPaUhLbnNqVnZOcS13THVGYVZUWHVHRXItcC12Q0VGVXh2cUNWampNTTNoQ1pvRWxxd1k4VHl0UC1ISzVBdnhEV1AyNXdrMlotYkppenVjOHg",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOckJKdVNKM3pkQnd0WElYcVlxa3hTcl9uWEtCSUp0VG93MjlYWFdZVVFPdTNpNXRJclFmQ21oeEFQdTJ2TDdFQ19nYlBaaEtZaHFwZkFmLXBPaUhLbnNqVnZOcS13THVGYVZUWHVHRXItcC12Q0VGVXh2cUNWampNTTNoQ1pvRWxxd1k4VHl0UC1ISzVBdnhEV1AyNXdrMlotYkppenVjOHgyYmtTVDJBcjZGODEwWVpLRGhiM0JB?oc=5",
+      "source": "The Tennessean",
+      "pubDate": "Wed, 22 Jul 2026 16:12:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Sir Richard Branson coming to Nashville for Virgin Hotels groundbreaking - The Tennessean",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNWDNkNGhLZC1JaW5jemdTV1ZWTjh3ZVFNU2E4TkVLNUpEYmFnM2lYN2xTWXJZUnpEY1BkNUZEc1BHU2QwZlZ4T0NfY3ZuRWw4akV6b3BpYkFGYnNKNm1rcVNCZHIwX3BScjNOZlctWWc3b3VQNWVNUTRHUzNYQUlwcXZhVUpMdm5MVHg1NkVWWHd3cnJ3WVVqNGplWVQzYXpmXzN6REptRnB",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWDNkNGhLZC1JaW5jemdTV1ZWTjh3ZVFNU2E4TkVLNUpEYmFnM2lYN2xTWXJZUnpEY1BkNUZEc1BHU2QwZlZ4T0NfY3ZuRWw4akV6b3BpYkFGYnNKNm1rcVNCZHIwX3BScjNOZlctWWc3b3VQNWVNUTRHUzNYQUlwcXZhVUpMdm5MVHg1NkVWWHd3cnJ3WVVqNGplWVQzYXpmXzN6REptRnBaQXBXX3VRdVotdjVjYWRQWWdzVkp3?oc=5",
+      "source": "The Tennessean",
+      "pubDate": "Wed, 13 Sep 2017 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Groundbreaking research led in Nashville could change sickle cell treatment for children - WZTV",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTEdlN2NxaTNxTXV6QkFqV3Z1bTg3TDFBM3ZmNVE0WkJacjl2Nk9NcDZ1R3Qta0xQWWtWWkNmSFhENTI1S1dsQkxHUlZ5ckVFSDl4a1VNWXRjZ0ZkNEQ3RC1EUjNCR3g4VjVrQTBndExVOFdGZUVxclE3MkhHbTZoLTB0ZDZ4cElScTgtWk83UG55TzlOdHJJM01PU1E2bHBnRDdNNDc3TG5",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTEdlN2NxaTNxTXV6QkFqV3Z1bTg3TDFBM3ZmNVE0WkJacjl2Nk9NcDZ1R3Qta0xQWWtWWkNmSFhENTI1S1dsQkxHUlZ5ckVFSDl4a1VNWXRjZ0ZkNEQ3RC1EUjNCR3g4VjVrQTBndExVOFdGZUVxclE3MkhHbTZoLTB0ZDZ4cElScTgtWk83UG55TzlOdHJJM01PU1E2bHBnRDdNNDc3TG5pcUlaWDU5bEh0NUZwczdJTEFOQkJoTVA1YnVKQ2ZXSWlITXgwdFdOeUpON19sdlBBa1RnaS02alFRZzY2RnA2U3FuZzVTTEdINlkz?oc=5",
+      "source": "WZTV",
+      "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "The Housing Fund hosts pitch event to award developers funding for affordable housing in Middle Tennessee - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxOdUd3MXA2S2M4TU4yWXNGUlk5dXpVQW5HV3hPdXZnSmtrZ09IRnExZllQLUVQOVdQd3FFMkFrb2xzek1VZEpjVmRGN2YyYTR6blBFOFpmUGdWdnBQei1TSHNjLXp3bFl1aGZZNmNjUm5xd0d5TzFMV1BHUFYzY2hmeUk0X0hDOExRM3Y1eDcwdkZaMGU5eVhnSHIteUVMZFY3dG1lbHR2YnJ",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdUd3MXA2S2M4TU4yWXNGUlk5dXpVQW5HV3hPdXZnSmtrZ09IRnExZllQLUVQOVdQd3FFMkFrb2xzek1VZEpjVmRGN2YyYTR6blBFOFpmUGdWdnBQei1TSHNjLXp3bFl1aGZZNmNjUm5xd0d5TzFMV1BHUFYzY2hmeUk0X0hDOExRM3Y1eDcwdkZaMGU5eVhnSHIteUVMZFY3dG1lbHR2YnJETFp3bnEzWGlheWZJVVlScXdCMmttcVpaaG1LNHByUExEcjk0UVctSElMN1dfTkpPY0NZWkNuSzA3RHJsUXhTeUZFLVh2aFpTOExQenBzZjM1STdzMTdPLUdmamVBM01QcG1N?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "MTSU, Middle Tennessee Electric partner on quantum research - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPRGV6NFRnUC02MmpKME8zRnlIODVtODBUcXFPd0M1UWZTSHFUTlVlMjNIS0F5NU1uMUVBVmdDVGQ2UGF0NFZxZ2FySjZzdjBfN0tOT1FscGhCTnNqY2UwRDVLeGR2eHZqdldpUFBsLThOcmxfYmktV2xvTnpIbjVUekRyQ0ZUNEFwTGNUTmNyZXZlQk82d0dr?oc=5\" target=\"_blank\"&",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRGV6NFRnUC02MmpKME8zRnlIODVtODBUcXFPd0M1UWZTSHFUTlVlMjNIS0F5NU1uMUVBVmdDVGQ2UGF0NFZxZ2FySjZzdjBfN0tOT1FscGhCTnNqY2UwRDVLeGR2eHZqdldpUFBsLThOcmxfYmktV2xvTnpIbjVUekRyQ0ZUNEFwTGNUTmNyZXZlQk82d0dr?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Tue, 19 May 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Tanger Outlets Nashville breaking ground in Antioch - WKRN News 2",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbFRFa3U5NUdtbTQ2RUl5dzVSQ05OcGFrQU1XRUFkNnpTZ3hFOVgyMnVjMEE2ZzY2czJJaDNpMWNnZnBITXpULWRzWF9SanY0NzNFZG1iam5nbEd4NjVTaXFyWnc0Y2VDTGlIeTRkR2gxdGpSWjlJRzB5WXZUNHppbXo0QzNhUWdndVV4QXN2RlhsRUhON3Bld3ZNWVhEM1NCNUh5ZTdRVDE",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbFRFa3U5NUdtbTQ2RUl5dzVSQ05OcGFrQU1XRUFkNnpTZ3hFOVgyMnVjMEE2ZzY2czJJaDNpMWNnZnBITXpULWRzWF9SanY0NzNFZG1iam5nbEd4NjVTaXFyWnc0Y2VDTGlIeTRkR2gxdGpSWjlJRzB5WXZUNHppbXo0QzNhUWdndVV4QXN2RlhsRUhON3Bld3ZNWVhEM1NCNUh5ZTdRVDE2NVnSAbABQVVfeXFMUE5pWlZ4YkRzdXd6Z0FoSE0xTDFKSC1Lem5HSl94WkVlNFZTZmwwbnBxMVlHQjI1MTMtY2dtejF5Ry15NXgyRF9COTY2Y1FHdGdXeW11OFFoZ1hOQ2tvTzlFNHZLZDkxTUh4QjV4emZHT01HTnNINndqdFRTU0dFZ3phaHN3MlVEc0hnR3NMMTF6SmdfQW1qSkxzZmJnNXZVUFZ0ZC1ERGdaYk9kRWNNSE8?oc=5",
+      "source": "WKRN News 2",
+      "pubDate": "Tue, 17 May 2022 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "New mixed-use development coming to Spring Hill - WSMV",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPT1U3YjFJUVVxZGlMWEJ3YkFYWUc3TWtxazhlRlVrRFJCSTNYOS1ZcG5BdjdEQkV2R0N0ZmhiMl8yY0ctZDB0ZUI2LXlIT1VGT1czc3R3ZTd6OUdNc2Zmc2Nma24zdVg2ckQ0TV96dVcyMmtZdzE3ZVVSWmY2cGhUUTR1MNIBlwFBVV95cUxPZzlfTVdPTEZrRDlBRWh2RlhDODdwZEozR0F",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT1U3YjFJUVVxZGlMWEJ3YkFYWUc3TWtxazhlRlVrRFJCSTNYOS1ZcG5BdjdEQkV2R0N0ZmhiMl8yY0ctZDB0ZUI2LXlIT1VGT1czc3R3ZTd6OUdNc2Zmc2Nma24zdVg2ckQ0TV96dVcyMmtZdzE3ZVVSWmY2cGhUUTR1MNIBlwFBVV95cUxPZzlfTVdPTEZrRDlBRWh2RlhDODdwZEozR0FkMFFwdThpeE8tYVNfMlEwdTRCTjI4bUhDSXBLTlNSdVlvX1ktWHJLR1kxTkFmWDZ4eGstREZiZVA4RjZBV1BIeV9TQU15Z05LbG1UYTdtLXpCZGY4Y3UzdTlMdnZQSzlLQmJVbjF0Q01IV1o0bTFVa292ZHBJ?oc=5",
+      "source": "WSMV",
+      "pubDate": "Tue, 13 Sep 2022 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "EMBREY Breaks Ground in Franklin, Tennessee - Multifamily &amp; Affordable Housing Business",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNZnJqakNwTk5famh1OVgxMmx2aGVZTTVwR19TNTMyN0RiTExHeDRLZlJrcFpyY3hlQ20xWnZFa21DNi1LejJYUm5HU3VQMmY2bWJaXzF0czRfTnoxUjM3WGg0cDNRa01mbEFmWVJuOGVja29LQV9jRVRRNmM0TUF3YnNIMUxPejlURlgtRA?oc=5\" target=\"_blank\"&gt;EMBREY Brea",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZnJqakNwTk5famh1OVgxMmx2aGVZTTVwR19TNTMyN0RiTExHeDRLZlJrcFpyY3hlQ20xWnZFa21DNi1LejJYUm5HU3VQMmY2bWJaXzF0czRfTnoxUjM3WGg0cDNRa01mbEFmWVJuOGVja29LQV9jRVRRNmM0TUF3YnNIMUxPejlURlgtRA?oc=5",
+      "source": "Multifamily &amp; Affordable Housing Business",
+      "pubDate": "Thu, 02 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Wilson County school placed on ‘soft lockdown’ after another threatening call made to Mt. Juliet Police - WSMV",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOU2MxN3JPS0hWRF91NWhZaDFhRDNmME9wb3gyMDkzOF9NNU82MmNEaC1RSUliRmVnN2lQV1dXRXpsdU8zQThfWVBia2ZOZFl3OWltalMtMGJwMzVNNUFKaEV5SXpUZGVwcTJydGRkbTk0UjFtSS1Wam9nN1JDdmpQZWt5bFo3Q3lJZ2xJUjdhNWZ1QmtEdzBLV0Q3ME1QcnZmUWlvWE1lTTh",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU2MxN3JPS0hWRF91NWhZaDFhRDNmME9wb3gyMDkzOF9NNU82MmNEaC1RSUliRmVnN2lQV1dXRXpsdU8zQThfWVBia2ZOZFl3OWltalMtMGJwMzVNNUFKaEV5SXpUZGVwcTJydGRkbTk0UjFtSS1Wam9nN1JDdmpQZWt5bFo3Q3lJZ2xJUjdhNWZ1QmtEdzBLV0Q3ME1QcnZmUWlvWE1lTTh1Zm1hWk5vV05SSkxhOWcwaExlX3ozZ2JYakZsZEE?oc=5",
+      "source": "WSMV",
+      "pubDate": "Thu, 02 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Growth and development: Averitt expands in Middle Tennessee - Upper Cumberland Business Journal",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNNTZjbi1IVDVwQ0sxaHZGSVpNMFBQREJKVVIxemZoRXdHeE9mQ2ZocUFNQ0xwMVF0NmtIcVlGbV9fZlNSQUY3dlRfZUtwLWdiMTRJa3ZRQ2FOSXR5amRic0JCZTRhODNlSTZJRlp2MTdUZjU1Q2VadmFlbWxycnZqZTBaM3RTbWt6bWZVZXlOVQ?oc=5\" target=\"_blank\"&gt;Growth ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNTZjbi1IVDVwQ0sxaHZGSVpNMFBQREJKVVIxemZoRXdHeE9mQ2ZocUFNQ0xwMVF0NmtIcVlGbV9fZlNSQUY3dlRfZUtwLWdiMTRJa3ZRQ2FOSXR5amRic0JCZTRhODNlSTZJRlp2MTdUZjU1Q2VadmFlbWxycnZqZTBaM3RTbWt6bWZVZXlOVQ?oc=5",
+      "source": "Upper Cumberland Business Journal",
+      "pubDate": "Thu, 01 Feb 2024 08:00:00 GMT"
+    }
+  ]
+}
