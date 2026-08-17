@@ -1,0 +1,213 @@
+{
+  "computed_at": "2026-08-17T12:27:11.441Z",
+  "amenity_diff": {
+    "added_count": 3,
+    "removed_count": 25,
+    "added_by_category": {
+      "fast_food": 1,
+      "dentist": 1,
+      "restaurant": 1
+    },
+    "note": "Comparing amenities-2026-08-17.json vs amenities-2026-08-10.json"
+  },
+  "sec_diff": {
+    "new_filings_count": 0
+  },
+  "news_diff": {
+    "new_items_count": 18
+  },
+  "feed": [
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Mt. Juliet will receive $12 million federal grant to widen Lebanon Road to 5 lanes - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMk8tdnNyRGJiM3B5UHNkTjN2bGFmMDQ0YnF2aWNuVVlIQVl2MFFUZ0ZNZVZ0LTJ3WE52T1p1bUExOTM1WUhPQXZUcGxvdmM3Z2t1WHlzLU8zVkVBRXlTVkp4QWFDYjVjckQzc2xtLXhybTRQUDBmUFJsN2t5aDM0d2EtWUFQZUpGUmhIMEViOGJvSXJPVUlLRThRY1hybjRhVnZrT3V2dHh",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMk8tdnNyRGJiM3B5UHNkTjN2bGFmMDQ0YnF2aWNuVVlIQVl2MFFUZ0ZNZVZ0LTJ3WE52T1p1bUExOTM1WUhPQXZUcGxvdmM3Z2t1WHlzLU8zVkVBRXlTVkp4QWFDYjVjckQzc2xtLXhybTRQUDBmUFJsN2t5aDM0d2EtWUFQZUpGUmhIMEViOGJvSXJPVUlLRThRY1hybjRhVnZrT3V2dHhYbF9DUHBhNGNxUm9fanZCLTQzOVpXY3NpdDBsOWI0eUI4bXFvcUdUWXR6NC1ER1lzUlo2?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Mon, 10 Aug 2026 21:54:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "CBL Sells Land at CoolSprings Galleria Mall in Metro Nashville to Greystar for 361-Unit Apartment Development - REBusinessOnline",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeWdhWHAzUk1nNl95emdWQkhWWVBlcGF5Sk9nYmxFUWlGVk43MmdYQWFXaTJSRjRxU1pKaHJQRjNfY1VER081MHdSUzEyZ201SVNicktOOXgzb3AwS0d2dWxBNkZCU2Y1Nk9kcFNOTEIyR05OR29JRHZNWktzUUhObHVsTW94OGI0ekxmRUgwVkNGSzhLeDhXLTBxMTFzM0hXMmhFWGlMZU1",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeWdhWHAzUk1nNl95emdWQkhWWVBlcGF5Sk9nYmxFUWlGVk43MmdYQWFXaTJSRjRxU1pKaHJQRjNfY1VER081MHdSUzEyZ201SVNicktOOXgzb3AwS0d2dWxBNkZCU2Y1Nk9kcFNOTEIyR05OR29JRHZNWktzUUhObHVsTW94OGI0ekxmRUgwVkNGSzhLeDhXLTBxMTFzM0hXMmhFWGlMZU1ZWVZaRjhYd1h1YlNlYWpZa0E2SmNRYlFKMmZuZlRLd3QwM1NYX0dTdUtFLV9n?oc=5",
+      "source": "REBusinessOnline",
+      "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Groundbreaking Ceremony for Senior Workforce Housing Development in North Nashville - The Tennessee Tribune",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDRKUU00QmVJM3N1dU56N2YtRVR4ckx1ZDJzS2VnME5ycVQxUEFhZWNpQ201UWdLREYxelNiZEhPWHI4cjgxLWVZS0t5ampEQmJHbFh0a3FscTNlbElGMm5yN2FmTGwzMjBmdGRoUzBXUF9xeEtKbjJkUTVsNXdmeHFlNVp1SWxNaFRIaGNqR2d1eEZIYzAwcG1vZkRfQ01sYUpsRUN0eHB",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDRKUU00QmVJM3N1dU56N2YtRVR4ckx1ZDJzS2VnME5ycVQxUEFhZWNpQ201UWdLREYxelNiZEhPWHI4cjgxLWVZS0t5ampEQmJHbFh0a3FscTNlbElGMm5yN2FmTGwzMjBmdGRoUzBXUF9xeEtKbjJkUTVsNXdmeHFlNVp1SWxNaFRIaGNqR2d1eEZIYzAwcG1vZkRfQ01sYUpsRUN0eHBwZw?oc=5",
+      "source": "The Tennessee Tribune",
+      "pubDate": "Thu, 16 Jan 2025 08:00:00 GMT"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: McDonald's",
+      "detail": "3050 Wilma Rudolph Boulevard Clarksville",
+      "lat": 36.5943829,
+      "lng": -87.2917334,
+      "category": "fast_food",
+      "brand": "McDonald's"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New dentist: Accent Smile Center",
+      "detail": "320 E College Street Dickson",
+      "lat": 36.0734637,
+      "lng": -87.3838435,
+      "category": "dentist",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Drake's",
+      "detail": "35.8612, -86.4411",
+      "lat": 35.8612079,
+      "lng": -86.4410637,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Dickerson Pike Mixed-Use Development Advances In East Nashville. - CITY NOW NEXT",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPMW13NzYxalZHd2FZaEFmRk9PVE0zSXVuWlJhSEVUVWZMNnRaaFI2cmpaUEF5bnpQUEtnTEZ6eTJsMmRYZVVCMC1yUGctN3UtdkM5RzZfM2xFcElJR1VQeEE4QzFYUWQxOEoxbG1jWW85d3RxZGZZa2ZZVXM1WkhpSk9XU1UzWG9GNzZIRHdjWV9hUDlrOG9ocnZxNkVpTFUy?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMW13NzYxalZHd2FZaEFmRk9PVE0zSXVuWlJhSEVUVWZMNnRaaFI2cmpaUEF5bnpQUEtnTEZ6eTJsMmRYZVVCMC1yUGctN3UtdkM5RzZfM2xFcElJR1VQeEE4QzFYUWQxOEoxbG1jWW85d3RxZGZZa2ZZVXM1WkhpSk9XU1UzWG9GNzZIRHdjWV9hUDlrOG9ocnZxNkVpTFUy?oc=5",
+      "source": "CITY NOW NEXT",
+      "pubDate": "Wed, 21 May 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Antioch once again reigns supreme in Nashville real estate - axios.com",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPREp2bnkwU3AyR2VkQlp5ekdYUGpOVDhERDBlRnBKMWppYjBSRVlnVXVDbzlab1FkMzBvTE9WMDM1bmFlUS0zRnRQaWhfMHFJa05GZy1WV1VHdFJFM1VmNFR6eTg5RzRaOGdvLV9MeHB2T0pQeXJ2YVl1RGVWcmY1OG5YZlFlYng0dkxLWFQwVjg0RVgxR0VTLVZSdlExZw?oc=5\" target",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPREp2bnkwU3AyR2VkQlp5ekdYUGpOVDhERDBlRnBKMWppYjBSRVlnVXVDbzlab1FkMzBvTE9WMDM1bmFlUS0zRnRQaWhfMHFJa05GZy1WV1VHdFJFM1VmNFR6eTg5RzRaOGdvLV9MeHB2T0pQeXJ2YVl1RGVWcmY1OG5YZlFlYng0dkxLWFQwVjg0RVgxR0VTLVZSdlExZw?oc=5",
+      "source": "axios.com",
+      "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Embrey Sells Statler MCain’s Station Near Nashville - Multifamily &amp; Affordable Housing Business",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNLWtYNmJ1X3VKT0ZYR3BfcGR4SEp3djBOYWlWRTNKRWRXZGJoOXZxaUZDSnR2Y20yZ3Nrc0FkMVp2TWF5QW1oYnQ3d2Y2c3pmeEZzOHFzY2lPY24zS1RObmVHVGNJM05leHVMR1diN0ZGRGRBdkVnSXVxZDJNNmtBMHRYbWNNaDBIRnZ1cXM4R0h3T25ZUjhZ?oc=5\" target=\"_blank\"&",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLWtYNmJ1X3VKT0ZYR3BfcGR4SEp3djBOYWlWRTNKRWRXZGJoOXZxaUZDSnR2Y20yZ3Nrc0FkMVp2TWF5QW1oYnQ3d2Y2c3pmeEZzOHFzY2lPY24zS1RObmVHVGNJM05leHVMR1diN0ZGRGRBdkVnSXVxZDJNNmtBMHRYbWNNaDBIRnZ1cXM4R0h3T25ZUjhZ?oc=5",
+      "source": "Multifamily &amp; Affordable Housing Business",
+      "pubDate": "Wed, 10 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Groundbreaking held for Buc-ees in Murfreesboro - WSMV",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5PLTBwMk55M2lLTm9uSDBVMk9mQmgwS3pHZ290azcyZHR4ZVJMRUp2Z0tqX2xKRmhzSFk4azBZYmtKYndIb0R1WmtObzV0THh6aUxsVjVRWWVqcmc0YW5TN2FkbHJHWGdsUXdmZENOdVFkNHZtVXRVcUpHb2tHdw?oc=5\" target=\"_blank\"&gt;Groundbreaking held for Buc-ees",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PLTBwMk55M2lLTm9uSDBVMk9mQmgwS3pHZ290azcyZHR4ZVJMRUp2Z0tqX2xKRmhzSFk4azBZYmtKYndIb0R1WmtObzV0THh6aUxsVjVRWWVqcmc0YW5TN2FkbHJHWGdsUXdmZENOdVFkNHZtVXRVcUpHb2tHdw?oc=5",
+      "source": "WSMV",
+      "pubDate": "Tue, 14 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "This Mt. Juliet neighbor has battled flooding for decades, and significant help is at least a year away - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPY1c2RDRxalhxREpVUkdVTW1PMi1OOUg0YmFVWDJXeHN3WHBHRXROd1NyUzY0TURGLWxTNmIxb0lUNzdaSzh5NXdBcmxUZDdfOVRFUGNHdk5SbFhMSFNoSXdQVUJmN2NqYXpuYVhUelFPVWJFc3FVXzBaSmowZkN6dVEtWE9iT2trV0U4a09kM2FjSGg3RDloMmRwUmNfVG5fY0RNbjhRMEw",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPY1c2RDRxalhxREpVUkdVTW1PMi1OOUg0YmFVWDJXeHN3WHBHRXROd1NyUzY0TURGLWxTNmIxb0lUNzdaSzh5NXdBcmxUZDdfOVRFUGNHdk5SbFhMSFNoSXdQVUJmN2NqYXpuYVhUelFPVWJFc3FVXzBaSmowZkN6dVEtWE9iT2trV0U4a09kM2FjSGg3RDloMmRwUmNfVG5fY0RNbjhRMEwyWTBGV1pDUE1wR1hMdjgzb3Q0RHpCSy1mZTZnNllhc3VHNmZpVWw2Yi00RkVJLXYyZmRRVXg1NFU4ZDN4NnBEM3MyaXRTU29hZDVSY1RyZg?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "News | While multifamily construction slows in Nashville, development is ramping up in these suburbs - costar.com",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNc1RRWkJVMWhCdWJwQXhGWkN1NEJWd3pMMXF0MzZ4bmVEbFBDS1lWNVJ6czFSZUNBRFphbk1DdGgwcGstTDFPTlZBeGNLRU12ZlVxUFc0TU95NzJmNlFja1Uxd0dnNmt5cGlNQ3BSc0xnOWNTU3QtYlRaNlVEZFB4eVhNMGhnRGpJUlFYUGRxb2ZRTU5pZHYxWDNVRWRPY0h4Q3d4MElKODc",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc1RRWkJVMWhCdWJwQXhGWkN1NEJWd3pMMXF0MzZ4bmVEbFBDS1lWNVJ6czFSZUNBRFphbk1DdGgwcGstTDFPTlZBeGNLRU12ZlVxUFc0TU95NzJmNlFja1Uxd0dnNmt5cGlNQ3BSc0xnOWNTU3QtYlRaNlVEZFB4eVhNMGhnRGpJUlFYUGRxb2ZRTU5pZHYxWDNVRWRPY0h4Q3d4MElKODcwa1hpazNaSUlfY2JRTkFncEdFN3hBMHFqNEY2UW8tUXFyeVY?oc=5",
+      "source": "costar.com",
+      "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Mt. Juliet voters to decide this fall if developers should pay more for city growth in years to come - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQR1hDbUl1MU9KT2FoalJwcV9JNDcwdTJ4OFVQQzkyU084R1EtVXpDYnZydk51OG5ZaWxpV1FrSldVdzN3NS1Vc1oyOERzY3BsRVhoZWhYMjRkNmZKb1psYk5GbURhUVpacWktam5XSWlwUGxpSGlheFljYWlFZkF4MklMNlowbmVVbm5ZM3lZSE9zTGxSbHJCbFMzMXBWTFltX0ExaEpZS1M",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQR1hDbUl1MU9KT2FoalJwcV9JNDcwdTJ4OFVQQzkyU084R1EtVXpDYnZydk51OG5ZaWxpV1FrSldVdzN3NS1Vc1oyOERzY3BsRVhoZWhYMjRkNmZKb1psYk5GbURhUVpacWktam5XSWlwUGxpSGlheFljYWlFZkF4MklMNlowbmVVbm5ZM3lZSE9zTGxSbHJCbFMzMXBWTFltX0ExaEpZS1M3RHcxaWhZb0tnRmR2QzE2TlRfQ1p0QWtST2Z3UXhROW9PTlRVTzBnSVdreXg3aHNja1FkRF94aENHV1N2MjNwR3ViM1djZFdOckFpc2c?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Thu, 13 Aug 2026 23:55:02 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Crescent, Stockbridge Capital Break Ground on 277-Unit Apartment Development in West Nashville - REBusinessOnline",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa01PbURZclZYUXQ0bE10MFgwV1JwLU43b19XMDRnQ0IyRVk1NUpEMWZRUFBGc0ZveXJHQ1JZOUVCWnZabWtTNVpodlhwZ19QLXdpRi1JeDU1VUFmSTlCWDRFb2tJRXhmM1VqamVpN3RBRGVnT1IzZEVqanpwQ1Y1eFdwMm8tclhxQXJvRUJ4MVhuVzU2RF95U3JOMEU2VmRrbVN1VVpOMlB",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa01PbURZclZYUXQ0bE10MFgwV1JwLU43b19XMDRnQ0IyRVk1NUpEMWZRUFBGc0ZveXJHQ1JZOUVCWnZabWtTNVpodlhwZ19QLXdpRi1JeDU1VUFmSTlCWDRFb2tJRXhmM1VqamVpN3RBRGVnT1IzZEVqanpwQ1Y1eFdwMm8tclhxQXJvRUJ4MVhuVzU2RF95U3JOMEU2VmRrbVN1VVpOMlBEWXIxOXJ3TVR2dlR2b0paenA4MG9KVHU?oc=5",
+      "source": "REBusinessOnline",
+      "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Driver arrested in Nashville after fleeing Mt. Juliet crash, police say - WKRN News 2",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3l1bVh0cVlURjkwOXFMNXFCdjI0NE5OQWxqSzRIbGstQ19Wc3NDR1NNMV9uTlJ5WWRJTkw4ajRRT25ROWV4TEEzMDdRaHJ5Sk5lb3l5a2k3SVFWX0JXV3Q1RHNEU1lDMC1jMFN5LWJXN2o3QVFzeXZTWGc0YzIzOE51MXkwWGI1YmlWcTc4WlRQX0YwejVaSzVfR1XSAaIBQVVfeXFMT2R",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3l1bVh0cVlURjkwOXFMNXFCdjI0NE5OQWxqSzRIbGstQ19Wc3NDR1NNMV9uTlJ5WWRJTkw4ajRRT25ROWV4TEEzMDdRaHJ5Sk5lb3l5a2k3SVFWX0JXV3Q1RHNEU1lDMC1jMFN5LWJXN2o3QVFzeXZTWGc0YzIzOE51MXkwWGI1YmlWcTc4WlRQX0YwejVaSzVfR1XSAaIBQVVfeXFMT2R6azBjVHg2azBEUzVnMXE4N2RQYTZyNTVQd1BLMG1ZRTdlLTEyOFVWMk5Ncmw1MzBpb1owNVJ3aEJRTFRPdUlCamZkdWIwTWlTcEVMOFl1dXJwRGtZS0tScVFXYjV2VUdsVENnRllLT2lHNXg4TGlXZEZPOGNZSHZqOVN5SjdkMnA3b3pSUmU4d2pwU1JrVkdpc2gyRkJyWGR3?oc=5",
+      "source": "WKRN News 2",
+      "pubDate": "Sun, 16 Aug 2026 11:54:15 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "550,000 SF North Cap Project Announce April Groundbreaking In Nashville. - CITY NOW NEXT",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmRWMk9KSUtPSlV6UVFBNXo3ajk1S0Eyek5xVnpFam1RbWt3WDk3bk55NzF0aEtvTkJBUW56OEh6eGNKVmdaZzJpclROM0lVQ3NmRXhVbHdic0toby1vbXZGYVdfYVJyQUdmbFFWdVF6ajNiNFJmdElJVkg3Zm9HcFBONjZOV1JoWFR2MFBFU0psd0wzY3RHQ2FwQk9jM3lzdkNkOEl5Uk5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmRWMk9KSUtPSlV6UVFBNXo3ajk1S0Eyek5xVnpFam1RbWt3WDk3bk55NzF0aEtvTkJBUW56OEh6eGNKVmdaZzJpclROM0lVQ3NmRXhVbHdic0toby1vbXZGYVdfYVJyQUdmbFFWdVF6ajNiNFJmdElJVkg3Zm9HcFBONjZOV1JoWFR2MFBFU0psd0wzY3RHQ2FwQk9jM3lzdkNkOEl5Uk56Zw?oc=5",
+      "source": "CITY NOW NEXT",
+      "pubDate": "Mon, 31 Mar 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "The 1st Affordable Mixed-Use Development Unveiled For East Bank Nashville. - CITY NOW NEXT",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTF2M3ZTSFhRaG9Yd2sySHhGeGF0QVhweTF0WS16VnA4UXF2TkFZOVF1eUlIUWlNODViWHg2emctN3VTam00U3p4b282cHpweTd1NlNlai1JdmJfWnR5OWFHTmdSRTk1dUZlUTdNaUF3Zk85Q21ZNHliUEZCTGVJRlhrOXFLeUw0Mmk5alU0QkVRYmEwbzZHeE1PSk11NHNXdGFqS1V4RnZ",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTF2M3ZTSFhRaG9Yd2sySHhGeGF0QVhweTF0WS16VnA4UXF2TkFZOVF1eUlIUWlNODViWHg2emctN3VTam00U3p4b282cHpweTd1NlNlai1JdmJfWnR5OWFHTmdSRTk1dUZlUTdNaUF3Zk85Q21ZNHliUEZCTGVJRlhrOXFLeUw0Mmk5alU0QkVRYmEwbzZHeE1PSk11NHNXdGFqS1V4RnZ3UnIwQUE?oc=5",
+      "source": "CITY NOW NEXT",
+      "pubDate": "Mon, 30 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Mt. Juliet nursery hosting Memorial Day drone show, if weather cooperates - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQUhuRlgzdDVlQ0doRDdvVjZkN0pIQTEwSmtUcTRnRVU0Ym9aT3pnQ2VMUzB5MGpKcm81X1dfTFdSUFkwRUpZSVd6NjJGTjRUbTBGYW5Yb01lcFRPbmQzT1VjTm9hYnZBeGl1NFZBQnRFMGl3WEhqaFZWcXNCRjA4dGh5NnBLbFhKZEpNX2NJXzRUeGJYOEwwS0NIWXdxa1B6U25BU3FzUjR",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQUhuRlgzdDVlQ0doRDdvVjZkN0pIQTEwSmtUcTRnRVU0Ym9aT3pnQ2VMUzB5MGpKcm81X1dfTFdSUFkwRUpZSVd6NjJGTjRUbTBGYW5Yb01lcFRPbmQzT1VjTm9hYnZBeGl1NFZBQnRFMGl3WEhqaFZWcXNCRjA4dGh5NnBLbFhKZEpNX2NJXzRUeGJYOEwwS0NIWXdxa1B6U25BU3FzUjRrenFOUUJhamdZN0FmbDF3QWx5ME1Ic0ZJU0pJX0tCT0Flc2diTk44?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Mon, 25 May 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "As Middle Tennessee grows, Mt. Juliet debates housing and safety - WZTV",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNNlRRWXpxbUVWUXZZeE00bFhpdG9CZjJSQTNzY3VaankwenRER3AwYk0yOVlBOXZGZUFNeVR4VUEzWk0wMDNKcmhuMmxoSFBiSTdpX1pDVGxsSWdHSXdsLW5hc1dwMEl0Y05PTTNhM0dTWHdFeGx5dzFjWjIxWFhBWVJRQ0hQcVFMRU9OdWRsY0lFV3RDeUE?oc=5\" target=\"_blank\"&g",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNlRRWXpxbUVWUXZZeE00bFhpdG9CZjJSQTNzY3VaankwenRER3AwYk0yOVlBOXZGZUFNeVR4VUEzWk0wMDNKcmhuMmxoSFBiSTdpX1pDVGxsSWdHSXdsLW5hc1dwMEl0Y05PTTNhM0dTWHdFeGx5dzFjWjIxWFhBWVJRQ0hQcVFMRU9OdWRsY0lFV3RDeUE?oc=5",
+      "source": "WZTV",
+      "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Metro Council takes up rezoning plan for East Nashville scrapyard - axios.com",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNSU02SHZDOUtheW1KaTZxdER2QTduaEk1NURTWXNPQ2RLNXVXYUlkbEFZcGdWeXFiTUllMnVNeGFPc0prWWpXZXdmZkZlVDU3TVk3ZVRULUFsaGItS19ORkU2Uk00NGpFa0RGbG00OVlXWHk2Q1ZDY0l5QUtneXlIQW1TUTA0WVItcTlEWEVHR0VsMmR5RmY0RVFibHAyOUhWRGlJS3VXdm5",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSU02SHZDOUtheW1KaTZxdER2QTduaEk1NURTWXNPQ2RLNXVXYUlkbEFZcGdWeXFiTUllMnVNeGFPc0prWWpXZXdmZkZlVDU3TVk3ZVRULUFsaGItS19ORkU2Uk00NGpFa0RGbG00OVlXWHk2Q1ZDY0l5QUtneXlIQW1TUTA0WVItcTlEWEVHR0VsMmR5RmY0RVFibHAyOUhWRGlJS3VXdm5RczNHYVF4c05rUFQ?oc=5",
+      "source": "axios.com",
+      "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Sir Richard Branson Coming To Nashville For Virgin Hotels Groundbreaking - Bisnow",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPbnQyVi1MejhZRjFoM0Yza2FZWDRJMnlRazEtSXZQOE96eXR3S25wX2o0TjNFNHdmVTJzd0hQb04xd1FRMExveWNRdER1LV8zSy1DU1BsSHBPZ1pBaWVRWUViTWY4YnhVUzhQUGZLRzQ1T3JiQnpHeVJOSkk1S08yUndyTUQtNWZvWTZ6ZXVLNVBnSUR6bUxJVVR4RGJ0c1B2UWhnR3hBWmo",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbnQyVi1MejhZRjFoM0Yza2FZWDRJMnlRazEtSXZQOE96eXR3S25wX2o0TjNFNHdmVTJzd0hQb04xd1FRMExveWNRdER1LV8zSy1DU1BsSHBPZ1pBaWVRWUViTWY4YnhVUzhQUGZLRzQ1T3JiQnpHeVJOSkk1S08yUndyTUQtNWZvWTZ6ZXVLNVBnSUR6bUxJVVR4RGJ0c1B2UWhnR3hBWmotNV90c2x6NDVXQ2xtWEU1YzN0N283aw?oc=5",
+      "source": "Bisnow",
+      "pubDate": "Mon, 18 Sep 2017 07:00:00 GMT"
+    }
+  ]
+}
