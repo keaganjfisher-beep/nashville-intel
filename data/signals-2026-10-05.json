@@ -1,0 +1,531 @@
+{
+  "computed_at": "2026-10-05T20:10:02.110Z",
+  "amenity_diff": {
+    "added_count": 140,
+    "removed_count": 31,
+    "added_by_category": {
+      "fuel": 15,
+      "grocery": 8,
+      "convenience": 9,
+      "fast_food": 29,
+      "cafe": 15,
+      "restaurant": 40,
+      "auto": 7,
+      "childcare": 2,
+      "pharmacy": 2,
+      "clinic": 6,
+      "bank": 3,
+      "dentist": 3,
+      "hospital": 1
+    },
+    "note": "Comparing amenities-2026-10-05.json vs amenities-2026-09-28.json"
+  },
+  "sec_diff": {
+    "new_filings_count": 0
+  },
+  "news_diff": {
+    "new_items_count": 15
+  },
+  "feed": [
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New grocery: Turnip Truck Natural Market",
+      "detail": "701 Woodland Street",
+      "lat": 36.1737634,
+      "lng": -86.7601044,
+      "category": "grocery",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New clinic: The Little Clinic",
+      "detail": "35.8938, -86.8807",
+      "lat": 35.8937565,
+      "lng": -86.8806931,
+      "category": "clinic",
+      "brand": "The Little Clinic"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New clinic: Vanderbilt Health",
+      "detail": "35.9347, -86.8229",
+      "lat": 35.9346998,
+      "lng": -86.8229341,
+      "category": "clinic",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New grocery: Country market",
+      "detail": "36.5282, -86.6407",
+      "lat": 36.5281648,
+      "lng": -86.6406797,
+      "category": "grocery",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New clinic: Urgent Care",
+      "detail": "36.5089, -87.2766",
+      "lat": 36.5089102,
+      "lng": -87.2765787,
+      "category": "clinic",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New clinic: Beckman Family Medical",
+      "detail": "1127 Dow Street Murfreesboro",
+      "lat": 35.8575301,
+      "lng": -86.3803779,
+      "category": "clinic",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New clinic: Clarksville Center for Dyslexia",
+      "detail": "36.5158, -87.2993",
+      "lat": 36.5157908,
+      "lng": -87.2993278,
+      "category": "clinic",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New grocery: Dollar General Market",
+      "detail": "36.5164, -87.2982",
+      "lat": 36.5163962,
+      "lng": -87.2981894,
+      "category": "grocery",
+      "brand": "Dollar General"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New clinic: CenterWell",
+      "detail": "36.5164, -87.2976",
+      "lat": 36.5163677,
+      "lng": -87.2976071,
+      "category": "clinic",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New grocery: Whole Foods Market",
+      "detail": "1566 West McEwen Drive Franklin",
+      "lat": 35.9342186,
+      "lng": -86.8249673,
+      "category": "grocery",
+      "brand": "Whole Foods Market"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New grocery: Dollar General Market",
+      "detail": "36.2184, -86.3316",
+      "lat": 36.2183916,
+      "lng": -86.3315987,
+      "category": "grocery",
+      "brand": "Dollar General"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New grocery: Aldi",
+      "detail": "4917 Main Street Spring Hill",
+      "lat": 35.7764105,
+      "lng": -86.9176223,
+      "category": "grocery",
+      "brand": "Aldi"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New grocery: Publix",
+      "detail": "35.9499, -86.6652",
+      "lat": 35.9498919,
+      "lng": -86.6652052,
+      "category": "grocery",
+      "brand": "Publix"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New grocery: Trader Joe's",
+      "detail": "35.8572, -86.4375",
+      "lat": 35.8572204,
+      "lng": -86.4374889,
+      "category": "grocery",
+      "brand": "Trader Joe's"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New hospital: TriStar Portland ER",
+      "detail": "105 Red Bud Drive Portland",
+      "lat": 36.5571975,
+      "lng": -86.5113599,
+      "category": "hospital",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fuel: Centerville Express",
+      "detail": "99 TN-50",
+      "lat": 35.7590866,
+      "lng": -87.4584808,
+      "category": "fuel",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New convenience: Sudden Service",
+      "detail": "36.1886, -86.4103",
+      "lat": 36.1886141,
+      "lng": -86.4102631,
+      "category": "convenience",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fuel: Speedway",
+      "detail": "36.0686, -86.4328",
+      "lat": 36.0685857,
+      "lng": -86.4327963,
+      "category": "fuel",
+      "brand": "Speedway"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fuel: 7-Eleven",
+      "detail": "36.0687, -86.4341",
+      "lat": 36.0687329,
+      "lng": -86.4341202,
+      "category": "fuel",
+      "brand": "7-Eleven"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Marco's Pizza",
+      "detail": "35.9297, -86.8247",
+      "lat": 35.9296658,
+      "lng": -86.8247416,
+      "category": "fast_food",
+      "brand": "Marco's Pizza"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Oscar's Taco Shop",
+      "detail": "35.9296, -86.8248",
+      "lat": 35.9295927,
+      "lng": -86.8247734,
+      "category": "fast_food",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Chipotle",
+      "detail": "36.1328, -86.8945",
+      "lat": 36.1328141,
+      "lng": -86.8944777,
+      "category": "fast_food",
+      "brand": "Chipotle"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New cafe: Starbucks",
+      "detail": "36.1329, -86.8943",
+      "lat": 36.1328921,
+      "lng": -86.8942577,
+      "category": "cafe",
+      "brand": "Starbucks"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Tequilas Mexican Restaurant",
+      "detail": "36.1415, -86.8821",
+      "lat": 36.1415,
+      "lng": -86.8820891,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New cafe: Crema Coffee Roasters - Brentwood",
+      "detail": "330 Franklin Road Brentwood",
+      "lat": 36.0263878,
+      "lng": -86.7895671,
+      "category": "cafe",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Hogwood BBQ",
+      "detail": "600a Frazier Drive Franklin",
+      "lat": 35.9454967,
+      "lng": -86.8212735,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Cledis Burger - Bellevue",
+      "detail": "7648 Memphis-Bristol Highway Nashville",
+      "lat": 36.08018,
+      "lng": -86.9530938,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New auto: O'Reilly's Auto Parts",
+      "detail": "36.1933, -86.2739",
+      "lat": 36.193315,
+      "lng": -86.2739467,
+      "category": "auto",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Texas Roadhouse",
+      "detail": "36.1814, -86.4580",
+      "lat": 36.1813546,
+      "lng": -86.4580432,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New cafe: The LOCAL Place",
+      "detail": "35.7782, -87.4665",
+      "lat": 35.7782397,
+      "lng": -87.4664572,
+      "category": "cafe",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: The Mason Jar Restaurant",
+      "detail": "35.7783, -87.4666",
+      "lat": 35.7782605,
+      "lng": -87.466615,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New convenience: Downtown Fresh Market",
+      "detail": "36.1549, -86.7735",
+      "lat": 36.1549116,
+      "lng": -86.7734907,
+      "category": "convenience",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New cafe: Crema Coffee Roasters",
+      "detail": "36.0264, -86.7897",
+      "lat": 36.0263927,
+      "lng": -86.7896518,
+      "category": "cafe",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New auto: CL Tire",
+      "detail": "36.1044, -86.4138",
+      "lat": 36.1043745,
+      "lng": -86.4137685,
+      "category": "auto",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New convenience: Highway 109 Market",
+      "detail": "36.2355, -86.4295",
+      "lat": 36.2355121,
+      "lng": -86.4294836,
+      "category": "convenience",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Pizza Hut Express",
+      "detail": "36.2314, -86.4294",
+      "lat": 36.2314415,
+      "lng": -86.4293909,
+      "category": "fast_food",
+      "brand": "Pizza Hut"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New convenience: Norm's Market",
+      "detail": "36.2358, -86.4578",
+      "lat": 36.2357696,
+      "lng": -86.4578321,
+      "category": "convenience",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New auto: Usry's Garage",
+      "detail": "36.2314, -86.4826",
+      "lat": 36.231359,
+      "lng": -86.4825876,
+      "category": "auto",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fuel: BP",
+      "detail": "36.2156, -86.5972",
+      "lat": 36.2155505,
+      "lng": -86.5972362,
+      "category": "fuel",
+      "brand": "BP"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Subway",
+      "detail": "36.2145, -86.5960",
+      "lat": 36.2145144,
+      "lng": -86.5959709,
+      "category": "fast_food",
+      "brand": "Subway"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New childcare: La Petite Academy",
+      "detail": "36.2184, -86.5834",
+      "lat": 36.2184353,
+      "lng": -86.5833974,
+      "category": "childcare",
+      "brand": "La Petite Academy"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New auto: J&K Engines",
+      "detail": "36.0769, -86.4235",
+      "lat": 36.0768608,
+      "lng": -86.4235101,
+      "category": "auto",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Firehouse Subs",
+      "detail": "36.2171, -86.3314",
+      "lat": 36.2171014,
+      "lng": -86.331377,
+      "category": "fast_food",
+      "brand": "Firehouse Subs"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Tropical Smoothie Cafe",
+      "detail": "36.2170, -86.3312",
+      "lat": 36.2170332,
+      "lng": -86.3311607,
+      "category": "fast_food",
+      "brand": "Tropical Smoothie Cafe"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Little Caesars",
+      "detail": "36.2382, -86.2901",
+      "lat": 36.2382321,
+      "lng": -86.29012,
+      "category": "fast_food",
+      "brand": "Little Caesars"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Cheesecake Factory",
+      "detail": "1800 Galleria Boulevard",
+      "lat": 35.9572605,
+      "lng": -86.8142083,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New auto: Paint Protection Franklin",
+      "detail": "302 Century Court Franklin",
+      "lat": 35.898365,
+      "lng": -86.88179,
+      "category": "auto",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Garcia's",
+      "detail": "35.9649, -86.8138",
+      "lat": 35.9649201,
+      "lng": -86.8137864,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Honey Baked Ham",
+      "detail": "35.9651, -86.8137",
+      "lat": 35.9650817,
+      "lng": -86.8137144,
+      "category": "fast_food",
+      "brand": "Honey Baked Ham"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Big Jimmy's",
+      "detail": "109 2nd Avenue North",
+      "lat": 36.1621953,
+      "lng": -86.775539,
+      "category": "restaurant",
+      "brand": null
+    }
+  ]
+}
