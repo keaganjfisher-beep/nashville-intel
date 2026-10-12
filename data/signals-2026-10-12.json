@@ -1,0 +1,370 @@
+{
+  "computed_at": "2026-10-12T20:42:09.023Z",
+  "amenity_diff": {
+    "added_count": 23,
+    "removed_count": 103,
+    "added_by_category": {
+      "hospital": 1,
+      "restaurant": 11,
+      "fast_food": 8,
+      "dentist": 2,
+      "auto": 1
+    },
+    "note": "Comparing amenities-2026-10-12.json vs amenities-2026-10-05.json"
+  },
+  "sec_diff": {
+    "new_filings_count": 0
+  },
+  "news_diff": {
+    "new_items_count": 13
+  },
+  "feed": [
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New hospital: TriStar Portland ER",
+      "detail": "105 Red Bud Drive Portland",
+      "lat": 36.5573089,
+      "lng": -86.5113418,
+      "category": "hospital",
+      "brand": null
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Planning commission approves 18-acre mixed-use development in Spring Hill - WZTV",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxNZ0JQc2UzTVpmX1lZV2pNbHh0eDBlaFNDNmltS044VW5uNDZDdk5rTUkwbkd2TDg1Z3lpY1BZdS0zUXcyS25SSy0tY3hpS2Rya1ZFNnZ6Q3FSc0lRVkhRRFRrbnk5RnFMZ0piV3g0OHhBQ1VqQXhXcDF5ZkVLcmI4cW5BVGdodTJlMkdtdEVhYXY3dkNDUzBockJ6YWhOTjZLOXphdEVfNEt",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZ0JQc2UzTVpmX1lZV2pNbHh0eDBlaFNDNmltS044VW5uNDZDdk5rTUkwbkd2TDg1Z3lpY1BZdS0zUXcyS25SSy0tY3hpS2Rya1ZFNnZ6Q3FSc0lRVkhRRFRrbnk5RnFMZ0piV3g0OHhBQ1VqQXhXcDF5ZkVLcmI4cW5BVGdodTJlMkdtdEVhYXY3dkNDUzBockJ6YWhOTjZLOXphdEVfNEtOZXgwT2VnQUxaUUhuaVRGQmxaWlZmSDZYVzN5ZktzcXVtUzRLOFMzR3NKQmRQOTdqekZxMVhERGt2SEhPcmhXOTl3elBLLWY4aTZyV2lHUktFTTZrSjV2Z2wtejFoM3ppaUQz?oc=5",
+      "source": "WZTV",
+      "pubDate": "Tue, 13 Sep 2022 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Hagerty Begins Economic Development Tour in Middle Tennessee - Nashville Scene",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxON2wtM1J1UnRNaWNobzNYSGdZekRrZkp6YWhzWXpIOFpDWXNXODRnYTMyMEFUQTF6dWFwc1RzV1RjamVJVGZ5cWJGbkE0WDY1aDFyNW1keW5pSkhOZGxCSHJ3X2ZTVWExVlJnNUlvTHdPME55U2pMYUQxVGVLTzFhbE9sZUhVUkdGUnltYUZNTVNUT3VmX1FrSGJ6d2taZzFCbUg2V3VaaEt",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON2wtM1J1UnRNaWNobzNYSGdZekRrZkp6YWhzWXpIOFpDWXNXODRnYTMyMEFUQTF6dWFwc1RzV1RjamVJVGZ5cWJGbkE0WDY1aDFyNW1keW5pSkhOZGxCSHJ3X2ZTVWExVlJnNUlvTHdPME55U2pMYUQxVGVLTzFhbE9sZUhVUkdGUnltYUZNTVNUT3VmX1FrSGJ6d2taZzFCbUg2V3VaaEtUUEFsSGF1TlNIRFlHYnh3cjd0UkNHWWlwSjExVkFr?oc=5",
+      "source": "Nashville Scene",
+      "pubDate": "Thu, 15 Aug 2024 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Nolensville Pike development sparks debate over traffic and green space in Nashville - WZTV",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQndJVUlmQ0ppek1ORXJhUlJfRzFIVkFDTUJkTjNrelViWjZPQ1VpRGFVUk82Q3B3VEcxRVFneEZuZ2ZDZkE3NWFJSkloZE9yRS1XaklZUW4tVzNlMlFHNXJFUUdQMjlBWDJPUldOWkZIWnExNEFZLVp1YWQweU4tX0h6MGE2cjZWdzFHWUFrTEZIMkxqRkdKNXQ0cVhoRE9yS0VaVkh1bGl",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQndJVUlmQ0ppek1ORXJhUlJfRzFIVkFDTUJkTjNrelViWjZPQ1VpRGFVUk82Q3B3VEcxRVFneEZuZ2ZDZkE3NWFJSkloZE9yRS1XaklZUW4tVzNlMlFHNXJFUUdQMjlBWDJPUldOWkZIWnExNEFZLVp1YWQweU4tX0h6MGE2cjZWdzFHWUFrTEZIMkxqRkdKNXQ0cVhoRE9yS0VaVkh1bGlzNlNiX2VicEJRMnoydV9wMUUtWW8yY3pKSzg?oc=5",
+      "source": "WZTV",
+      "pubDate": "Mon, 15 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "American Landmark Apartments Acquires Hamptons at Woodland Pointe in Nashville - Multifamily &amp; Affordable Housing Business",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHg1OEd4VGZKWnliUkJ0Z2Q5eDZXZzRaWlhkbmQ0OXVpV3ZRVzVPUm83aWMtRENzVVhUOTZRUW9qdDBYbkExVXdlVnNHeGx3MWY5LUU0X1ZnRVdwYmJJQkRCUFptckhjNEJST0h2RW5ZdUs5NUc0RDExbGIzblEwQmVuMlNTV2gwSUhoZXp0SnBNUkdXMjRScFRQYkhqdGFEMzFPZmVxNmh",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHg1OEd4VGZKWnliUkJ0Z2Q5eDZXZzRaWlhkbmQ0OXVpV3ZRVzVPUm83aWMtRENzVVhUOTZRUW9qdDBYbkExVXdlVnNHeGx3MWY5LUU0X1ZnRVdwYmJJQkRCUFptckhjNEJST0h2RW5ZdUs5NUc0RDExbGIzblEwQmVuMlNTV2gwSUhoZXp0SnBNUkdXMjRScFRQYkhqdGFEMzFPZmVxNmhXRXcxRlg3VkZZZ0xnZmlMRzR6Rw?oc=5",
+      "source": "Multifamily &amp; Affordable Housing Business",
+      "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "American Landmark Acquires 240-unit Multifamily Apartment Community in Nashville - Yield PRO",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IODFJLVFvRkR2cmNXNTRlMmhBMk82TkdpaTlkNUlidEdic2N0RExoajJZdTBFMGE4aUswNHNkdER6QTdzR2lXZjFiQXQ5V3dMcUtFSnJDbzQ3My1yUG5LMHYtcTBhYXkt?oc=5\" target=\"_blank\"&gt;American Landmark Acquires 240-unit Multifamily Apartment Com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IODFJLVFvRkR2cmNXNTRlMmhBMk82TkdpaTlkNUlidEdic2N0RExoajJZdTBFMGE4aUswNHNkdER6QTdzR2lXZjFiQXQ5V3dMcUtFSnJDbzQ3My1yUG5LMHYtcTBhYXkt?oc=5",
+      "source": "Yield PRO",
+      "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Holladay Begins Development of The Opaline, the First Phase of a Nashville Mixed-Use Project - Multifamily &amp; Affordable Housing Business",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSDlMWElqbHZyVkg1VHBMQXJrMFpJSzA3Sl90a2N4aXQ0VVM2RmpRRHBfZXpFSlpBR1R5ZUdrVEh1OTc4c2tsMGJIczdXeXFDNkF4U2lsM1B5SmlTc2YzQ3ZlV2VvUm9BU3hYcEExWHhmQ3ZVczdqeTdmcjdTV3B6MGx5bHNyQllmQ3RzMGF1TlVvZGlaeTVSU2lfcHZyQy14cDNuRHJVUUJ",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSDlMWElqbHZyVkg1VHBMQXJrMFpJSzA3Sl90a2N4aXQ0VVM2RmpRRHBfZXpFSlpBR1R5ZUdrVEh1OTc4c2tsMGJIczdXeXFDNkF4U2lsM1B5SmlTc2YzQ3ZlV2VvUm9BU3hYcEExWHhmQ3ZVczdqeTdmcjdTV3B6MGx5bHNyQllmQ3RzMGF1TlVvZGlaeTVSU2lfcHZyQy14cDNuRHJVUUJDSkdqOEdGcmFhc19hZmVHWmFZNE13TTRydk4tLW9EQTN0XzZZZw?oc=5",
+      "source": "Multifamily &amp; Affordable Housing Business",
+      "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Neighbors question delays at luxury Murfreesboro townhome development - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNVJaMEtyVGxNX3Y2OWN1M3NHVnZXenJzWUJDbzhUbGwxeG1fSGMzSmc1bnRVVG1YS21JRUNpMURkbXhydXVsS1NGcl9ITUp4NmdjMklDZDhTYldYSkYzMm9sa2hwUEd3bENiTjk1ZS04cDVzWWduNkVyOE15OExrUzM5U3FpSmRWLXhkQmhwS0tsX0JOamZFMi03OFNkR1FjR01QV2NRSmZ",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNVJaMEtyVGxNX3Y2OWN1M3NHVnZXenJzWUJDbzhUbGwxeG1fSGMzSmc1bnRVVG1YS21JRUNpMURkbXhydXVsS1NGcl9ITUp4NmdjMklDZDhTYldYSkYzMm9sa2hwUEd3bENiTjk1ZS04cDVzWWduNkVyOE15OExrUzM5U3FpSmRWLXhkQmhwS0tsX0JOamZFMi03OFNkR1FjR01QV2NRSmZldkxnZUp6cjE5QjRaZTV6OFFEWW9sNEt6S2JObWRGaTFvZF9Xa3lvQ1hsV2labEVEVG9m?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Fri, 18 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Coconut Bay",
+      "detail": "35.8470, -86.4157",
+      "lat": 35.8470201,
+      "lng": -86.4157102,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: The Wild Cow",
+      "detail": "1100 Fatherland Street Nashville",
+      "lat": 36.182513,
+      "lng": -86.7354022,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: McDonald's",
+      "detail": "3050 Wilma Rudolph Boulevard Clarksville",
+      "lat": 36.5943829,
+      "lng": -87.2917334,
+      "category": "fast_food",
+      "brand": "McDonald's"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: The Stock-Yard",
+      "detail": "901 2nd Avenue North Nashville",
+      "lat": 36.1727294,
+      "lng": -86.7822177,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Valentino's Ristorante",
+      "detail": "36.1519, -86.7979",
+      "lat": 36.1518749,
+      "lng": -86.7979454,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Chick-fil-A",
+      "detail": "2116 Memorial Boulevard Murfreesboro",
+      "lat": 35.8815318,
+      "lng": -86.3831745,
+      "category": "fast_food",
+      "brand": "Chick-fil-A"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Burger King",
+      "detail": "1655 Hankook Road Clarksville",
+      "lat": 36.5580479,
+      "lng": -87.2397104,
+      "category": "fast_food",
+      "brand": "Burger King"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Popeyes",
+      "detail": "1665 Hankook Road Clarksville",
+      "lat": 36.55819,
+      "lng": -87.2390712,
+      "category": "fast_food",
+      "brand": "Popeyes"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Taco John's",
+      "detail": "36.5580, -87.2404",
+      "lat": 36.5579846,
+      "lng": -87.240403,
+      "category": "fast_food",
+      "brand": "Taco John's"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New dentist: Accent Smile Center",
+      "detail": "320 E College Street Dickson",
+      "lat": 36.0734637,
+      "lng": -87.3838435,
+      "category": "dentist",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Whataburger",
+      "detail": "35.8636, -86.4446",
+      "lat": 35.8636146,
+      "lng": -86.4446472,
+      "category": "fast_food",
+      "brand": "Whataburger"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Main Event",
+      "detail": "1510 Gresham Park Lane",
+      "lat": 35.866316,
+      "lng": -86.4452872,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Main Event",
+      "detail": "1510 Gresham Park Lane",
+      "lat": 35.866316,
+      "lng": -86.4452872,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: In-N-Out Burger",
+      "detail": "2508 Medical Center Parkway Murfreesboro",
+      "lat": 35.8602149,
+      "lng": -86.4414952,
+      "category": "fast_food",
+      "brand": "In-N-Out Burger"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New auto: King’s Towing & Recovery LLC",
+      "detail": "2950 baby Ruth ln Antioch",
+      "lat": 36.0466743,
+      "lng": -86.6397681,
+      "category": "auto",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New dentist: Nashville Aesthetics and Implants",
+      "detail": "7074 Charlotte Pike Nashville",
+      "lat": 36.1294503,
+      "lng": -86.907284,
+      "category": "dentist",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Firebirds Wood Fired Grill",
+      "detail": "35.8603, -86.4415",
+      "lat": 35.8602656,
+      "lng": -86.4414631,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: In-N-Out Burger",
+      "detail": "35.8598, -86.4409",
+      "lat": 35.8598344,
+      "lng": -86.4408757,
+      "category": "fast_food",
+      "brand": "In-N-Out Burger"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Raising Canes's Chicken Fingers",
+      "detail": "35.8593, -86.4402",
+      "lat": 35.8592547,
+      "lng": -86.4402097,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Drake's",
+      "detail": "35.8612, -86.4411",
+      "lat": 35.8612079,
+      "lng": -86.4410637,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Neighbors Murfreesboro",
+      "detail": "35.8609, -86.4411",
+      "lat": 35.8609071,
+      "lng": -86.4411216,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Buona",
+      "detail": "35.8636, -86.4434",
+      "lat": 35.8635902,
+      "lng": -86.4433865,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Gallatin outdoor pool groundbreaking set - The Tennessean",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxObk5EcHUtMWdWTU5XTjhCZGRoS29Dbm9OdFBOMldiaDE2Wm9maE5DZ1p6bFJKZ0Q2bnJzRTRCUGpmTG5tb0gyTHR0ZUxoSndzWnU3NGp3QkV1QWFhUTVjNFd2UXVuN1dMLVNZcXd0TW1xY3dqU2FhV3N5Rm9vSDFQSGMyV1RXeWV1X1VpN0dzNjFMWno3RzNZUHpSLWp6WVZZRUZyME8tWk4",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObk5EcHUtMWdWTU5XTjhCZGRoS29Dbm9OdFBOMldiaDE2Wm9maE5DZ1p6bFJKZ0Q2bnJzRTRCUGpmTG5tb0gyTHR0ZUxoSndzWnU3NGp3QkV1QWFhUTVjNFd2UXVuN1dMLVNZcXd0TW1xY3dqU2FhV3N5Rm9vSDFQSGMyV1RXeWV1X1VpN0dzNjFMWno3RzNZUHpSLWp6WVZZRUZyME8tWk4wS3hvNGRZUGVtZnQ0RlV6WVN2YmNB?oc=5",
+      "source": "The Tennessean",
+      "pubDate": "Wed, 13 Jul 2016 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Groundbreaking research led in Nashville could change sickle cell treatment for children - WZTV",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVWc2YU00V0g2UUVFYlVPYkJYVkVOakFtNzZleTFzNzlfenhkaUJnbF9LTjNjQS1NM3g1X2pjd3RlQkFkX3g5YzJHeUZSdF9hYkhiSThPTWhMNEFBbkNFMGRyZENQMF9vMzFsSHlManFTN3FGZGMzdGtuWE1rZG9ZblZnNXlHS1l4RFZhU2tkTkhFaVlTMF9YbHBwakhKWEt1dEpOQ3RSekF",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVWc2YU00V0g2UUVFYlVPYkJYVkVOakFtNzZleTFzNzlfenhkaUJnbF9LTjNjQS1NM3g1X2pjd3RlQkFkX3g5YzJHeUZSdF9hYkhiSThPTWhMNEFBbkNFMGRyZENQMF9vMzFsSHlManFTN3FGZGMzdGtuWE1rZG9ZblZnNXlHS1l4RFZhU2tkTkhFaVlTMF9YbHBwakhKWEt1dEpOQ3RSekFGRXpyZXFvVDR5NDJfeDdsdkxSMWhxZjhWVXlWQVc5ZzUteFdfWV9HRkZuN20xZWlEX2VQOW5TX3ZUdGdpanN0R1Q1S1NnQ3BLRTMyd0RhSUlFQ0I?oc=5",
+      "source": "WZTV",
+      "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Groundbreaking held for Buc-ees in Murfreesboro - WSMV",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5PLTBwMk55M2lLTm9uSDBVMk9mQmgwS3pHZ290azcyZHR4ZVJMRUp2Z0tqX2xKRmhzSFk4azBZYmtKYndIb0R1WmtObzV0THh6aUxsVjVRWWVqcmc0YW5TN2FkbHJHWGdsUXdmZENOdVFkNHZtVXRVcUpHb2tHdw?oc=5\" target=\"_blank\"&gt;Groundbreaking held for Buc-ees",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PLTBwMk55M2lLTm9uSDBVMk9mQmgwS3pHZ290azcyZHR4ZVJMRUp2Z0tqX2xKRmhzSFk4azBZYmtKYndIb0R1WmtObzV0THh6aUxsVjVRWWVqcmc0YW5TN2FkbHJHWGdsUXdmZENOdVFkNHZtVXRVcUpHb2tHdw?oc=5",
+      "source": "WSMV",
+      "pubDate": "Tue, 14 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Mt. Juliet holding town halls to educate public on Home Rule ahead of election - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaXFLOGRvcTFhMUtsWV9QREdHZ2V6QVpyY2d2VkpoWDRTYmhSMGJnaEFBbnd2SDJ2N2dGSUl5M1RLUkpHQVAzazAtajBKVUlFcUh3TDFPbmQ3MjhPNGd4NzI3MFU1MlpfdnZHVU56NFZoSE4tRHo5UDVueC1ITFRvcFlBY1lJVXM1LWVTOHBtcWkzc0h5b19OVGFwZEpFZFdkWnpPTHJOR3I",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaXFLOGRvcTFhMUtsWV9QREdHZ2V6QVpyY2d2VkpoWDRTYmhSMGJnaEFBbnd2SDJ2N2dGSUl5M1RLUkpHQVAzazAtajBKVUlFcUh3TDFPbmQ3MjhPNGd4NzI3MFU1MlpfdnZHVU56NFZoSE4tRHo5UDVueC1ITFRvcFlBY1lJVXM1LWVTOHBtcWkzc0h5b19OVGFwZEpFZFdkWnpPTHJOR3IyT0Z1ZnhGd1BoVkduQ29xSDk4M2o4VnBTVkNyT1BaWkVNRUNvNkRCcWRIOXVkU1U?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Tue, 06 Oct 2026 21:44:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Metro leaders celebrate groundbreaking at Nashville Youth Campus for Empowerment - WKRN News 2",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQZUVuckVoVlk0SkRDVXZCWnM1bUlMQ1l3R3VPUHdBYlpiT2t2YjRtMlpZSnpITmJZQ1Y4cnBuNFpqU2hneloyTlc0dDFHRDVJOHB5VEZlTExTRWNJV090ZGp3aHlpVmw4aFFudmV2YVY3QnNzdzFuemZnVXVCbVoyY3d3X3hUWkZ3RF9UUy1QbzVvZkU0SkVWMFdoZTNjUlhvek0xWVFGY0F",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZUVuckVoVlk0SkRDVXZCWnM1bUlMQ1l3R3VPUHdBYlpiT2t2YjRtMlpZSnpITmJZQ1Y4cnBuNFpqU2hneloyTlc0dDFHRDVJOHB5VEZlTExTRWNJV090ZGp3aHlpVmw4aFFudmV2YVY3QnNzdzFuemZnVXVCbVoyY3d3X3hUWkZ3RF9UUy1QbzVvZkU0SkVWMFdoZTNjUlhvek0xWVFGY0FkaWFNYmlzeUtfOXhXRW4yeXZ3RXdrSE5OSUZLSXZZ0gHMAUFVX3lxTE0xeGN6LS1zdWpQYnZibkpoMGlyLWh0cnMza3JfV0dnRkp1dFNZWFZ0dDFkMGwyLTY5TTlDbmVGUDhVY0loLVRsZk5laFZpT0JDby11N2t4R1ZHcEFjXzJwYnY5RlpickpPQ3VLREtEbkNJR1JLcS1wRWpFTmlQOXdLeEF4dFAzS1ZqRS1VVEROMm9LQXlVUk0wSTFqWC1EYTdlLW91QXlYZ2M5MWx3blNsa0lkZXF4Q2tOZFNrUVJ1RTNpeThRb3kzNTJ2TA?oc=5",
+      "source": "WKRN News 2",
+      "pubDate": "Thu, 08 Aug 2024 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "EMBREY Breaks Ground in Franklin, Tennessee - Multifamily &amp; Affordable Housing Business",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNZnJqakNwTk5famh1OVgxMmx2aGVZTTVwR19TNTMyN0RiTExHeDRLZlJrcFpyY3hlQ20xWnZFa21DNi1LejJYUm5HU3VQMmY2bWJaXzF0czRfTnoxUjM3WGg0cDNRa01mbEFmWVJuOGVja29LQV9jRVRRNmM0TUF3YnNIMUxPejlURlgtRA?oc=5\" target=\"_blank\"&gt;EMBREY Brea",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZnJqakNwTk5famh1OVgxMmx2aGVZTTVwR19TNTMyN0RiTExHeDRLZlJrcFpyY3hlQ20xWnZFa21DNi1LejJYUm5HU3VQMmY2bWJaXzF0czRfTnoxUjM3WGg0cDNRa01mbEFmWVJuOGVja29LQV9jRVRRNmM0TUF3YnNIMUxPejlURlgtRA?oc=5",
+      "source": "Multifamily &amp; Affordable Housing Business",
+      "pubDate": "Thu, 02 Oct 2025 07:00:00 GMT"
+    }
+  ]
+}
