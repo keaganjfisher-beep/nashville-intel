@@ -1,0 +1,526 @@
+{
+  "computed_at": "2026-10-26T18:00:23.883Z",
+  "amenity_diff": {
+    "added_count": 144,
+    "removed_count": 26,
+    "added_by_category": {
+      "fuel": 12,
+      "grocery": 4,
+      "restaurant": 49,
+      "pharmacy": 3,
+      "clinic": 7,
+      "convenience": 5,
+      "bank": 5,
+      "fast_food": 33,
+      "cafe": 13,
+      "dentist": 8,
+      "childcare": 2,
+      "auto": 2,
+      "hospital": 1
+    },
+    "note": "Comparing amenities-2026-10-26.json vs amenities-2026-10-12.json"
+  },
+  "sec_diff": {
+    "new_filings_count": 0
+  },
+  "news_diff": {
+    "new_items_count": 22
+  },
+  "feed": [
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New grocery: Turnip Truck Natural Market",
+      "detail": "701 Woodland Street",
+      "lat": 36.1737634,
+      "lng": -86.7601044,
+      "category": "grocery",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New clinic: The Little Clinic",
+      "detail": "35.8938, -86.8807",
+      "lat": 35.8937565,
+      "lng": -86.8806931,
+      "category": "clinic",
+      "brand": "The Little Clinic"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New clinic: Vanderbilt Health",
+      "detail": "35.9347, -86.8229",
+      "lat": 35.9346998,
+      "lng": -86.8229341,
+      "category": "clinic",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New grocery: Country market",
+      "detail": "36.5282, -86.6407",
+      "lat": 36.5281648,
+      "lng": -86.6406797,
+      "category": "grocery",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New clinic: Urgent Care",
+      "detail": "36.5089, -87.2766",
+      "lat": 36.5089102,
+      "lng": -87.2765787,
+      "category": "clinic",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New clinic: Beckman Family Medical",
+      "detail": "1127 Dow Street Murfreesboro",
+      "lat": 35.8575301,
+      "lng": -86.3803779,
+      "category": "clinic",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New clinic: Clarksville Center for Dyslexia",
+      "detail": "36.5158, -87.2993",
+      "lat": 36.5157908,
+      "lng": -87.2993278,
+      "category": "clinic",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New grocery: Dollar General Market",
+      "detail": "36.5164, -87.2982",
+      "lat": 36.5163962,
+      "lng": -87.2981894,
+      "category": "grocery",
+      "brand": "Dollar General"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New clinic: CenterWell",
+      "detail": "36.5164, -87.2976",
+      "lat": 36.5163677,
+      "lng": -87.2976071,
+      "category": "clinic",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New clinic: DOT Physical USA",
+      "detail": "2601 Elm Hill Pike Nashville",
+      "lat": 36.1512472,
+      "lng": -86.676316,
+      "category": "clinic",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New grocery: Trader Joe's",
+      "detail": "35.8572, -86.4375",
+      "lat": 35.8572204,
+      "lng": -86.4374889,
+      "category": "grocery",
+      "brand": "Trader Joe's"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New hospital: TriStar Portland ER",
+      "detail": "105 Red Bud Drive Portland",
+      "lat": 36.5571975,
+      "lng": -86.5113599,
+      "category": "hospital",
+      "brand": null
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Ikea in Nashville: Planned Antioch store opening is dead - The Tennessean",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1pRR2ozRzhDNFdyZkFaRk9SbkFMVUxyQnZZVnp2MVZ4UEgzdExNN0Uxa2ZEaVBZazliVnVVUzB6RGhubGtsMlZhYWVGX3BjVWVSMjBDSzI4TnlUMHRka2ZVMUF6Wl90SVFZM1BUVnR3TUZRaWRlSXFqVXBQYlJ2TE5BVzV2OXZRRWYyMU5nVjRVcVRJN0N5aHprdEtuVUFnVUQwbTFRZDI",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1pRR2ozRzhDNFdyZkFaRk9SbkFMVUxyQnZZVnp2MVZ4UEgzdExNN0Uxa2ZEaVBZazliVnVVUzB6RGhubGtsMlZhYWVGX3BjVWVSMjBDSzI4TnlUMHRka2ZVMUF6Wl90SVFZM1BUVnR3TUZRaWRlSXFqVXBQYlJ2TE5BVzV2OXZRRWYyMU5nVjRVcVRJN0N5aHprdEtuVUFnVUQwbTFRZDI?oc=5",
+      "source": "The Tennessean",
+      "pubDate": "Tue, 29 May 2018 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Mt. Juliet groundbreaking for new development, Golden Bear Place - WKRN News 2",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNNUp0WTV1UGtlQ01SemNKTGpJeVRmQkt0Yk9TY1JiNXNrY01KRDQ3UzByQndUZ252MERfMlhOMk9Bckd5dUF3Ylp6bWRDVWd0TGx5VG5tbTlxWDkzZHdkYTgtNW54TC1zSDRGd2RVQjdxbGU2YnlEdmVWbDJwb3l2bW14WDFHX0RPZWfSAY8BQVVfeXFMT0EzTklNOENxbTdhSzdITWppZUE",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNUp0WTV1UGtlQ01SemNKTGpJeVRmQkt0Yk9TY1JiNXNrY01KRDQ3UzByQndUZ252MERfMlhOMk9Bckd5dUF3Ylp6bWRDVWd0TGx5VG5tbTlxWDkzZHdkYTgtNW54TC1zSDRGd2RVQjdxbGU2YnlEdmVWbDJwb3l2bW14WDFHX0RPZWfSAY8BQVVfeXFMT0EzTklNOENxbTdhSzdITWppZUE5Ymp1RktOeExXcGprcFhRT09JMGk3VFVwdFp2OV83ZGJLSXVMWXRSU3M2R0REWU9kSmVyTlk3MTh0ak5Jd01fOGxPdHhSXzVqeWxSOExjUDlOTGxzSHlkdkFwVEVINC0zVEo0Z2VKVE5Da243a19sVXhtd1U?oc=5",
+      "source": "WKRN News 2",
+      "pubDate": "Tue, 10 Sep 2024 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Paragon Mills Elementary groundbreaking ceremony kicks off expansion and renovations - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQdWdXT2Iwb1lqekRMYXBxc0xhaVhVOFhZWDNCTW52WW45R2Z6Q21qNkdxQnd6Sk1KbjBlUF9RMEpTVXZYdXpSRU1KVTJSU2lkLWVaSU5fLWpuWjBxN1l0QmVNQl83dXR6eTJvcURkNjg0LXM3ZWF1ZlhXMVhZcFdYeVFMU1drTWtSaFN0ZFZSYlZMRk1HM0RjNV85LTlIX3MyMFR3bnlkdll",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdWdXT2Iwb1lqekRMYXBxc0xhaVhVOFhZWDNCTW52WW45R2Z6Q21qNkdxQnd6Sk1KbjBlUF9RMEpTVXZYdXpSRU1KVTJSU2lkLWVaSU5fLWpuWjBxN1l0QmVNQl83dXR6eTJvcURkNjg0LXM3ZWF1ZlhXMVhZcFdYeVFMU1drTWtSaFN0ZFZSYlZMRk1HM0RjNV85LTlIX3MyMFR3bnlkdllSdGFpT1JaVzI0ZEREalpBY3c?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "American Landmark Apartments Acquires 240-Unit Multifamily Community in Nashville - citybiz",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNd2F2S0JVTVdsSWN3MmVJeXVQUTBYQmM4cHA3Z1pVc2l5dzlCdUJwSkVJd0VUdWd0UmJPSGdrVjVOWG9kNmdmeDFHR0pEcHM4RVduOXd2ZzZqU3RGWFhLQUhQN0ZoT0k2N3hHQ1Q1aS00OUExeEVXcW5Cc1FITHBOQnQ0Rl8xWWZPbWZPclZSSG1xZVlvd3BITzlDYkFiNkdoY2IwSDAzRHd",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd2F2S0JVTVdsSWN3MmVJeXVQUTBYQmM4cHA3Z1pVc2l5dzlCdUJwSkVJd0VUdWd0UmJPSGdrVjVOWG9kNmdmeDFHR0pEcHM4RVduOXd2ZzZqU3RGWFhLQUhQN0ZoT0k2N3hHQ1Q1aS00OUExeEVXcW5Cc1FITHBOQnQ0Rl8xWWZPbWZPclZSSG1xZVlvd3BITzlDYkFiNkdoY2IwSDAzRHdMM0VsdkpOUlRqcTRHOHFaOFZGNg?oc=5",
+      "source": "citybiz",
+      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Neighbors question pace of luxury townhome development near downtown Murfreesboro - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaV9Nb2F1TEt6eXFfQ3FmWThtMlJ6UmZmeHRSYXp2NVpyYUFHZG5OMlFRWDg3bkNxbm5NVnhyVVpkNmRxWWkwcDhVMzViN1lJYjBqVGhMcWJGcjEzdEdiUEFsZUV6QVpLUkxLM0hwSGtEYVpXZUVGSnd3d1doWWI1cGE2dDhlakd5dWpGUFV5cWxXSnRkSDZCTFYycnROeG42a0dpczZ4RTh",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaV9Nb2F1TEt6eXFfQ3FmWThtMlJ6UmZmeHRSYXp2NVpyYUFHZG5OMlFRWDg3bkNxbm5NVnhyVVpkNmRxWWkwcDhVMzViN1lJYjBqVGhMcWJGcjEzdEdiUEFsZUV6QVpLUkxLM0hwSGtEYVpXZUVGSnd3d1doWWI1cGE2dDhlakd5dWpGUFV5cWxXSnRkSDZCTFYycnROeG42a0dpczZ4RThMUDlDTG4ydkhtM2ZHLXB2SGx5WXc2aEpObWR5OUpiN1NoMDJ6SDJUMmxZbmtDNFA4c1pFVk5rZ1ktcw?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Fri, 18 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fuel: Centerville Express",
+      "detail": "99 TN-50",
+      "lat": 35.7590866,
+      "lng": -87.4584808,
+      "category": "fuel",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Big Jimmy's",
+      "detail": "109 2nd Avenue North",
+      "lat": 36.1621953,
+      "lng": -86.775539,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New pharmacy: Kroger Pharmacy",
+      "detail": "35.8940, -86.8807",
+      "lat": 35.894023,
+      "lng": -86.8806961,
+      "category": "pharmacy",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: First Watch",
+      "detail": "35.9346, -86.8227",
+      "lat": 35.9346462,
+      "lng": -86.8226775,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Rippy’s Table & Tavern",
+      "detail": "8058 State Highway 100 Nashville",
+      "lat": 36.0467418,
+      "lng": -86.953662,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: DeSano Pizzeria Napoletana",
+      "detail": "1012 4th Avenue North",
+      "lat": 36.1741015,
+      "lng": -86.7854081,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Momotaro Nashville",
+      "detail": "519 Houston Street Nashville",
+      "lat": 36.1429844,
+      "lng": -86.7686736,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fuel",
+      "detail": "36.5622, -87.3142",
+      "lat": 36.5621952,
+      "lng": -87.3141677,
+      "category": "fuel",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New convenience",
+      "detail": "36.5623, -87.3143",
+      "lat": 36.5622611,
+      "lng": -87.3142725,
+      "category": "convenience",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New bank: United Community Bank",
+      "detail": "36.5617, -87.3151",
+      "lat": 36.5616861,
+      "lng": -87.3150837,
+      "category": "bank",
+      "brand": "United Community Bank"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Sonic",
+      "detail": "36.5520, -87.3261",
+      "lat": 36.5520248,
+      "lng": -87.3261383,
+      "category": "fast_food",
+      "brand": "Sonic"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Midtown Cafe",
+      "detail": "102 19th Avenue South",
+      "lat": 36.1519744,
+      "lng": -86.7968837,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Alla Vita Nashville",
+      "detail": "523 Houston Street Nashville",
+      "lat": 36.1429943,
+      "lng": -86.7688246,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fuel",
+      "detail": "36.5012, -86.8822",
+      "lat": 36.5011704,
+      "lng": -86.8822311,
+      "category": "fuel",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Arby's",
+      "detail": "36.5008, -86.8825",
+      "lat": 36.5007586,
+      "lng": -86.8824832,
+      "category": "fast_food",
+      "brand": "Arby's"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fuel",
+      "detail": "36.4976, -86.8820",
+      "lat": 36.4975886,
+      "lng": -86.8819945,
+      "category": "fuel",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fuel",
+      "detail": "36.4898, -86.8786",
+      "lat": 36.4897898,
+      "lng": -86.8786016,
+      "category": "fuel",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New convenience",
+      "detail": "36.4896, -86.8785",
+      "lat": 36.4896383,
+      "lng": -86.8784555,
+      "category": "convenience",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New cafe: Frothy Monkey East Nashville",
+      "detail": "Fatherland Street",
+      "lat": 36.1733513,
+      "lng": -86.7396986,
+      "category": "cafe",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fuel",
+      "detail": "35.9283, -86.2904",
+      "lat": 35.92827,
+      "lng": -86.2903676,
+      "category": "fuel",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New convenience",
+      "detail": "35.9281, -86.2904",
+      "lat": 35.9280854,
+      "lng": -86.2904148,
+      "category": "convenience",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Streetcar Taps & Garden",
+      "detail": "4916 Charlotte Avenue",
+      "lat": 36.1522376,
+      "lng": -86.8467284,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Agave's Mexican Restaurant",
+      "detail": "6108 Robertson Avenue Nashville",
+      "lat": 36.1573379,
+      "lng": -86.8690751,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Jefferson's",
+      "detail": "109 North Maple Street",
+      "lat": 35.8465345,
+      "lng": -86.3927416,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Joanie's Public Square",
+      "detail": "13 South Public Square",
+      "lat": 35.8454507,
+      "lng": -86.3921334,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Boro Bourbon & Brews",
+      "detail": "124 North Maple Street",
+      "lat": 35.8469826,
+      "lng": -86.3923767,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New cafe: Just Love Coffee Cafe",
+      "detail": "1200 Clinton Street",
+      "lat": 36.1647375,
+      "lng": -86.795707,
+      "category": "cafe",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Smoothie King",
+      "detail": "36.0260, -86.7918",
+      "lat": 36.0259582,
+      "lng": -86.79177,
+      "category": "fast_food",
+      "brand": "Smoothie King"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New dentist: Embassy Dental",
+      "detail": "36.0252, -86.7905",
+      "lat": 36.0251508,
+      "lng": -86.7905457,
+      "category": "dentist",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Subway",
+      "detail": "36.0263, -86.7895",
+      "lat": 36.0263363,
+      "lng": -86.7895203,
+      "category": "fast_food",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New fast_food: Bruegger's Bagels",
+      "detail": "36.0256, -86.7920",
+      "lat": 36.0256014,
+      "lng": -86.7920427,
+      "category": "fast_food",
+      "brand": "Bruegger's Bagels"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New childcare: The Children's Playroom",
+      "detail": "36.0251, -86.7903",
+      "lat": 36.0250599,
+      "lng": -86.7902963,
+      "category": "childcare",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Karrington Rowe",
+      "detail": "36.0266, -86.7901",
+      "lat": 36.026571,
+      "lng": -86.7901176,
+      "category": "restaurant",
+      "brand": null
+    }
+  ]
+}
