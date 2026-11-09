@@ -1,0 +1,469 @@
+{
+  "computed_at": "2026-11-09T21:48:42.003Z",
+  "amenity_diff": {
+    "added_count": 14,
+    "removed_count": 0,
+    "added_by_category": {
+      "restaurant": 7,
+      "cafe": 1,
+      "auto": 1,
+      "clinic": 1,
+      "grocery": 4
+    },
+    "note": "Comparing amenities-2026-11-09.json vs amenities-2026-10-26.json"
+  },
+  "sec_diff": {
+    "new_filings_count": 4
+  },
+  "news_diff": {
+    "new_items_count": 50
+  },
+  "feed": [
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New clinic: Alliance Women's Clinic",
+      "detail": "509 State Highway 96 Franklin",
+      "lat": 35.9250923,
+      "lng": -86.883471,
+      "category": "clinic",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New grocery: Publix",
+      "detail": "1021 Jim Warren Parkway Spring Hill",
+      "lat": 35.7329127,
+      "lng": -86.8904331,
+      "category": "grocery",
+      "brand": "Publix"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New grocery: Dollar General Market",
+      "detail": "36.4701, -87.1595",
+      "lat": 36.4701344,
+      "lng": -87.1594512,
+      "category": "grocery",
+      "brand": "Dollar General"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New grocery: Kroger Marketplace",
+      "detail": "35.9594, -86.5021",
+      "lat": 35.9593657,
+      "lng": -86.5021162,
+      "category": "grocery",
+      "brand": "Kroger"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "high",
+      "headline": "New grocery: Kroger",
+      "detail": "36.6276, -87.3554",
+      "lat": 36.6275942,
+      "lng": -87.3554324,
+      "category": "grocery",
+      "brand": "Kroger"
+    },
+    {
+      "type": "sec_filing",
+      "severity": "high",
+      "headline": "HCA Healthcare filed 8-K mentioning Nashville/TN",
+      "detail": "...ission &#160; (I.R.S. Employer of Incorporation) &#160; File Number) &#160; Identification No.) &#160; One Park Plaza , Nashville , Tennessee &#160; 37203 (Address of Principal Executive Offices) &#160; (Zip Code) &#160; (615) 344-9551 (Registrant&#8217;s Telephone Number, Including Area Code) Not A...",
+      "filingDate": "2026-11-05",
+      "url": "https://www.sec.gov/Archives/edgar/data/860730/000119312526449922/hca-20261102.htm",
+      "keyword": "Nashville"
+    },
+    {
+      "type": "sec_filing",
+      "severity": "high",
+      "headline": "HCA Healthcare filed 8-K mentioning Nashville/TN",
+      "detail": "...n of Incorporation) &#160; (Commission File Number) &#160; (I.R.S. Employer Identification No.) &#160; One Park Plaza , Nashville , Tennessee &#160; 37203 (Address of Principal Executive Offices) &#160; (Zip Code) (615) 344-9551 (Registrant&#8217;s Telephone Number, including area code) Not Applicab...",
+      "filingDate": "2026-11-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/860730/000119312526443864/hca-20261102.htm",
+      "keyword": "Nashville"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Site, groundbreaking date announced for Williamson County mixed-use project | Development - Nashville Post",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxOYXJtb19iVG4yOUJJaXh4OEtGODZ2Z004R2dNMDFkRjU2Y0lpb3RWWU5WdEJNWDZFYnVIckkydExFUGkyQU9zbWNOMlYxOFh0UFRELXJaemJBb0EtYV83OWVnVWJOa2xjbEFtNkVyM2gtdVBVYjN4SGtyQVFNdkF2ZVJJV3gyb2VGUHE4N28zcFJmcVFSRjlLczBuaW5yMzRlQ05XREFUUHJ",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOYXJtb19iVG4yOUJJaXh4OEtGODZ2Z004R2dNMDFkRjU2Y0lpb3RWWU5WdEJNWDZFYnVIckkydExFUGkyQU9zbWNOMlYxOFh0UFRELXJaemJBb0EtYV83OWVnVWJOa2xjbEFtNkVyM2gtdVBVYjN4SGtyQVFNdkF2ZVJJV3gyb2VGUHE4N28zcFJmcVFSRjlLczBuaW5yMzRlQ05XREFUUHJ0WmVWMF94Ni16dEotUWdsWVRvbmVHTFJ2NTlfN1ZESEI1cDNTRkJfM2RIVlI2VWJaRmFmcHNZaE10eUJLNFBvWVlJVzg0dk9hVU1SaTNvNWxYM0hRbG5WSUgxWkFB?oc=5",
+      "source": "Nashville Post",
+      "pubDate": "Wed, 29 Jan 2025 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Nashville SC Holds Groundbreaking Ceremony for New Training Facility Site in Antioch - Nashville SC",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXp6cXZoajlwYmlDS01IWWU3a0tReFVpeFRuXzl3UzhoR0xtVUs3V2JLcFhRUV9SelBnLU1HTldhRFpvQmF3VF9nWW81eHlCakZ4MlZKNjN3Nm5lalFPd1RDT3AtSlBQdVBQRjVPQTc3ZVlGWjJ4emNkallSQXZKOGF0UXltWmlsSnFtYmg3MGZrS2VqTDFDblY3bDBhbWlWNE1iUlhMelN",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXp6cXZoajlwYmlDS01IWWU3a0tReFVpeFRuXzl3UzhoR0xtVUs3V2JLcFhRUV9SelBnLU1HTldhRFpvQmF3VF9nWW81eHlCakZ4MlZKNjN3Nm5lalFPd1RDT3AtSlBQdVBQRjVPQTc3ZVlGWjJ4emNkallSQXZKOGF0UXltWmlsSnFtYmg3MGZrS2VqTDFDblY3bDBhbWlWNE1iUlhMelNGLWpTOHB1Tmtxaw?oc=5",
+      "source": "Nashville SC",
+      "pubDate": "Tue, 05 Oct 2021 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Planning commission approves 18-acre mixed-use development in Spring Hill - WZTV",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxNZ0JQc2UzTVpmX1lZV2pNbHh0eDBlaFNDNmltS044VW5uNDZDdk5rTUkwbkd2TDg1Z3lpY1BZdS0zUXcyS25SSy0tY3hpS2Rya1ZFNnZ6Q3FSc0lRVkhRRFRrbnk5RnFMZ0piV3g0OHhBQ1VqQXhXcDF5ZkVLcmI4cW5BVGdodTJlMkdtdEVhYXY3dkNDUzBockJ6YWhOTjZLOXphdEVfNEt",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZ0JQc2UzTVpmX1lZV2pNbHh0eDBlaFNDNmltS044VW5uNDZDdk5rTUkwbkd2TDg1Z3lpY1BZdS0zUXcyS25SSy0tY3hpS2Rya1ZFNnZ6Q3FSc0lRVkhRRFRrbnk5RnFMZ0piV3g0OHhBQ1VqQXhXcDF5ZkVLcmI4cW5BVGdodTJlMkdtdEVhYXY3dkNDUzBockJ6YWhOTjZLOXphdEVfNEtOZXgwT2VnQUxaUUhuaVRGQmxaWlZmSDZYVzN5ZktzcXVtUzRLOFMzR3NKQmRQOTdqekZxMVhERGt2SEhPcmhXOTl3elBLLWY4aTZyV2lHUktFTTZrSjV2Z2wtejFoM3ppaUQz?oc=5",
+      "source": "WZTV",
+      "pubDate": "Tue, 13 Sep 2022 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "high",
+      "headline": "Murfreesboro developer sells four properties for $248M - Nashville Post",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNmtIcWxRU2k5czM2Unphck9NeExMT05CcEJCUFlLTjgwYVFHbmpLYTNRUFFydnpjczNWbmVPTDh3M1JaQ1Bod0FDRkk5UkZWLVZNWGdxNlhEN0Q4dkFVOHMxbnNkTFNhdnV2Nm9ZRHlPcHBMZHZueWJqT0d6cjhJcExIeU5Bb0ZPNTVyUkp3alBXUDlCMlNER3dITU9xQ0NIUllhQzJ0X3Z",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNmtIcWxRU2k5czM2Unphck9NeExMT05CcEJCUFlLTjgwYVFHbmpLYTNRUFFydnpjczNWbmVPTDh3M1JaQ1Bod0FDRkk5UkZWLVZNWGdxNlhEN0Q4dkFVOHMxbnNkTFNhdnV2Nm9ZRHlPcHBMZHZueWJqT0d6cjhJcExIeU5Bb0ZPNTVyUkp3alBXUDlCMlNER3dITU9xQ0NIUllhQzJ0X3Zvd2MwMzVFUndBdWdhQ3FfV2VFZlRkcmFaZi1qY29QUkdwR1lYakc2MlhuMUlSaFRnZVlUZ2R1TXZxQlpMdDR6ckE?oc=5",
+      "source": "Nashville Post",
+      "pubDate": "Fri, 06 Aug 2021 07:00:00 GMT"
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: True Food Kitchen",
+      "detail": "3996 Hillsboro Pike",
+      "lat": 36.1057419,
+      "lng": -86.8138546,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Herban Market",
+      "detail": "3078 Maddux Way",
+      "lat": 35.9709583,
+      "lng": -86.8358902,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Radish Kitchen",
+      "detail": "5055 Broadway",
+      "lat": 36.1605369,
+      "lng": -86.7795562,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Radish Kitchen",
+      "detail": "4101 Charlotte Avenue",
+      "lat": 36.1523359,
+      "lng": -86.8356857,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New cafe: Moringa Tree Cafe and Wellness Studio",
+      "detail": "317 Highway 76",
+      "lat": 36.4685068,
+      "lng": -86.6596036,
+      "category": "cafe",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Luigi’s Pizza",
+      "detail": "36.5783, -87.3140",
+      "lat": 36.578323,
+      "lng": -87.3140498,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New auto: Sango Tire",
+      "detail": "3208 Madison Street Clarksville",
+      "lat": 36.4982136,
+      "lng": -87.2304508,
+      "category": "auto",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Au Cheval",
+      "detail": "2212 12th Avenue South Nashville",
+      "lat": 36.1278534,
+      "lng": -86.7886369,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "new_amenity",
+      "severity": "medium",
+      "headline": "New restaurant: Reggie's BBQ",
+      "detail": "36.6232, -87.3176",
+      "lat": 36.6232367,
+      "lng": -87.3176278,
+      "category": "restaurant",
+      "brand": null
+    },
+    {
+      "type": "sec_filing",
+      "severity": "medium",
+      "headline": "Camden Property filed 10-Q mentioning Nashville/TN",
+      "detail": "...06345 cpt:CamdenLoSoMember 2026-07-16 0000906345 cpt:CamdenGulchMember 2026-09-09 0000906345 cpt:CamdenLeanderCamdenWestNashvilleMember 2025-01-01 2025-09-30 0000906345 cpt:CamdenLeanderMember 2025-01-23 0000906345 cpt:CamdenWestNashvilleMember 2025-02-27 0000906345 cpt:CamdenClearwaterMember 2025-0...",
+      "filingDate": "2026-11-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/906345/000162828026071470/cpt-20260930.htm",
+      "keyword": "Nashville"
+    },
+    {
+      "type": "sec_filing",
+      "severity": "medium",
+      "headline": "HCA Healthcare filed 10-Q mentioning Nashville/TN",
+      "detail": "...5930 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) One Park Plaza Nashville , Tennessee 37203 (Address of principal executive offices) (Zip Code) ( 615 ) 344-9551 (Registrant&#8217;s telephone number, including area code) Not Applicable (Former n...",
+      "filingDate": "2026-10-29",
+      "url": "https://www.sec.gov/Archives/edgar/data/860730/000119312526437871/hca-20260930.htm",
+      "keyword": "Nashville"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Dickerson Pike Mixed-Use Development Advances In East Nashville. - CITY NOW NEXT",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPMW13NzYxalZHd2FZaEFmRk9PVE0zSXVuWlJhSEVUVWZMNnRaaFI2cmpaUEF5bnpQUEtnTEZ6eTJsMmRYZVVCMC1yUGctN3UtdkM5RzZfM2xFcElJR1VQeEE4QzFYUWQxOEoxbG1jWW85d3RxZGZZa2ZZVXM1WkhpSk9XU1UzWG9GNzZIRHdjWV9hUDlrOG9ocnZxNkVpTFUy?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMW13NzYxalZHd2FZaEFmRk9PVE0zSXVuWlJhSEVUVWZMNnRaaFI2cmpaUEF5bnpQUEtnTEZ6eTJsMmRYZVVCMC1yUGctN3UtdkM5RzZfM2xFcElJR1VQeEE4QzFYUWQxOEoxbG1jWW85d3RxZGZZa2ZZVXM1WkhpSk9XU1UzWG9GNzZIRHdjWV9hUDlrOG9ocnZxNkVpTFUy?oc=5",
+      "source": "CITY NOW NEXT",
+      "pubDate": "Wed, 21 May 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "CapStack Partners Acquires 475-Unit Nashville Multifamily Portfolio - newswire.com",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSUJTRFBwN0lqTmN4MmV1MTdQOHFIZ0RfdkdPMmpfYWpQZTVGNEtvQV9oNDU2ZmZ6enU4QkFqZWVQZ0VoT1F5Vktwd1VNOElUaU9DcW1SSFJSWEp6WFJ1d053c1dIMTFLQ2FfejJKLVV3NUJmYzFNYURqYVNjLTkzd1BaUXVRbFE2NlM1RG5maVNOaTBvb3Npd2FqVUt4NExGSFZWbngxTEU",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSUJTRFBwN0lqTmN4MmV1MTdQOHFIZ0RfdkdPMmpfYWpQZTVGNEtvQV9oNDU2ZmZ6enU4QkFqZWVQZ0VoT1F5Vktwd1VNOElUaU9DcW1SSFJSWEp6WFJ1d053c1dIMTFLQ2FfejJKLVV3NUJmYzFNYURqYVNjLTkzd1BaUXVRbFE2NlM1RG5maVNOaTBvb3Npd2FqVUt4NExGSFZWbngxTEUtdw?oc=5",
+      "source": "newswire.com",
+      "pubDate": "Wed, 17 Jan 2018 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Antioch once again reigns supreme in Nashville real estate - Axios",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPREp2bnkwU3AyR2VkQlp5ekdYUGpOVDhERDBlRnBKMWppYjBSRVlnVXVDbzlab1FkMzBvTE9WMDM1bmFlUS0zRnRQaWhfMHFJa05GZy1WV1VHdFJFM1VmNFR6eTg5RzRaOGdvLV9MeHB2T0pQeXJ2YVl1RGVWcmY1OG5YZlFlYng0dkxLWFQwVjg0RVgxR0VTLVZSdlExZw?oc=5\" target",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPREp2bnkwU3AyR2VkQlp5ekdYUGpOVDhERDBlRnBKMWppYjBSRVlnVXVDbzlab1FkMzBvTE9WMDM1bmFlUS0zRnRQaWhfMHFJa05GZy1WV1VHdFJFM1VmNFR6eTg5RzRaOGdvLV9MeHB2T0pQeXJ2YVl1RGVWcmY1OG5YZlFlYng0dkxLWFQwVjg0RVgxR0VTLVZSdlExZw?oc=5",
+      "source": "Axios",
+      "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Dierks Bentley and ROW 94 Whiskey Bring Groundbreaking Hologram Experience to Nashville International Airport - BevNET.com",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY01iNThPUnZGYmctOUIyejhwellfbEhjWmQ4akx5elpKUi14N2ZoTU1nejVxWkM2RDgtQWp6Qy1XQVNMbUZfSmR1Qm4xQWJEVlliWkMtR1hYNWZPaDFqRnZ0VXc3UkFubXAyc0JrTGNBX1k2d2NhSTEtY0NuX1dVczZVNC1zTlNjOFRaVGtlbkY2SXkxUUlqZm9XZzVZUm1RSlVhaXVaVzR",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY01iNThPUnZGYmctOUIyejhwellfbEhjWmQ4akx5elpKUi14N2ZoTU1nejVxWkM2RDgtQWp6Qy1XQVNMbUZfSmR1Qm4xQWJEVlliWkMtR1hYNWZPaDFqRnZ0VXc3UkFubXAyc0JrTGNBX1k2d2NhSTEtY0NuX1dVczZVNC1zTlNjOFRaVGtlbkY2SXkxUUlqZm9XZzVZUm1RSlVhaXVaVzRrLVlsX21uVFlENGRlSGlGYzlUUGFUdWE4N2pERWY1ek10V1R6dnJrZ2huamdMWG8tX1pCUWRZ?oc=5",
+      "source": "BevNET.com",
+      "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Exclusive: UDR Sells 206 Units in Nashville - Multifamily Housing News",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPQXFDV3d6ekMzMjE1MWNkQ2FJa3BpMHlCVjRfbGVodGFIVmZYVXFSTHV3NUxOU0ZSTlFLZHZOVk1XZDdFT0s1RUltT0tGMzhtU2RBQjNKTzRRQklOMGozSzJmWW1zWFFhTlo4TUJFaGg1Q2FMVEZtOURvQk9WWkh0eXNB?oc=5\" target=\"_blank\"&gt;Exclusive: UDR Sells 206 ",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQXFDV3d6ekMzMjE1MWNkQ2FJa3BpMHlCVjRfbGVodGFIVmZYVXFSTHV3NUxOU0ZSTlFLZHZOVk1XZDdFT0s1RUltT0tGMzhtU2RBQjNKTzRRQklOMGozSzJmWW1zWFFhTlo4TUJFaGg1Q2FMVEZtOURvQk9WWkh0eXNB?oc=5",
+      "source": "Multifamily Housing News",
+      "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Metro Council Advances Rezoning Plan for The Nations - Nashville Scene",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGJBTzhrT1RYN09zWVFkMlc3czgyUS05TXFYTXhRbHlNOVowWHdLVEJHNlFZQy1JeVFER3ZNSHZ0bXBMTjBNd19oeURYdVc3ZnZ3am53d1NUS05xcWh2RXNfV19pQ2RZUHhjMS1MOUVodE9NRjByZUMzdUs5eEZLdDhZeGk1VzFPeHd1MmU2dEdxLXhzRy1MUl9XM3BJYzBROWN3Y3RKQTF",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGJBTzhrT1RYN09zWVFkMlc3czgyUS05TXFYTXhRbHlNOVowWHdLVEJHNlFZQy1JeVFER3ZNSHZ0bXBMTjBNd19oeURYdVc3ZnZ3am53d1NUS05xcWh2RXNfV19pQ2RZUHhjMS1MOUVodE9NRjByZUMzdUs5eEZLdDhZeGk1VzFPeHd1MmU2dEdxLXhzRy1MUl9XM3BJYzBROWN3Y3RKQTFsR3pkNms3d1gteVR6eEVWTG96TVVVVHBadUFvd3Q1WXVsNHQyZw?oc=5",
+      "source": "Nashville Scene",
+      "pubDate": "Wed, 06 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Progress On 4th &amp; Shelby, Attainable Housing Mixed-Use Development in East Nashville. - CITY NOW NEXT",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTndsUzM3OUV1SjIxNG55Zl9yZmMzdWozNXlsYzVYY2tMMk8taHlMdXdiT3J0LVI0YkVqOTFtSXp5RWVHQTNpak9DUDZfcHBqU3UwbHJTM19TeS11UEZYM0R5eGVrTUF0QVVpWkRuWjFtNHh0Z2V6SGpNbHRzZ0ROTjZBLVB4YnBiVHNQaEZTSjBXNnk1RUdWTDRjQ2lrY1Z0ZmN4MDRuUUV",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTndsUzM3OUV1SjIxNG55Zl9yZmMzdWozNXlsYzVYY2tMMk8taHlMdXdiT3J0LVI0YkVqOTFtSXp5RWVHQTNpak9DUDZfcHBqU3UwbHJTM19TeS11UEZYM0R5eGVrTUF0QVVpWkRuWjFtNHh0Z2V6SGpNbHRzZ0ROTjZBLVB4YnBiVHNQaEZTSjBXNnk1RUdWTDRjQ2lrY1Z0ZmN4MDRuUUVHVXdKbGt5bDM1Z2RhMV9N?oc=5",
+      "source": "CITY NOW NEXT",
+      "pubDate": "Tue, 28 Jan 2025 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "PieTown Slated For New Multifamily Development In Downtown Nashville. - CITY NOW NEXT",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNZlotUFY2UjZNOC1Hdk9KWmF5MGRSeEctcXI3aTF3Z0xRWkVjUDN6UnRMZnNRaG9rMTdTVVljazliZWdkS3d6RlBnczU1ZjRLay1CVFJHV2hYNWFpNFY5NkxMZ3JDNndkaDVmcmZtNmdiVHZsY2phdFZiWVd3VnB4LUxfZjJ0OVRmMFIzUkVqUlRsclN6LXQyVTJhTTRmeXZaYXE3WWNqUQ?",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZlotUFY2UjZNOC1Hdk9KWmF5MGRSeEctcXI3aTF3Z0xRWkVjUDN6UnRMZnNRaG9rMTdTVVljazliZWdkS3d6RlBnczU1ZjRLay1CVFJHV2hYNWFpNFY5NkxMZ3JDNndkaDVmcmZtNmdiVHZsY2phdFZiWVd3VnB4LUxfZjJ0OVRmMFIzUkVqUlRsclN6LXQyVTJhTTRmeXZaYXE3WWNqUQ?oc=5",
+      "source": "CITY NOW NEXT",
+      "pubDate": "Tue, 27 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Rapid development leaves empty Nashville apartments awaiting renters - The Tennessean",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWxRSXZlUmlvYjhmRHB3QTNyMElmdndIRTdEMURVX3l0SEZWQUl0ODZrY1E0bmEwY3h0ZzJQUm15dWFkdEVfdVVDakxfaThSbWxsVmVRVG9iWFZPQmd3YmtlWm9MX3hYV0FvTEw0cHdORl9Jbi1oZ01FZTJ5Qi1KNHdSbjc0eUJZbEpLbjduWDJMQUVmVHZDRjN3Qy0zQW1DVkJndVhR?oc",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWxRSXZlUmlvYjhmRHB3QTNyMElmdndIRTdEMURVX3l0SEZWQUl0ODZrY1E0bmEwY3h0ZzJQUm15dWFkdEVfdVVDakxfaThSbWxsVmVRVG9iWFZPQmd3YmtlWm9MX3hYV0FvTEw0cHdORl9Jbi1oZ01FZTJ5Qi1KNHdSbjc0eUJZbEpLbjduWDJMQUVmVHZDRjN3Qy0zQW1DVkJndVhR?oc=5",
+      "source": "The Tennessean",
+      "pubDate": "Tue, 08 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "PCCP, LIV Development Break Ground on Livano Oakmont in Nashville - Multifamily &amp; Affordable Housing Business",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYjE4SW9XUDVaRTNmbUVZd1llcDA2aGZabGRScDVKQXQ3cktxenBWUDBHcUZnSlVHbVI5OThqNFpra1g3X1UtaHEzblZpNjZQUzFQSzAwU1dwMGR5QW8wVnhkbDNoTFNaMFV0N1VZYmhuT0lMWkhmOENxbGtPQUpCUEtLQWRDVWo3ZlluaTJqSFNvc0NiSXZXZGJTc0tVNzBTaGVGYjZBNXJ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYjE4SW9XUDVaRTNmbUVZd1llcDA2aGZabGRScDVKQXQ3cktxenBWUDBHcUZnSlVHbVI5OThqNFpra1g3X1UtaHEzblZpNjZQUzFQSzAwU1dwMGR5QW8wVnhkbDNoTFNaMFV0N1VZYmhuT0lMWkhmOENxbGtPQUpCUEtLQWRDVWo3ZlluaTJqSFNvc0NiSXZXZGJTc0tVNzBTaGVGYjZBNXJ3UQ?oc=5",
+      "source": "Multifamily &amp; Affordable Housing Business",
+      "pubDate": "Tue, 03 Nov 2026 13:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Trent Development Group seeks facelift for West Nashville apartment complex - The Business Journals",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTUFYOEFlNHFzLW13Wnl0NnBneDdaY1pnVllYYmlLeXZtR1NzczIySmNzb29COTNNTmdpVms5b3Z0Q2VPTDBtVWYwdWtUb2NZY25lYWxRRWgyVklBSUZDWVNnWHpfREJEVjVxeWoxWFZTS1lWU2ItejhwLURYbG9oOTd6Q0Y5ZHI1aFZ1MU1DbGhPVk53M3JIT2t4SkY3bHl5dnVITEVUNko",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTUFYOEFlNHFzLW13Wnl0NnBneDdaY1pnVllYYmlLeXZtR1NzczIySmNzb29COTNNTmdpVms5b3Z0Q2VPTDBtVWYwdWtUb2NZY25lYWxRRWgyVklBSUZDWVNnWHpfREJEVjVxeWoxWFZTS1lWU2ItejhwLURYbG9oOTd6Q0Y5ZHI1aFZ1MU1DbGhPVk53M3JIT2t4SkY3bHl5dnVITEVUNko?oc=5",
+      "source": "The Business Journals",
+      "pubDate": "Thu, 27 Oct 2022 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Metro Nashville Public Schools Turf Groundbreaking – Pearl-Cohn High School | Community Photos - Tennessee Titans",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQTh1aWtHSS1XejVXc2xoTGQ1N0pBOXptQ0Zzb1lYbmxYYk51SDBfVEs4T1lVQXRKcldPa29uanZBM21yU21qUkdXLWNVbmtDbnMycUlMU0NWX2NacUl2ZVVPc2dwcVZIRDdRbVlkdmluRnNrcU91MlJtMlhLalhXa3RPd29iSkxfZzN3NWFhUlE5MUEyZkNEOG1tN1VUQXpiX2hscFpTRVl",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQTh1aWtHSS1XejVXc2xoTGQ1N0pBOXptQ0Zzb1lYbmxYYk51SDBfVEs4T1lVQXRKcldPa29uanZBM21yU21qUkdXLWNVbmtDbnMycUlMU0NWX2NacUl2ZVVPc2dwcVZIRDdRbVlkdmluRnNrcU91MlJtMlhLalhXa3RPd29iSkxfZzN3NWFhUlE5MUEyZkNEOG1tN1VUQXpiX2hscFpTRVlDWGlodGkwQmMxOFVGMHpTOWxn?oc=5",
+      "source": "Tennessee Titans",
+      "pubDate": "Thu, 27 Jul 2023 23:48:38 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Sponsor Successfully Uses RealtyMogul Crowdfunding Platform to Raise $10 million in Less Than 24 Hours For 369-Unit Nashville Multifamily Development, Haven at Charlotte - Business Wire",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywJBVV95cUxNRmJweVZ1MGdIRVlZNEcxR21lMGtoYTJaM05Tc0piUWNJZDV3MXp6Y2EyQ0VnOHBLNVFvY083dnlGNUpETnltbDhqVjFQSXZkdG1wZlNkSnlRbGx4VWpMeU9wVnVHVVRtaHFJMEdjaXBvUkpKSzZjM0Q1aGVveTF4UFFET3pVeW1QZWZsX0FrWHhhTjg4QmZvSERZWEc3NzFGcUFYRDdNeEh",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNRmJweVZ1MGdIRVlZNEcxR21lMGtoYTJaM05Tc0piUWNJZDV3MXp6Y2EyQ0VnOHBLNVFvY083dnlGNUpETnltbDhqVjFQSXZkdG1wZlNkSnlRbGx4VWpMeU9wVnVHVVRtaHFJMEdjaXBvUkpKSzZjM0Q1aGVveTF4UFFET3pVeW1QZWZsX0FrWHhhTjg4QmZvSERZWEc3NzFGcUFYRDdNeEhBWGREUG81UXFsWnFSeFBvbEZrZmR4YnVjaWxtLVJHbUQxUjRZSzR4Wmg0cTVKWWR6NWhCdk9kS0hBRmNSVHJlSUVBNWw1MlFTd2J4SGZwR2FQV1BvSVd3Q19pTF91eTlmWDhtY292U2Rhd1FhbmxhQUdBRXV5aWVNMjNHbERWSDIwOXplbktiWDNiaG1zZy1ySnJMTk1UNXE2UzJwUmxFSVA4?oc=5",
+      "source": "Business Wire",
+      "pubDate": "Thu, 12 Aug 2021 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Out-of-town developer eyes 184-acre development with apartments, townhomes in Antioch - The Business Journals",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0ZLanZUVW5GajJDRFVpYkIyakx3WVRXQVNsSnBJQlF6T2xJaEZUUEM3Q0JzcEE0bHhNTUJIYWU3bjNsZTZ0NG5FTjVFZUlDTzdSWk1vSzVrb0lBUHRGWXNVcjRIWnJ1NXljUnZRSHVkUTNoSmZ0MnJ0T3E5ZlgyUjFaTXFGQm5WdG5fUWtiUWlydEdwa0xQbktWVDN1T08xeXFEQmxfM0U",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0ZLanZUVW5GajJDRFVpYkIyakx3WVRXQVNsSnBJQlF6T2xJaEZUUEM3Q0JzcEE0bHhNTUJIYWU3bjNsZTZ0NG5FTjVFZUlDTzdSWk1vSzVrb0lBUHRGWXNVcjRIWnJ1NXljUnZRSHVkUTNoSmZ0MnJ0T3E5ZlgyUjFaTXFGQm5WdG5fUWtiUWlydEdwa0xQbktWVDN1T08xeXFEQmxfM0U?oc=5",
+      "source": "The Business Journals",
+      "pubDate": "Thu, 11 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Growth and development: Averitt expands in Middle Tennessee - Upper Cumberland Business Journal",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNNTZjbi1IVDVwQ0sxaHZGSVpNMFBQREJKVVIxemZoRXdHeE9mQ2ZocUFNQ0xwMVF0NmtIcVlGbV9fZlNSQUY3dlRfZUtwLWdiMTRJa3ZRQ2FOSXR5amRic0JCZTRhODNlSTZJRlp2MTdUZjU1Q2VadmFlbWxycnZqZTBaM3RTbWt6bWZVZXlOVQ?oc=5\" target=\"_blank\"&gt;Growth ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNTZjbi1IVDVwQ0sxaHZGSVpNMFBQREJKVVIxemZoRXdHeE9mQ2ZocUFNQ0xwMVF0NmtIcVlGbV9fZlNSQUY3dlRfZUtwLWdiMTRJa3ZRQ2FOSXR5amRic0JCZTRhODNlSTZJRlp2MTdUZjU1Q2VadmFlbWxycnZqZTBaM3RTbWt6bWZVZXlOVQ?oc=5",
+      "source": "Upper Cumberland Business Journal",
+      "pubDate": "Thu, 01 Feb 2024 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "EMBREY Partners with Southstar Development Close on $71M Construction Loan for Nashville-Area Multifamily Project - Yield PRO",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xOXJrYTJMNGRpVmlqUWtwT1lPXzI1UjJqSmNzQkR1dnRWQVZsZC1YclVmdVVVSUZnYXZYbHlRSEExWTZDX0dpN0s1Z3NUUVNuTHNoMGFNUGFzX1pmMlI5SE5sOA?oc=5\" target=\"_blank\"&gt;EMBREY Partners with Southstar Development Close on $71M Constructi",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xOXJrYTJMNGRpVmlqUWtwT1lPXzI1UjJqSmNzQkR1dnRWQVZsZC1YclVmdVVVSUZnYXZYbHlRSEExWTZDX0dpN0s1Z3NUUVNuTHNoMGFNUGFzX1pmMlI5SE5sOA?oc=5",
+      "source": "Yield PRO",
+      "pubDate": "Sun, 08 Nov 2026 16:17:27 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "The 1st Affordable Mixed-Use Development Unveiled For East Bank Nashville. - CITY NOW NEXT",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTF2M3ZTSFhRaG9Yd2sySHhGeGF0QVhweTF0WS16VnA4UXF2TkFZOVF1eUlIUWlNODViWHg2emctN3VTam00U3p4b282cHpweTd1NlNlai1JdmJfWnR5OWFHTmdSRTk1dUZlUTdNaUF3Zk85Q21ZNHliUEZCTGVJRlhrOXFLeUw0Mmk5alU0QkVRYmEwbzZHeE1PSk11NHNXdGFqS1V4RnZ",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTF2M3ZTSFhRaG9Yd2sySHhGeGF0QVhweTF0WS16VnA4UXF2TkFZOVF1eUlIUWlNODViWHg2emctN3VTam00U3p4b282cHpweTd1NlNlai1JdmJfWnR5OWFHTmdSRTk1dUZlUTdNaUF3Zk85Q21ZNHliUEZCTGVJRlhrOXFLeUw0Mmk5alU0QkVRYmEwbzZHeE1PSk11NHNXdGFqS1V4RnZ3UnIwQUE?oc=5",
+      "source": "CITY NOW NEXT",
+      "pubDate": "Mon, 30 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "News | Oracle expands Nashville real estate alongside plans for $1.4 billion office development - CoStar",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ2Ewd1dvS3lTRjQ4bHFncVJOUVhnZ2lqMzlBQW9jWXBfejhTMG1qemRlanptbGQ0bVh1a25jTUFRSmNvWHRCcmI5eG00VnNaZGhIaTlua3pHNkpqWWdPbVJZcHlYM3JXZGFXVUFMWXl1TVI2aWhRaTJrYmFMZUNEX3U1OHh2ODVDN0JEYXAzNGRzVUJkWEV4SmVZZFc1U0ZQN1lMQ3JTMjU",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ2Ewd1dvS3lTRjQ4bHFncVJOUVhnZ2lqMzlBQW9jWXBfejhTMG1qemRlanptbGQ0bVh1a25jTUFRSmNvWHRCcmI5eG00VnNaZGhIaTlua3pHNkpqWWdPbVJZcHlYM3JXZGFXVUFMWXl1TVI2aWhRaTJrYmFMZUNEX3U1OHh2ODVDN0JEYXAzNGRzVUJkWEV4SmVZZFc1U0ZQN1lMQ3JTMjUwSWRXTnFCQk1QVTRraFNENElPdmY4Y0JQeFBEZnVWWXk3VjMxdw?oc=5",
+      "source": "CoStar",
+      "pubDate": "Mon, 24 Feb 2025 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "North Nashville Church Breaks Ground On 254-Unit Senior Development. - CITY NOW NEXT",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQeTRjTEI2Y1c4S2Vha2FmcWJYYkNfUnh1XzZQekFtVFotNWxhS1g4TGkyYUM0a1otV0Y4N3FEYlNGaXdMZXdpaE5mUkxRWVdPelFMdk5GbF9qSVhQYzB5NXFjRFR2aWowWUEwc0tGSUdHQ29qcU9GRGNfb0d0RnVNamhnaFRfUWVFak56NVlRdDgzMkZOWkJSN25NMDFQd0h4V3dfNGZn?oc",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeTRjTEI2Y1c4S2Vha2FmcWJYYkNfUnh1XzZQekFtVFotNWxhS1g4TGkyYUM0a1otV0Y4N3FEYlNGaXdMZXdpaE5mUkxRWVdPelFMdk5GbF9qSVhQYzB5NXFjRFR2aWowWUEwc0tGSUdHQ29qcU9GRGNfb0d0RnVNamhnaFRfUWVFak56NVlRdDgzMkZOWkJSN25NMDFQd0h4V3dfNGZn?oc=5",
+      "source": "CITY NOW NEXT",
+      "pubDate": "Mon, 20 Jan 2025 08:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Metro Council takes up rezoning plan for East Nashville scrapyard - Axios",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNSU02SHZDOUtheW1KaTZxdER2QTduaEk1NURTWXNPQ2RLNXVXYUlkbEFZcGdWeXFiTUllMnVNeGFPc0prWWpXZXdmZkZlVDU3TVk3ZVRULUFsaGItS19ORkU2Uk00NGpFa0RGbG00OVlXWHk2Q1ZDY0l5QUtneXlIQW1TUTA0WVItcTlEWEVHR0VsMmR5RmY0RVFibHAyOUhWRGlJS3VXdm5",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSU02SHZDOUtheW1KaTZxdER2QTduaEk1NURTWXNPQ2RLNXVXYUlkbEFZcGdWeXFiTUllMnVNeGFPc0prWWpXZXdmZkZlVDU3TVk3ZVRULUFsaGItS19ORkU2Uk00NGpFa0RGbG00OVlXWHk2Q1ZDY0l5QUtneXlIQW1TUTA0WVItcTlEWEVHR0VsMmR5RmY0RVFibHAyOUhWRGlJS3VXdm5RczNHYVF4c05rUFQ?oc=5",
+      "source": "Axios",
+      "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Mt. Juliet Planning Commission approves Tate Lane subdivision - Main Street Media of Tennessee",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQQS16UzhiNjdpdGRtQ1RYOW10ZjJOal9ZaUszNEc4WVR1bll2NDM0dEpHdTItLWI5Z2FBcGgyQjlnZFlpX05nN2loU1VjbU9QQlVzTVZYaEF6a3EyckNjUzE4ZlBKYThlSWJTSFJMcjN2TDZUX3ZfNzF4ZnVEbnUwZFVnRXVxMDczNGVVX1BRaUVWTXRnemFwby1YY2x2bmctNlRoOXVTWUY",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQS16UzhiNjdpdGRtQ1RYOW10ZjJOal9ZaUszNEc4WVR1bll2NDM0dEpHdTItLWI5Z2FBcGgyQjlnZFlpX05nN2loU1VjbU9QQlVzTVZYaEF6a3EyckNjUzE4ZlBKYThlSWJTSFJMcjN2TDZUX3ZfNzF4ZnVEbnUwZFVnRXVxMDczNGVVX1BRaUVWTXRnemFwby1YY2x2bmctNlRoOXVTWUY1b3VoUHQ2RHU3eV8tVkJLeU01Ng?oc=5",
+      "source": "Main Street Media of Tennessee",
+      "pubDate": "Mon, 19 May 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "New mixed-use development proposed for Murfreesboro - WKRN News 2",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnZ5WWlyWm1YVkdFeXBCSl9wZHpJcEtDSzRyY2NLZ2dxODU1U3JELWNWZy01MWYzRDBwOE80MFRTUTloeE5IcjN5OHZkaVowd2ExUXZwWm1uT3AwSzhyemJKaUlvaURZUEtla3VsUnRPM3FBTUg3LUpZTlJRdVd6ZWZwWE1vbkRvNF9JTlpqLUx3OXp5UmRIQ0FmcGowVUpVa0RYakhSdTF",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnZ5WWlyWm1YVkdFeXBCSl9wZHpJcEtDSzRyY2NLZ2dxODU1U3JELWNWZy01MWYzRDBwOE80MFRTUTloeE5IcjN5OHZkaVowd2ExUXZwWm1uT3AwSzhyemJKaUlvaURZUEtla3VsUnRPM3FBTUg3LUpZTlJRdVd6ZWZwWE1vbkRvNF9JTlpqLUx3OXp5UmRIQ0FmcGowVUpVa0RYakhSdTFUbzJkQ3Y0ZF9sV0tvX3Qw0gG-AUFVX3lxTE5pLWUwc1RfZG56cVJTQ2REREZaUDQ3bUNBWHd5NlkxbzllSE5Da2s0Zjh3Mk9zVjZnWllDM3psOHNEZHZ3M25NbWNTNEgyOHppMnc4b2c2b2VWdlNGMGxnRm4wcFQyZWtEUm02dTRwZjd4UGVVb0FGNnpUc2Ryc2I5bEFnb052b1N3ZzIxNXJvRTdfaGtIQ2NQVmcwSUxFd0o0eXNnLW9nQ0FRUy0wUVNyTFVpYVhYTl9kTWtfdVE?oc=5",
+      "source": "WKRN News 2",
+      "pubDate": "Mon, 16 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "New indoor family entertainment center in Mt. Juliet opens over Labor Day weekend - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRmJlNFBFYVlDYWNvSWFoRVRSZFJpWUowbGdsX3FHUktEVmNGUHZ4TmlKOWZLZGlNNTRUVGtNSGxCMEpyb2xyZG9ib05JdGFWVFpTcE1uVnR5S3NPb0I2S1JxUWhzRnZ2eEpPMzFsV3BITlNac3NvVlFyM1Vha2V5dW15S3pDT3dFdkNaWHdwYlZ0UXBsXy1reEFRWDR1eXN5R0YxcmQzaHl",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRmJlNFBFYVlDYWNvSWFoRVRSZFJpWUowbGdsX3FHUktEVmNGUHZ4TmlKOWZLZGlNNTRUVGtNSGxCMEpyb2xyZG9ib05JdGFWVFpTcE1uVnR5S3NPb0I2S1JxUWhzRnZ2eEpPMzFsV3BITlNac3NvVlFyM1Vha2V5dW15S3pDT3dFdkNaWHdwYlZ0UXBsXy1reEFRWDR1eXN5R0YxcmQzaHl5MFgxVGpXVHByUTExaWtMR1g1UkZSaHE0NFNqZ1hLbkRjRFdCUzFJdG9oZUROa1RmWEE?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Hines opens apartments in fast-growing Nashville, Tennessee, submarket - Multifamily Dive",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQUnFNalNUR3dqYlRaSTFuUUhaSXE1UW5scWZoMnVOMFN6TlZ3UWVZaG9JRVdWNng1UnRRa1hxMndGVVZvWnl6RnJoa1RuNXdyMkhiZlJNZEJqYnI5U2pRbXJuNnVJMnBKVTJkNExfT2hZWEQzd0N6X0ZRdWZEdnJMa0FjZkU3UlFpNWpTUXhITzZfTEZqTHpHY3BDUExRSkNEeGMzbzh0V1V",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUnFNalNUR3dqYlRaSTFuUUhaSXE1UW5scWZoMnVOMFN6TlZ3UWVZaG9JRVdWNng1UnRRa1hxMndGVVZvWnl6RnJoa1RuNXdyMkhiZlJNZEJqYnI5U2pRbXJuNnVJMnBKVTJkNExfT2hZWEQzd0N6X0ZRdWZEdnJMa0FjZkU3UlFpNWpTUXhITzZfTEZqTHpHY3BDUExRSkNEeGMzbzh0V1VPQnVYa3h3?oc=5",
+      "source": "Multifamily Dive",
+      "pubDate": "Mon, 07 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "WORLD-RENOWNED FLORENTINE SANDWICH SHOP ALL’ANTICO VINAIO EXPANDS TO NASHVILLE WITH TWO NEW LOCATIONS, OPENING MAY 22 - Food &amp; Beverage Magazine",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSHJBS3R2OGJNXzd0VVpxdTNaWmFCTkg1alF6UWlMSHpxV0RCbGszVHVlR0NKZkZrYkJva1VtODlrM0p3NEJocnZTeklsQWtKZEJ1MUpLeG03cWtWMGhDSFZiVWVfWExPWlZnMjRaRUNoRlZQbWNZdnRrd3BRWFhTazR3MmFzYVZ3UzZFOVhDQS0zM1ZDSDVBbV9aSDhOUjRjZnhjbjlMNVJ",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSHJBS3R2OGJNXzd0VVpxdTNaWmFCTkg1alF6UWlMSHpxV0RCbGszVHVlR0NKZkZrYkJva1VtODlrM0p3NEJocnZTeklsQWtKZEJ1MUpLeG03cWtWMGhDSFZiVWVfWExPWlZnMjRaRUNoRlZQbWNZdnRrd3BRWFhTazR3MmFzYVZ3UzZFOVhDQS0zM1ZDSDVBbV9aSDhOUjRjZnhjbjlMNVJBZ2loZEdidzlHeXdTVVpyblh4a1dfZGRXWFhFWHo4M25mRFNPeWZ5eEZZ?oc=5",
+      "source": "Food &amp; Beverage Magazine",
+      "pubDate": "Mon, 05 May 2025 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "severity": "medium",
+      "headline": "Franklin's first agri-hood aims to feed the neighborhood and beyond - News Channel 5 Nashville",
+      "detail": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOSWNyRG9fNjVSRUs0SDVpLTN2ZlhKNnVISTdtTm82N1ZNZXVYZFQ3MmxLMllfem1NYUdhaXpsRk1acFg4bHphUFhDMTh5WUZ6TC1WWTFPVnJ5RnNfZzhaQnJ4bk5OYzNxamdmN0c3TEROQTN4T3d4WlNuYW9lcGV3Q3E5QzFteVE5cTRldGZsUEpGcjhUNHZCU3l6X3J6cGpPSWIyVThONFN",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSWNyRG9fNjVSRUs0SDVpLTN2ZlhKNnVISTdtTm82N1ZNZXVYZFQ3MmxLMllfem1NYUdhaXpsRk1acFg4bHphUFhDMTh5WUZ6TC1WWTFPVnJ5RnNfZzhaQnJ4bk5OYzNxamdmN0c3TEROQTN4T3d4WlNuYW9lcGV3Q3E5QzFteVE5cTRldGZsUEpGcjhUNHZCU3l6X3J6cGpPSWIyVThONFN0VlpxXzY2SVkwTnZUczJHcDk2SG1ya1ZGM0FLRGY1ZE0tNW9rZk0?oc=5",
+      "source": "News Channel 5 Nashville",
+      "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT"
+    }
+  ]
+}

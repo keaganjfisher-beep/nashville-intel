@@ -1,0 +1,113 @@
+{
+  "fetched_at": "2026-11-09T21:48:31.547Z",
+  "source": "SEC EDGAR",
+  "keywords": [
+    "/nashville/i",
+    "/\\bmiddle tennessee\\b/i",
+    "/\\bdavidson county\\b/i",
+    "/\\bwilliamson county\\b/i",
+    "/\\brutherford county\\b/i",
+    "/\\bsumner county\\b/i",
+    "/\\bwilson county\\b/i",
+    "/\\bfranklin,?\\s+tn\\b/i",
+    "/\\bmurfreesboro\\b/i",
+    "/\\bspring hill,?\\s+tn\\b/i",
+    "/\\bmt\\.?\\s+juliet\\b/i",
+    "/\\bbrentwood,?\\s+tn\\b/i",
+    "/\\bsmyrna,?\\s+tn\\b/i",
+    "/\\bgallatin,?\\s+tn\\b/i",
+    "/\\bhendersonville,?\\s+tn\\b/i"
+  ],
+  "companies_tracked": 31,
+  "hit_count": 6,
+  "hits": [
+    {
+      "company": "Camden Property",
+      "form": "10-Q",
+      "filingDate": "2026-11-06",
+      "reportDate": "2026-09-30",
+      "accession": "0001628280-26-071470",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/906345/000162828026071470/cpt-20260930.htm",
+      "snippets": [
+        {
+          "keyword": "Nashville",
+          "context": "...06345 cpt:CamdenLoSoMember 2026-07-16 0000906345 cpt:CamdenGulchMember 2026-09-09 0000906345 cpt:CamdenLeanderCamdenWestNashvilleMember 2025-01-01 2025-09-30 0000906345 cpt:CamdenLeanderMember 2025-01-23 0000906345 cpt:CamdenWestNashvilleMember 2025-02-27 0000906345 cpt:CamdenClearwaterMember 2025-0..."
+        }
+      ]
+    },
+    {
+      "company": "HCA Healthcare",
+      "form": "8-K",
+      "filingDate": "2026-11-05",
+      "reportDate": "2026-11-02",
+      "accession": "0001193125-26-449922",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/860730/000119312526449922/hca-20261102.htm",
+      "snippets": [
+        {
+          "keyword": "Nashville",
+          "context": "...ission &#160; (I.R.S. Employer of Incorporation) &#160; File Number) &#160; Identification No.) &#160; One Park Plaza , Nashville , Tennessee &#160; 37203 (Address of Principal Executive Offices) &#160; (Zip Code) &#160; (615) 344-9551 (Registrant&#8217;s Telephone Number, Including Area Code) Not A..."
+        }
+      ]
+    },
+    {
+      "company": "HCA Healthcare",
+      "form": "8-K",
+      "filingDate": "2026-11-02",
+      "reportDate": "2026-11-02",
+      "accession": "0001193125-26-443864",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/860730/000119312526443864/hca-20261102.htm",
+      "snippets": [
+        {
+          "keyword": "Nashville",
+          "context": "...n of Incorporation) &#160; (Commission File Number) &#160; (I.R.S. Employer Identification No.) &#160; One Park Plaza , Nashville , Tennessee &#160; 37203 (Address of Principal Executive Offices) &#160; (Zip Code) (615) 344-9551 (Registrant&#8217;s Telephone Number, including area code) Not Applicab..."
+        }
+      ]
+    },
+    {
+      "company": "HCA Healthcare",
+      "form": "10-Q",
+      "filingDate": "2026-10-29",
+      "reportDate": "2026-09-30",
+      "accession": "0001193125-26-437871",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/860730/000119312526437871/hca-20260930.htm",
+      "snippets": [
+        {
+          "keyword": "Nashville",
+          "context": "...5930 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) One Park Plaza Nashville , Tennessee 37203 (Address of principal executive offices) (Zip Code) ( 615 ) 344-9551 (Registrant&#8217;s telephone number, including area code) Not Applicable (Former n..."
+        }
+      ]
+    },
+    {
+      "company": "Dollar General",
+      "form": "10-Q",
+      "filingDate": "2026-08-27",
+      "reportDate": "2026-07-31",
+      "accession": "0001104659-26-101932",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/29534/000110465926101932/dg-20260731x10q.htm",
+      "snippets": [
+        {
+          "keyword": "Nashville",
+          "context": "...hole. Accordingly, we do not express such an opinion. &#8203; &#8203; &#8203; /s/ Ernst&#160; Young LLP &#8203; &#8203; Nashville, Tennessee &#8203; August 27, 2026 &#8203; &#8203; &#8203; &#8203; 19 &#8203; ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPE..."
+        },
+        {
+          "keyword": "Davidson County",
+          "context": "...024 and March 28, 2024, respectively, the following shareholder derivative actions were filed in the Chancery Court for Davidson County, Tennessee: Todd Hellrigel v. Todd J. Vasos et al. (Case No. 24-0392-I) ( &#8220;Hellrigel\" ); Steve Southwell v. Todd Vasos, et al. (Case No. 24-0379-I) ( &#8220;S..."
+        }
+      ]
+    },
+    {
+      "company": "Starbucks",
+      "form": "10-Q",
+      "filingDate": "2026-07-29",
+      "reportDate": "2026-06-28",
+      "accession": "0000829224-26-000130",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/829224/000082922426000130/sbux-20260628.htm",
+      "snippets": [
+        {
+          "keyword": "Nashville",
+          "context": "...d a fiscal 2026 restructuring plan to relocate certain functions of our support organization to an additional office in Nashville, Tennessee, with the intention to establish a more strategic presence in the Southeast region of the United States. In the third quarter of fiscal 2026, we announced an a..."
+        }
+      ]
+    }
+  ]
+}
