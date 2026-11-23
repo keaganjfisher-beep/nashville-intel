@@ -1,0 +1,1587 @@
+{
+  "fetched_at": "2026-11-23T23:07:42.082Z",
+  "source": "Google News RSS (aggregating Tennessean, NBJ, Bisnow, local TV, trades)",
+  "queries": [
+    "nashville real estate",
+    "\"middle tennessee\" development",
+    "nashville rezoning",
+    "nashville multifamily",
+    "nashville apartments development",
+    "\"spring hill\" tennessee development",
+    "franklin tn development",
+    "murfreesboro development",
+    "\"mt juliet\" tn",
+    "nashville expansion store",
+    "nashville opens groundbreaking",
+    "metro nashville council planning"
+  ],
+  "item_count": 634,
+  "items": [
+    {
+      "source": "News Channel 5 Nashville",
+      "query": "franklin tn development",
+      "title": "Mixed feelings over mixed-use downtown Franklin development district project - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWV9ON19vdElxQXppb05pZlItLU9RMWZuWTd3LUw4SUdDYkhHY0V6emNrXzZseU1SOUVWMGtlTWNFS0VtdW9TVDd4WUlmYmNMb2g2bF9MZENrN2lHR0FVQWdGdjd0NVF4V3AyUkh5XzRlVTFNZ1pDYzg5ZHpFSUs3NEtHemxGWW5jaWFlX1Q1UUtUZzJjblZhckx1WFp1TWFqbVVlM3cxMDg1bjFmcy1F?oc=5",
+      "pubDate": "Wed, 11 Dec 2024 08:00:00 GMT",
+      "score": 6,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bfranklin\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmixed[\\s-]use\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPWV9ON19vdElxQXppb05pZlItLU9RMWZuWTd3LUw4SUdDYkhHY0V6emNrXzZseU1SOUVWMGtlTWNFS0VtdW9TVDd4WUlmYmNMb2g2bF9MZENrN2lHR0FVQWdGdjd0NVF4V3AyUkh5XzRlVTFNZ1pDYzg5ZHpFSUs3NEtHemxGWW5jaWFlX1Q1UUtUZzJjblZhckx1WFp1TWFqbVVlM3cxMDg"
+    },
+    {
+      "source": "Nashville SC",
+      "query": "nashville opens groundbreaking",
+      "title": "Nashville SC Holds Groundbreaking Ceremony for New Training Facility Site in Antioch - Nashville SC",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXp6cXZoajlwYmlDS01IWWU3a0tReFVpeFRuXzl3UzhoR0xtVUs3V2JLcFhRUV9SelBnLU1HTldhRFpvQmF3VF9nWW81eHlCakZ4MlZKNjN3Nm5lalFPd1RDT3AtSlBQdVBQRjVPQTc3ZVlGWjJ4emNkallSQXZKOGF0UXltWmlsSnFtYmg3MGZrS2VqTDFDblY3bDBhbWlWNE1iUlhMelNGLWpTOHB1Tmtxaw?oc=5",
+      "pubDate": "Tue, 05 Oct 2021 07:00:00 GMT",
+      "score": 6,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bantioch\\b/i"
+      ],
+      "matched_action": [
+        "/\\bground[\\s-]?breaking\\b/i",
+        "/\\bgroundbreaking\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXp6cXZoajlwYmlDS01IWWU3a0tReFVpeFRuXzl3UzhoR0xtVUs3V2JLcFhRUV9SelBnLU1HTldhRFpvQmF3VF9nWW81eHlCakZ4MlZKNjN3Nm5lalFPd1RDT3AtSlBQdVBQRjVPQTc3ZVlGWjJ4emNkallSQXZKOGF0UXltWmlsSnFtYmg3MGZrS2VqTDFDblY3bDBhbWlWNE1iUlhMelN"
+    },
+    {
+      "source": "News Channel 5 Nashville",
+      "query": "\"mt juliet\" tn",
+      "title": "Mt. Juliet will receive $12 million federal grant to widen Lebanon Road to 5 lanes - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMk8tdnNyRGJiM3B5UHNkTjN2bGFmMDQ0YnF2aWNuVVlIQVl2MFFUZ0ZNZVZ0LTJ3WE52T1p1bUExOTM1WUhPQXZUcGxvdmM3Z2t1WHlzLU8zVkVBRXlTVkp4QWFDYjVjckQzc2xtLXhybTRQUDBmUFJsN2t5aDM0d2EtWUFQZUpGUmhIMEViOGJvSXJPVUlLRThRY1hybjRhVnZrT3V2dHhYbF9DUHBhNGNxUm9fanZCLTQzOVpXY3NpdDBsOWI0eUI4bXFvcUdUWXR6NC1ER1lzUlo2?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT",
+      "score": 6,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bmt\\.?\\s+juliet\\b/i",
+        "/\\blebanon\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMk8tdnNyRGJiM3B5UHNkTjN2bGFmMDQ0YnF2aWNuVVlIQVl2MFFUZ0ZNZVZ0LTJ3WE52T1p1bUExOTM1WUhPQXZUcGxvdmM3Z2t1WHlzLU8zVkVBRXlTVkp4QWFDYjVjckQzc2xtLXhybTRQUDBmUFJsN2t5aDM0d2EtWUFQZUpGUmhIMEViOGJvSXJPVUlLRThRY1hybjRhVnZrT3V2dHh"
+    },
+    {
+      "source": "The Daily News Journal",
+      "query": "\"middle tennessee\" development",
+      "title": "Middle Tennessee Electric seeks corporations wanting HQ development in Murfreesboro - The Daily News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNjhVTUxnbnc2MmV3WnhpT0tFOVBTZFlnWjJKUFFZdXVwVkZwdVdDdUtzSXlWbjVTV3poTGRLd20xVnhnaWtMdVpObUVlbERmQ1dGTW5fNl9zelFqS1hlTWJmOFhXOXZGU2pHUzhPV201U3hWQmIwUkVnVDE2MVZPWUJtMy1Qd1h1R2tLclpJQ24wUi0wd3JzOXdTc3BCbHBPNDBVQjNzempCUTNNTFZiSWxLQjQ0TVV2WXl2T3Z6aXo2T3dmN3psVk9xZlJ2SkdUN2VGT2ZKelQ0UWZsSVNRb1ZCaw?oc=5",
+      "pubDate": "Wed, 20 Nov 2024 08:00:00 GMT",
+      "score": 5,
+      "matched_geo": [
+        "/\\bmiddle tennessee\\b/i",
+        "/\\bmurfreesboro\\b/i"
+      ],
+      "matched_action": [
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNjhVTUxnbnc2MmV3WnhpT0tFOVBTZFlnWjJKUFFZdXVwVkZwdVdDdUtzSXlWbjVTV3poTGRLd20xVnhnaWtMdVpObUVlbERmQ1dGTW5fNl9zelFqS1hlTWJmOFhXOXZGU2pHUzhPV201U3hWQmIwUkVnVDE2MVZPWUJtMy1Qd1h1R2tLclpJQ24wUi0wd3JzOXdTc3BCbHBPNDBVQjNzemp"
+    },
+    {
+      "source": "CITY NOW NEXT",
+      "query": "franklin tn development",
+      "title": "Site Work Begins On 600-acre, 68 Home Development In Franklin – Nashville. - CITY NOW NEXT",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEJweTBNMnFnLVNpaG9RTEdFOFlzdDg0dHFzN2IzUWs4RnJobGZYX2dUZkVKTXZ2S2xtd3VtTG5URXlILXFGaEtaV3Z0dWRkdWxhMEZ4MHZXQ0plbXhKd29nVlp2cm8xQnpPdW52UWZQY2xvaEg3Z0liazFCMjJETG40Mk9KRGNsOTMxbVItYkRwSXlRMGZnMUVWM3VIUXcydW5aUW5VblZwUQ?oc=5",
+      "pubDate": "Wed, 08 May 2024 07:00:00 GMT",
+      "score": 5,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bfranklin\\b/i"
+      ],
+      "matched_action": [
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEJweTBNMnFnLVNpaG9RTEdFOFlzdDg0dHFzN2IzUWs4RnJobGZYX2dUZkVKTXZ2S2xtd3VtTG5URXlILXFGaEtaV3Z0dWRkdWxhMEZ4MHZXQ0plbXhKd29nVlp2cm8xQnpPdW52UWZQY2xvaEg3Z0liazFCMjJETG40Mk9KRGNsOTMxbVItYkRwSXlRMGZnMUVWM3VIUXcydW5aUW5VblZ"
+    },
+    {
+      "source": "The Leaf Chronicle | Clarksville, TN",
+      "query": "nashville expansion store",
+      "title": "Wawa’s Tennessee expansion starts in Clarksville, Murfreesboro and Nashville - The Leaf Chronicle | Clarksville, TN",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUmJCaDdhM05wN29BUnVyOWc3R2lFVklZTTBCaFNVemViZHZyQlE4OFBiRGttdi1XRlVtX0pNWVB2ZTJvZEJPRzAtR0F3alVqdHA3QXlRRDBBWl9FTVVRaHZ2U002QXlUV3VqNFY3SDIydnYtOU1vVlQ2R0VpZ2xyNjZKaEszdjZ0YlkxWGs3ZU9sS0NOLTRWZnh3SWdZUzdqUWJFUzRtbkJqSVhqU3VFUGpzdDNUaGhzN1ZUY0h5cGJuc0NuUlpzS1pmNk5fODFJbWgzc3hHY3AwbDFwWVpqXzRMMkZsRVZ1WVE?oc=5",
+      "pubDate": "Wed, 02 Jul 2025 07:00:00 GMT",
+      "score": 5,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bmurfreesboro\\b/i"
+      ],
+      "matched_action": [
+        "/\\bexpansion\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUmJCaDdhM05wN29BUnVyOWc3R2lFVklZTTBCaFNVemViZHZyQlE4OFBiRGttdi1XRlVtX0pNWVB2ZTJvZEJPRzAtR0F3alVqdHA3QXlRRDBBWl9FTVVRaHZ2U002QXlUV3VqNFY3SDIydnYtOU1vVlQ2R0VpZ2xyNjZKaEszdjZ0YlkxWGs3ZU9sS0NOLTRWZnh3SWdZUzdqUWJFUzRtbkJ"
+    },
+    {
+      "source": "WZTV",
+      "query": "\"spring hill\" tennessee development",
+      "title": "Planning commission approves 18-acre mixed-use development in Spring Hill - WZTV",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZ0JQc2UzTVpmX1lZV2pNbHh0eDBlaFNDNmltS044VW5uNDZDdk5rTUkwbkd2TDg1Z3lpY1BZdS0zUXcyS25SSy0tY3hpS2Rya1ZFNnZ6Q3FSc0lRVkhRRFRrbnk5RnFMZ0piV3g0OHhBQ1VqQXhXcDF5ZkVLcmI4cW5BVGdodTJlMkdtdEVhYXY3dkNDUzBockJ6YWhOTjZLOXphdEVfNEtOZXgwT2VnQUxaUUhuaVRGQmxaWlZmSDZYVzN5ZktzcXVtUzRLOFMzR3NKQmRQOTdqekZxMVhERGt2SEhPcmhXOTl3elBLLWY4aTZyV2lHUktFTTZrSjV2Z2wtejFoM3ppaUQz?oc=5",
+      "pubDate": "Tue, 13 Sep 2022 07:00:00 GMT",
+      "score": 5,
+      "matched_geo": [
+        "/\\bspring hill\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmixed[\\s-]use\\b/i",
+        "/\\bdevelopment\\b/i",
+        "/\\bplanning commission\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxNZ0JQc2UzTVpmX1lZV2pNbHh0eDBlaFNDNmltS044VW5uNDZDdk5rTUkwbkd2TDg1Z3lpY1BZdS0zUXcyS25SSy0tY3hpS2Rya1ZFNnZ6Q3FSc0lRVkhRRFRrbnk5RnFMZ0piV3g0OHhBQ1VqQXhXcDF5ZkVLcmI4cW5BVGdodTJlMkdtdEVhYXY3dkNDUzBockJ6YWhOTjZLOXphdEVfNEt"
+    },
+    {
+      "source": "News Channel 5 Nashville",
+      "query": "franklin tn development",
+      "title": "Williamson County neighbors fight to save iconic tree tunnel from development - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzB0SThzN0lFXzF4bzM0NjRIWmpnWUZhb1hfdGlUbTZ0RmFoQUc0bHlEcGpUcjdieFdQVngyV1oxamNuN2RtdURiczhtZi1lNUdkZmh2TkVxQTdFQlZYSHJGc1JOVG5RVzI3cG5TWDhrSHo2Z2podDBNa1hGeGZ2RXhEVS1LaVJqcXFiV0J0Nklia3ZlQ2szWWp1a2E5cHpWUHpERkFkRldWem5Eb1JQeg?oc=5",
+      "pubDate": "Tue, 05 Aug 2025 07:00:00 GMT",
+      "score": 5,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bwilliamson county\\b/i"
+      ],
+      "matched_action": [
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzB0SThzN0lFXzF4bzM0NjRIWmpnWUZhb1hfdGlUbTZ0RmFoQUc0bHlEcGpUcjdieFdQVngyV1oxamNuN2RtdURiczhtZi1lNUdkZmh2TkVxQTdFQlZYSHJGc1JOVG5RVzI3cG5TWDhrSHo2Z2podDBNa1hGeGZ2RXhEVS1LaVJqcXFiV0J0Nklia3ZlQ2szWWp1a2E5cHpWUHpERkFkRld"
+    },
+    {
+      "source": "REBusinessOnline",
+      "query": "nashville apartments development",
+      "title": "CBL Sells Land at CoolSprings Galleria Mall in Metro Nashville to Greystar for 361-Unit Apartment Development - REBusinessOnline",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeWdhWHAzUk1nNl95emdWQkhWWVBlcGF5Sk9nYmxFUWlGVk43MmdYQWFXaTJSRjRxU1pKaHJQRjNfY1VER081MHdSUzEyZ201SVNicktOOXgzb3AwS0d2dWxBNkZCU2Y1Nk9kcFNOTEIyR05OR29JRHZNWktzUUhObHVsTW94OGI0ekxmRUgwVkNGSzhLeDhXLTBxMTFzM0hXMmhFWGlMZU1ZWVZaRjhYd1h1YlNlYWpZa0E2SmNRYlFKMmZuZlRLd3QwM1NYX0dTdUtFLV9n?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT",
+      "score": 5,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bapartments?\\b/i",
+        "/\\bdevelopment\\b/i",
+        "/\\bsells\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeWdhWHAzUk1nNl95emdWQkhWWVBlcGF5Sk9nYmxFUWlGVk43MmdYQWFXaTJSRjRxU1pKaHJQRjNfY1VER081MHdSUzEyZ201SVNicktOOXgzb3AwS0d2dWxBNkZCU2Y1Nk9kcFNOTEIyR05OR29JRHZNWktzUUhObHVsTW94OGI0ekxmRUgwVkNGSzhLeDhXLTBxMTFzM0hXMmhFWGlMZU1"
+    },
+    {
+      "source": "Healthcare | Ascension",
+      "query": "murfreesboro development",
+      "title": "Ascension Saint Thomas and Murfreesboro Medical Clinic Announce Plans to Expand New Medical and Retail Development in Eastern Rutherford County - Healthcare | Ascension",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOS21kdW1LalJsMV81WUtMV05zNi16SUkwMVQ4Qm05OFJGRkFPN2drX2t2R1JVVUdhSDZBcDZmaWlnVXVNYTZrQTgxeU1LY2RjSVI1NWJQQnFxR2RjT1pHV1NVMU1jTkNjWHNmLVhXVXBjWHllcE01WDZnbVZzMmRydHdxa0FibUFnQkxyTUxoNWxHaTlhY2ZzbkZhUFFVdWFpQkpHck9WNXNFSWRvMEw0MDgzSzVxTWlVXzE5ZmtzTkNSMzVUQkprZF9CZGlfQTJlY1FfSUtaeUJWWFRQeV9jVWt1Y0xDanp3Zzh4b2RYcFlFdGxnQlhuVEtyY0c2cUN2RkxueWY5YkhIdmVNaWR5em1B?oc=5",
+      "pubDate": "Thu, 22 May 2025 07:00:00 GMT",
+      "score": 5,
+      "matched_geo": [
+        "/\\brutherford county\\b/i",
+        "/\\bmurfreesboro\\b/i"
+      ],
+      "matched_action": [
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOS21kdW1LalJsMV81WUtMV05zNi16SUkwMVQ4Qm05OFJGRkFPN2drX2t2R1JVVUdhSDZBcDZmaWlnVXVNYTZrQTgxeU1LY2RjSVI1NWJQQnFxR2RjT1pHV1NVMU1jTkNjWHNmLVhXVXBjWHllcE01WDZnbVZzMmRydHdxa0FibUFnQkxyTUxoNWxHaTlhY2ZzbkZhUFFVdWFpQkpHck9WNXN"
+    },
+    {
+      "source": "Multifamily &amp; Affordable Housing Business",
+      "query": "franklin tn development",
+      "title": "Flournoy Development Group to Develop 34-Acre Mixed-Use Project in Franklin, Tennessee - Multifamily &amp; Affordable Housing Business",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbGR0LXRhYi1hQW9lSHJQQmxNc19HdVhMVTMwdENTbGNXVi1mZVJpanFmaEVVLWxESG1iYUVuOTA5MG54em1XMTA5eHYtUFFabVZiM25JeGJhOERxV1Y1bExwQzBJd1VKak1mMlVpTXB1WnJweC1vam5zbE54dEFjZ3VCaDh4QjBoaDh2alVHZkRGbEJBQ21qbTFNdjBvMGFZWEd1a1JJSlN5enlneG1RQlRxcUZKWDd3ZWNzcFNMMjBRVG5yNHc?oc=5",
+      "pubDate": "Thu, 16 May 2024 07:00:00 GMT",
+      "score": 5,
+      "matched_geo": [
+        "/\\bfranklin\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmultifamily\\b/i",
+        "/\\bmixed[\\s-]use\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNbGR0LXRhYi1hQW9lSHJQQmxNc19HdVhMVTMwdENTbGNXVi1mZVJpanFmaEVVLWxESG1iYUVuOTA5MG54em1XMTA5eHYtUFFabVZiM25JeGJhOERxV1Y1bExwQzBJd1VKak1mMlVpTXB1WnJweC1vam5zbE54dEFjZ3VCaDh4QjBoaDh2alVHZkRGbEJBQ21qbTFNdjBvMGFZWEd1a1JJSlN"
+    },
+    {
+      "source": "Nashville Scene",
+      "query": "\"middle tennessee\" development",
+      "title": "Hagerty Begins Economic Development Tour in Middle Tennessee - Nashville Scene",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON2wtM1J1UnRNaWNobzNYSGdZekRrZkp6YWhzWXpIOFpDWXNXODRnYTMyMEFUQTF6dWFwc1RzV1RjamVJVGZ5cWJGbkE0WDY1aDFyNW1keW5pSkhOZGxCSHJ3X2ZTVWExVlJnNUlvTHdPME55U2pMYUQxVGVLTzFhbE9sZUhVUkdGUnltYUZNTVNUT3VmX1FrSGJ6d2taZzFCbUg2V3VaaEtUUEFsSGF1TlNIRFlHYnh3cjd0UkNHWWlwSjExVkFr?oc=5",
+      "pubDate": "Thu, 15 Aug 2024 07:00:00 GMT",
+      "score": 5,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bmiddle tennessee\\b/i"
+      ],
+      "matched_action": [
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxON2wtM1J1UnRNaWNobzNYSGdZekRrZkp6YWhzWXpIOFpDWXNXODRnYTMyMEFUQTF6dWFwc1RzV1RjamVJVGZ5cWJGbkE0WDY1aDFyNW1keW5pSkhOZGxCSHJ3X2ZTVWExVlJnNUlvTHdPME55U2pMYUQxVGVLTzFhbE9sZUhVUkdGUnltYUZNTVNUT3VmX1FrSGJ6d2taZzFCbUg2V3VaaEt"
+    },
+    {
+      "source": "WKRN News 2",
+      "query": "murfreesboro development",
+      "title": "Franklin Road development would bring homes, business to Murfreesboro - WKRN News 2",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdjJqRkdmamxweFpGT1FlY3VIRkoxUU1aLWxFa0hzRUhycl85bkNZVnVmTmFvd3FwWWVENmpEam5YeVZ5VzdGMmRLWUhtN0NlT1BOVXJ2bWR1Z3pTaE1kVFdJeDUyNGlTaHVSSGJjN2kzelF6SktoeVZBbG9OamtVTG5Zc1VNZ0oyWFB2X2FGWVdmNmhEVzlXRHd1WWtSREppUGpLbmEwcmMtU2c4MjM2OGxvV096NlNXN01SOFpqZkhHYkFLTGZYYVpscDdFZmfSAdQBQVVfeXFMTVZPYWdDUExkRGMtd3hDVXdzWWxoazVyQWRUb3lSa0RwTlFvVHRxRmdEQTlvMzRqWkRYb3pUNk1KR1dIUWx6eWZrMUdiNGFvX09mcXJUQnVwSzlYS3h5MFRkOHdDYk1FOVVibDdiTlNFMlpaTDlKU19ldmVLbWFKNUlCTkpPeEwwNDJaWkxna2NGT25xRFRKeXU0bW1lc0RoS1oxaWZtVkhzMGZzM2JXaHEyeGZ0ekUzTDhTS1dzd0ZWQ3RnNEx2VGhEdHhDVFdMdmNLUkE?oc=5",
+      "pubDate": "Thu, 09 Oct 2025 07:00:00 GMT",
+      "score": 5,
+      "matched_geo": [
+        "/\\bfranklin\\b/i",
+        "/\\bmurfreesboro\\b/i"
+      ],
+      "matched_action": [
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOdjJqRkdmamxweFpGT1FlY3VIRkoxUU1aLWxFa0hzRUhycl85bkNZVnVmTmFvd3FwWWVENmpEam5YeVZ5VzdGMmRLWUhtN0NlT1BOVXJ2bWR1Z3pTaE1kVFdJeDUyNGlTaHVSSGJjN2kzelF6SktoeVZBbG9OamtVTG5Zc1VNZ0oyWFB2X2FGWVdmNmhEVzlXRHd1WWtSREppUGpLbmEwcmM"
+    },
+    {
+      "source": "Capital Analytics Associates",
+      "query": "\"middle tennessee\" development",
+      "title": "Middle Tennessee leaders examine infrastructure, development at Invest: Nashville Leadership Summit - caa - Capital Analytics Associates",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRlFqTXBHc0U1R2Rxa3Ixa3RBc3pYSFVocjd5OGp3OVJ6VmtaVDJKdTFQcUoyc0Iyc0RNSGhNazN5Wm5EWWVwRkxIZ19IYy11WGdhS25zeTJVaVBHNUpxUEl1bHJuSWpUdER0djA3SERMV2VMVjdIa3NlWnhpOHRjTGZlUDRXUW5Ydm5xY29HZ2xFQm44eWhGQ2pPZ1ZZazdSQXFlZm01d3dIdmlJM2lLd3FwRGtYem1LcFBkcE1JVFdPUDhRVXRsbUNPQ1N6SmFQMFBlWGpGUjY1QQ?oc=5",
+      "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "score": 5,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bmiddle tennessee\\b/i"
+      ],
+      "matched_action": [
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRlFqTXBHc0U1R2Rxa3Ixa3RBc3pYSFVocjd5OGp3OVJ6VmtaVDJKdTFQcUoyc0Iyc0RNSGhNazN5Wm5EWWVwRkxIZ19IYy11WGdhS25zeTJVaVBHNUpxUEl1bHJuSWpUdER0djA3SERMV2VMVjdIa3NlWnhpOHRjTGZlUDRXUW5Ydm5xY29HZ2xFQm44eWhGQ2pPZ1ZZazdSQXFlZm01d3d"
+    },
+    {
+      "source": "Yield PRO",
+      "query": "nashville multifamily",
+      "title": "UDR Sells Nashville Multifamily Property Legacy Hill Apartments - Yield PRO",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zdnE3a0ZEa2UwSmNhbFVlN3JIdmE4eWw4UzZLUTFDTkxkVlZlQmtyeXFJZVNHU214MGM0VHJpQmI1a2JKM2dFdUsyNE9DMVl5Uk1r?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 07:00:00 GMT",
+      "score": 5,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmultifamily\\b/i",
+        "/\\bapartments?\\b/i",
+        "/\\bsells\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zdnE3a0ZEa2UwSmNhbFVlN3JIdmE4eWw4UzZLUTFDTkxkVlZlQmtyeXFJZVNHU214MGM0VHJpQmI1a2JKM2dFdUsyNE9DMVl5Uk1r?oc=5\" target=\"_blank\"&gt;UDR Sells Nashville Multifamily Property Legacy Hill Apartments&lt;/a&gt;&amp;nbsp;&amp;n"
+    },
+    {
+      "source": "News Channel 5 Nashville",
+      "query": "murfreesboro development",
+      "title": "Neighbors fighting condo development plan in Murfreesboro - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYnpmdTV2VTAwNER1aDJRMkV1eXBYa0lvRmdpWklpd0RnSmlSZlVlTVJZb002RGlIdWpGWVFPazFBWDMzRjNKSEtuVlEwT3habTNGb1JleWktYTViRkEyMHEtdE53LVZEQWhCTUUwNUx5MzZ4WFBxeVA0dTZTMS1LbzdtVlZoUkNabnlSaXptSGt3Q3pib0E?oc=5",
+      "pubDate": "Sun, 13 Jan 2019 08:00:00 GMT",
+      "score": 5,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bmurfreesboro\\b/i"
+      ],
+      "matched_action": [
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQYnpmdTV2VTAwNER1aDJRMkV1eXBYa0lvRmdpWklpd0RnSmlSZlVlTVJZb002RGlIdWpGWVFPazFBWDMzRjNKSEtuVlEwT3habTNGb1JleWktYTViRkEyMHEtdE53LVZEQWhCTUUwNUx5MzZ4WFBxeVA0dTZTMS1LbzdtVlZoUkNabnlSaXptSGt3Q3pib0E?oc=5\" target=\"_blank\"&g"
+    },
+    {
+      "source": "Sonic Automotive",
+      "query": "nashville opens groundbreaking",
+      "title": "Sonic Automotive Expands Luxury Footprint with Groundbreaking of Porsche Downtown Nashville - Sonic Automotive",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRVZPcnpaZWxKUWgtUDNObkRsdC1tTm1kNDNmazN1bEl4c2FUc0pIOGZpckg1dW5QSTR3Z2taUWoyeDlzS3Z3ZmluMThjUWZjYVU1M0xucVJqaUhxckg5aVpXQS1iWnhuQmtxdHk4Qk9HTG9Za2ZwcHo3bW9IMzB4OVhHNVlLbFdnNzZOcDcwa1lmR0pFb0lHMmFxbjduWkZHSkJLSEpPcDAzclMxSVhKZ21SRERTUQ?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
+      "score": 5,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bground[\\s-]?breaking\\b/i",
+        "/\\bgroundbreaking\\b/i",
+        "/\\bexpands\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQRVZPcnpaZWxKUWgtUDNObkRsdC1tTm1kNDNmazN1bEl4c2FUc0pIOGZpckg1dW5QSTR3Z2taUWoyeDlzS3Z3ZmluMThjUWZjYVU1M0xucVJqaUhxckg5aVpXQS1iWnhuQmtxdHk4Qk9HTG9Za2ZwcHo3bW9IMzB4OVhHNVlLbFdnNzZOcDcwa1lmR0pFb0lHMmFxbjduWkZHSkJLSEpPcDA"
+    },
+    {
+      "source": "Multifamily &amp; Affordable Housing Business",
+      "query": "nashville multifamily",
+      "title": "American Landmark Apartments Acquires Hamptons at Woodland Pointe in Nashville - Multifamily &amp; Affordable Housing Business",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHg1OEd4VGZKWnliUkJ0Z2Q5eDZXZzRaWlhkbmQ0OXVpV3ZRVzVPUm83aWMtRENzVVhUOTZRUW9qdDBYbkExVXdlVnNHeGx3MWY5LUU0X1ZnRVdwYmJJQkRCUFptckhjNEJST0h2RW5ZdUs5NUc0RDExbGIzblEwQmVuMlNTV2gwSUhoZXp0SnBNUkdXMjRScFRQYkhqdGFEMzFPZmVxNmhXRXcxRlg3VkZZZ0xnZmlMRzR6Rw?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+      "score": 5,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmultifamily\\b/i",
+        "/\\bapartments?\\b/i",
+        "/\\bacquires\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHg1OEd4VGZKWnliUkJ0Z2Q5eDZXZzRaWlhkbmQ0OXVpV3ZRVzVPUm83aWMtRENzVVhUOTZRUW9qdDBYbkExVXdlVnNHeGx3MWY5LUU0X1ZnRVdwYmJJQkRCUFptckhjNEJST0h2RW5ZdUs5NUc0RDExbGIzblEwQmVuMlNTV2gwSUhoZXp0SnBNUkdXMjRScFRQYkhqdGFEMzFPZmVxNmh"
+    },
+    {
+      "source": "News Channel 5 Nashville",
+      "query": "murfreesboro development",
+      "title": "Neighbors question pace of luxury townhome development near downtown Murfreesboro - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaV9Nb2F1TEt6eXFfQ3FmWThtMlJ6UmZmeHRSYXp2NVpyYUFHZG5OMlFRWDg3bkNxbm5NVnhyVVpkNmRxWWkwcDhVMzViN1lJYjBqVGhMcWJGcjEzdEdiUEFsZUV6QVpLUkxLM0hwSGtEYVpXZUVGSnd3d1doWWI1cGE2dDhlakd5dWpGUFV5cWxXSnRkSDZCTFYycnROeG42a0dpczZ4RThMUDlDTG4ydkhtM2ZHLXB2SGx5WXc2aEpObWR5OUpiN1NoMDJ6SDJUMmxZbmtDNFA4c1pFVk5rZ1ktcw?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 07:00:00 GMT",
+      "score": 5,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bmurfreesboro\\b/i"
+      ],
+      "matched_action": [
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaV9Nb2F1TEt6eXFfQ3FmWThtMlJ6UmZmeHRSYXp2NVpyYUFHZG5OMlFRWDg3bkNxbm5NVnhyVVpkNmRxWWkwcDhVMzViN1lJYjBqVGhMcWJGcjEzdEdiUEFsZUV6QVpLUkxLM0hwSGtEYVpXZUVGSnd3d1doWWI1cGE2dDhlakd5dWpGUFV5cWxXSnRkSDZCTFYycnROeG42a0dpczZ4RTh"
+    },
+    {
+      "source": "Nashville Post",
+      "query": "murfreesboro development",
+      "title": "Chicago developer lands rezoning for I-840 site in Murfreesboro - Nashville Post",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPN214NWhkU05SUDBvdFQ5ZGd1TGUzU0dLZW5ad3E3bXdoeHlrQ21HMy15NlBTWVZSNzZ3Xy00eUdoUy1YMWxiaHpodWFPeGxjMVRkVkpFNHdKQU5xSEkwVTJ3NjAyM3hmTHN6Z3ZHRGpjdndSWHRWcXhlaHFaZElNd2J3ZEdUeXBmUmtwNTRFbmJZVFhwbXNqdzhnTDZmX01UZzRPM2p5UmFqdm42TjA0WFNPZTB1ZTZmSG5RMmJEeVhRUmxhWndQQjVjal9OT0U3T0cxRUVyQVpCR0NkVkpCSlcwcWUzbWVuRzJtODlCTU1wMDhEbEdJ?oc=5",
+      "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "score": 5,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bmurfreesboro\\b/i"
+      ],
+      "matched_action": [
+        "/\\brezoning?\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPN214NWhkU05SUDBvdFQ5ZGd1TGUzU0dLZW5ad3E3bXdoeHlrQ21HMy15NlBTWVZSNzZ3Xy00eUdoUy1YMWxiaHpodWFPeGxjMVRkVkpFNHdKQU5xSEkwVTJ3NjAyM3hmTHN6Z3ZHRGpjdndSWHRWcXhlaHFaZElNd2J3ZEdUeXBmUmtwNTRFbmJZVFhwbXNqdzhnTDZmX01UZzRPM2p5UmF"
+    },
+    {
+      "source": "Nashville Post",
+      "query": "murfreesboro development",
+      "title": "Murfreesboro developer sells four properties for $248M - Nashville Post",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNmtIcWxRU2k5czM2Unphck9NeExMT05CcEJCUFlLTjgwYVFHbmpLYTNRUFFydnpjczNWbmVPTDh3M1JaQ1Bod0FDRkk5UkZWLVZNWGdxNlhEN0Q4dkFVOHMxbnNkTFNhdnV2Nm9ZRHlPcHBMZHZueWJqT0d6cjhJcExIeU5Bb0ZPNTVyUkp3alBXUDlCMlNER3dITU9xQ0NIUllhQzJ0X3Zvd2MwMzVFUndBdWdhQ3FfV2VFZlRkcmFaZi1qY29QUkdwR1lYakc2MlhuMUlSaFRnZVlUZ2R1TXZxQlpMdDR6ckE?oc=5",
+      "pubDate": "Fri, 06 Aug 2021 07:00:00 GMT",
+      "score": 5,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bmurfreesboro\\b/i"
+      ],
+      "matched_action": [
+        "/\\bsells\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNmtIcWxRU2k5czM2Unphck9NeExMT05CcEJCUFlLTjgwYVFHbmpLYTNRUFFydnpjczNWbmVPTDh3M1JaQ1Bod0FDRkk5UkZWLVZNWGdxNlhEN0Q4dkFVOHMxbnNkTFNhdnV2Nm9ZRHlPcHBMZHZueWJqT0d6cjhJcExIeU5Bb0ZPNTVyUkp3alBXUDlCMlNER3dITU9xQ0NIUllhQzJ0X3Z"
+    },
+    {
+      "source": "News Channel 5 Nashville",
+      "query": "franklin tn development",
+      "title": "Harlin development approved in Franklin despite neighbor opposition - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMWRsemU5VlJFTGhIaUc1YmlXNi1Qb3lJaklGUUVMbkhrd3RyZlhUa1NFZl9UQ05PZDFvVFl0Mkk4ZXluNGx5bzBES1BldWtneEdkT2xsS1VWQ1V6WXo4Q0JOdU84RGdqT1lFak1ZYnZwR01SRlZzV2tQSlVvUWwwZUtfZEVQa0w1YjJHYnVGYW9uR3lUWXgtX0t4RGw3NG90Z3BHVDNpanBza3ozUE1FREV3QnlnNm9jaW9wSUt6V1dkOFU0dW5KWC1MMEdVLVFn?oc=5",
+      "pubDate": "Fri, 01 May 2026 07:00:00 GMT",
+      "score": 5,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bfranklin\\b/i"
+      ],
+      "matched_action": [
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMWRsemU5VlJFTGhIaUc1YmlXNi1Qb3lJaklGUUVMbkhrd3RyZlhUa1NFZl9UQ05PZDFvVFl0Mkk4ZXluNGx5bzBES1BldWtneEdkT2xsS1VWQ1V6WXo4Q0JOdU84RGdqT1lFak1ZYnZwR01SRlZzV2tQSlVvUWwwZUtfZEVQa0w1YjJHYnVGYW9uR3lUWXgtX0t4RGw3NG90Z3BHVDNpanB"
+    },
+    {
+      "source": "Nashville Post",
+      "query": "nashville apartments development",
+      "title": "Hillsboro Village apartment complex sells for $10.75M - Nashville Post",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdGZJZkFRVDZpWVRCRk9lN0k2dTRROWdHalZVNkVzTFAzbHpsS3hLYXJCbzl5RU0tZTJjemZXa2xWdExCSmR6djlHR3QxNDItdUpBakxaanV2a2NVMW13bUdjVFVGRXpyam1IVDN0WmgzRjMxVE1XeUUwT0lVanRldmlUNk81MDJNaWhxLW9oLWRmR3lYZEJ4bFhxcjEzSGxXVTNkZ0tsWVd3SGJmTDFiYmlrZ3F2U1l1Q0tBZ0JWc3lScW5EOUxlMXFaT1dVbWlNSjhfUmpzSDBfVzJHazNMR0Faem9fZlJO?oc=5",
+      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bapartments?\\b/i",
+        "/\\bsells\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdGZJZkFRVDZpWVRCRk9lN0k2dTRROWdHalZVNkVzTFAzbHpsS3hLYXJCbzl5RU0tZTJjemZXa2xWdExCSmR6djlHR3QxNDItdUpBakxaanV2a2NVMW13bUdjVFVGRXpyam1IVDN0WmgzRjMxVE1XeUUwT0lVanRldmlUNk81MDJNaWhxLW9oLWRmR3lYZEJ4bFhxcjEzSGxXVTNkZ0tsWVd"
+    },
+    {
+      "source": "CITY NOW NEXT",
+      "query": "nashville apartments development",
+      "title": "CoolSprings Galleria Set For Mixed-Use Development In Franklin, TN. - CITY NOW NEXT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaDBWX0RxWlBESDliLTlXN2VGcXdmWEZ3ZHBDSTFNQkItZlhlR2RRMXdveFdsWmpEQW5VMFJZcHpmSU5NaW00TWxwbGk1UzNLcUw4RUZ3eGtwdjQ2WlN2emUxNHZXWDloMVN2UmVBeEJ1X2JYcUdrSFFKNUVyRndhUXM2VEE1dXZiYmhMTGtxWFVmbDhTNDN4NkI5YmVhbjVKemZF?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bfranklin\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmixed[\\s-]use\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQaDBWX0RxWlBESDliLTlXN2VGcXdmWEZ3ZHBDSTFNQkItZlhlR2RRMXdveFdsWmpEQW5VMFJZcHpmSU5NaW00TWxwbGk1UzNLcUw4RUZ3eGtwdjQ2WlN2emUxNHZXWDloMVN2UmVBeEJ1X2JYcUdrSFFKNUVyRndhUXM2VEE1dXZiYmhMTGtxWFVmbDhTNDN4NkI5YmVhbjVKemZF?oc=5\" "
+    },
+    {
+      "source": "Nashville Post",
+      "query": "franklin tn development",
+      "title": "Franklin farmland to be developed in partnership with Nashville sports franchises - Nashville Post",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSUg2d3ptU2p3ejRKaTMzOXZBWkt1WXItUkJDX012OF9lWjh6aEREeDRCeGI5WHQwS25hcTM1b0xjWmp3T3E2QnJmam9uUWtQenlWdldTUGRjVGJhT1pBUjFvanFRM0dNYVlHNHphdC1hZTZ1c0gwaGhxWTB3bGpXNTk4cmhhY3NGaGVqMkR5dVgwbUUyc2ZDV29ESmdoNG1YN0tQYnU0b2IyVlN0Ti1GU3NYSkhHQUJGejBBTXR5SzVtemV5bFZwZGpWWERVcEM4OTNFb2dfY1JZb2NJd1o3R21lbWthbDZ3Q0Y3UnotSjNBNUtKb2M3S1lJb1ZIN2g0QldaMWdGNHFYZkJwWTNn?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bfranklin\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxQSUg2d3ptU2p3ejRKaTMzOXZBWkt1WXItUkJDX012OF9lWjh6aEREeDRCeGI5WHQwS25hcTM1b0xjWmp3T3E2QnJmam9uUWtQenlWdldTUGRjVGJhT1pBUjFvanFRM0dNYVlHNHphdC1hZTZ1c0gwaGhxWTB3bGpXNTk4cmhhY3NGaGVqMkR5dVgwbUUyc2ZDV29ESmdoNG1YN0tQYnU0b2I"
+    },
+    {
+      "source": "Multifamily Housing News",
+      "query": "nashville multifamily",
+      "title": "Embrey Acquires Nashville-Area Site for 600 Multifamily Units - Multifamily Housing News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ09qdHYtaE9WdGFZY1N4dVQwZFRLcDBuN3RPYUtHSmlvbnExekFqMy10dldSTUNib3ZrX3VOdDVGTE9hbm84Z0pMZnBMSzh0ODFCc3Z2RWdPLUZLb1BDbFZJWDhsUENKSW5fUF9BNzh3ZWVfV1kwUHdwdGJiZGFacHA1bjVhQlA2Q2c5cmt1VWp3NTlOWlBOWXJhY2IwSWc?oc=5",
+      "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmultifamily\\b/i",
+        "/\\bacquires\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ09qdHYtaE9WdGFZY1N4dVQwZFRLcDBuN3RPYUtHSmlvbnExekFqMy10dldSTUNib3ZrX3VOdDVGTE9hbm84Z0pMZnBMSzh0ODFCc3Z2RWdPLUZLb1BDbFZJWDhsUENKSW5fUF9BNzh3ZWVfV1kwUHdwdGJiZGFacHA1bjVhQlA2Q2c5cmt1VWp3NTlOWlBOWXJhY2IwSWc?oc=5\" targe"
+    },
+    {
+      "source": "The Business Journals",
+      "query": "franklin tn development",
+      "title": "'Bringing new energy to downtown': Developer breaks ground on $165M luxury development in Franklin - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUFUcnFINUNKeGVycVVLYk5wcG5vU1VudkdPWGNOWUVCVG5vS1k5NVJ6UDBLZmZZV2ZQRTFRbkVBNUFiR3d4UlV4dzNiUFVqTndIS3NGWFd1MEoyVzNVZi0tUjgtUVdWMWwwOGVINDUwakEydGxsOFZva0NPWUlBOVVpcnRyUTlhWG44RXRzYkpsRVY0eDFfc0VIYXUtX3RjaUJFMnJNQXB4Zw?oc=5",
+      "pubDate": "Wed, 11 Jun 2025 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bfranklin\\b/i"
+      ],
+      "matched_action": [
+        "/\\bbreaks ground\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUFUcnFINUNKeGVycVVLYk5wcG5vU1VudkdPWGNOWUVCVG5vS1k5NVJ6UDBLZmZZV2ZQRTFRbkVBNUFiR3d4UlV4dzNiUFVqTndIS3NGWFd1MEoyVzNVZi0tUjgtUVdWMWwwOGVINDUwakEydGxsOFZva0NPWUlBOVVpcnRyUTlhWG44RXRzYkpsRVY0eDFfc0VIYXUtX3RjaUJFMnJNQXB"
+    },
+    {
+      "source": "Nashville Post",
+      "query": "franklin tn development",
+      "title": "Developer of $165M downtown Franklin project seeks retail tenants - Nashville Post",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSlhWeW1jVGU1Tm5EQTVQcUZ5UEVCQmNlOFA1ZDFGYlJ5MmFPaU5fMzdSWXdNRzAxSF8xUDBwTHNTbGlBbS1rMUU0RWRlTlhucGdGRnlLVG1Ld0JuN3VwUDJDakd3WGdyanZ2QVpybExHTDYyU19WR19ncVhpaFNyd1lfd3F5RkxWYUxqVXFNVVR1dHVqTHVDMS1ES29fQUlUTXRnbzVQUXdXSVk1clFHWm43bHFyeGI4QkNFUEhLbnBueU9rNDRqQ1RoTEx3WmdKb181YmR6UXl1WDROZF9jYzlkb1hqblZFanQwSFNtZjlHT2JtZDZ1Xw?oc=5",
+      "pubDate": "Wed, 11 Jun 2025 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bfranklin\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSlhWeW1jVGU1Tm5EQTVQcUZ5UEVCQmNlOFA1ZDFGYlJ5MmFPaU5fMzdSWXdNRzAxSF8xUDBwTHNTbGlBbS1rMUU0RWRlTlhucGdGRnlLVG1Ld0JuN3VwUDJDakd3WGdyanZ2QVpybExHTDYyU19WR19ncVhpaFNyd1lfd3F5RkxWYUxqVXFNVVR1dHVqTHVDMS1ES29fQUlUTXRnbzVQUXd"
+    },
+    {
+      "source": "WSMV",
+      "query": "\"mt juliet\" tn",
+      "title": "2 Nashville men allegedly caught shoplifting in Mt. Juliet - WSMV",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ0dUdmVMUzBCdUxhMEFlZEZHRUZBSHhGbGVjY2Iwazd2bS1OSkZ6UnFvbXJOZFNyeUMyNzdaWDBqLVNXNmRqNmhzck9PaUFGTXJJb1FabzFXT2pDUjI3cmxmT3M5dzcwaEE2YWczaXdUVUNLMk1yampUNGNvSFBzR3RlR2lubjFFaWFTYlI0SXk?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bmt\\.?\\s+juliet\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ0dUdmVMUzBCdUxhMEFlZEZHRUZBSHhGbGVjY2Iwazd2bS1OSkZ6UnFvbXJOZFNyeUMyNzdaWDBqLVNXNmRqNmhzck9PaUFGTXJJb1FabzFXT2pDUjI3cmxmT3M5dzcwaEE2YWczaXdUVUNLMk1yampUNGNvSFBzR3RlR2lubjFFaWFTYlI0SXk?oc=5\" target=\"_blank\"&gt;2 Nash"
+    },
+    {
+      "source": "Multifamily Housing News",
+      "query": "nashville multifamily",
+      "title": "Exclusive: UDR Sells 206 Units in Nashville - Multifamily Housing News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQXFDV3d6ekMzMjE1MWNkQ2FJa3BpMHlCVjRfbGVodGFIVmZYVXFSTHV3NUxOU0ZSTlFLZHZOVk1XZDdFT0s1RUltT0tGMzhtU2RBQjNKTzRRQklOMGozSzJmWW1zWFFhTlo4TUJFaGg1Q2FMVEZtOURvQk9WWkh0eXNB?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmultifamily\\b/i",
+        "/\\bsells\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPQXFDV3d6ekMzMjE1MWNkQ2FJa3BpMHlCVjRfbGVodGFIVmZYVXFSTHV3NUxOU0ZSTlFLZHZOVk1XZDdFT0s1RUltT0tGMzhtU2RBQjNKTzRRQklOMGozSzJmWW1zWFFhTlo4TUJFaGg1Q2FMVEZtOURvQk9WWkh0eXNB?oc=5\" target=\"_blank\"&gt;Exclusive: UDR Sells 206 "
+    },
+    {
+      "source": "The Music Universe",
+      "query": "nashville opens groundbreaking",
+      "title": "Bon Jovi confirms groundbreaking Nashville venue - The Music Universe",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVhSekxBSkRYNW5TalUtaENEQ0ZWZkR1dnV3Qkg2aFpvUU5IZHNXSkRhcXdpSmJ1MXV4NWxiMmd1X294eVZmMkdwWEo0enkyb2lkRGxzM2Itay1KSUFpa1BSU0dPT0U3YUZ1ZlR6MEJYU2h0UWROeFp5di0tNDU0Nkdvai0?oc=5",
+      "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bground[\\s-]?breaking\\b/i",
+        "/\\bgroundbreaking\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVhSekxBSkRYNW5TalUtaENEQ0ZWZkR1dnV3Qkg2aFpvUU5IZHNXSkRhcXdpSmJ1MXV4NWxiMmd1X294eVZmMkdwWEo0enkyb2lkRGxzM2Itay1KSUFpa1BSU0dPT0U3YUZ1ZlR6MEJYU2h0UWROeFp5di0tNDU0Nkdvai0?oc=5\" target=\"_blank\"&gt;Bon Jovi confirms grou"
+    },
+    {
+      "source": "Nashville Banner",
+      "query": "nashville rezoning",
+      "title": "Metro Council Advances Ambitious Rezoning in The Nations - Nashville Banner",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGo5RzFMNWRFNUhwa05NZFFkRjFLNFg2R3hVUUNROEJ3SUo2ODRGUDhVekNLaDVxZ3I4UWxzekg5R0lWNlBMeUN3ckhkY2tKTEE4V0RsQ1Bxb3EtVnhqYXlDNEZnV1RDbzQwVWJPNmRIM25JY2RsQk9RNmNCV0pJa2NsbzQ?oc=5",
+      "pubDate": "Wed, 06 Aug 2025 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\brezoning?\\b/i",
+        "/\\bmetro council\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGo5RzFMNWRFNUhwa05NZFFkRjFLNFg2R3hVUUNROEJ3SUo2ODRGUDhVekNLaDVxZ3I4UWxzekg5R0lWNlBMeUN3ckhkY2tKTEE4V0RsQ1Bxb3EtVnhqYXlDNEZnV1RDbzQwVWJPNmRIM25JY2RsQk9RNmNCV0pJa2NsbzQ?oc=5\" target=\"_blank\"&gt;Metro Council Advances"
+    },
+    {
+      "source": "Nashville Scene",
+      "query": "nashville rezoning",
+      "title": "Metro Council Advances Rezoning Plan for The Nations - Nashville Scene",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGJBTzhrT1RYN09zWVFkMlc3czgyUS05TXFYTXhRbHlNOVowWHdLVEJHNlFZQy1JeVFER3ZNSHZ0bXBMTjBNd19oeURYdVc3ZnZ3am53d1NUS05xcWh2RXNfV19pQ2RZUHhjMS1MOUVodE9NRjByZUMzdUs5eEZLdDhZeGk1VzFPeHd1MmU2dEdxLXhzRy1MUl9XM3BJYzBROWN3Y3RKQTFsR3pkNms3d1gteVR6eEVWTG96TVVVVHBadUFvd3Q1WXVsNHQyZw?oc=5",
+      "pubDate": "Wed, 06 Aug 2025 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\brezoning?\\b/i",
+        "/\\bmetro council\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGJBTzhrT1RYN09zWVFkMlc3czgyUS05TXFYTXhRbHlNOVowWHdLVEJHNlFZQy1JeVFER3ZNSHZ0bXBMTjBNd19oeURYdVc3ZnZ3am53d1NUS05xcWh2RXNfV19pQ2RZUHhjMS1MOUVodE9NRjByZUMzdUs5eEZLdDhZeGk1VzFPeHd1MmU2dEdxLXhzRy1MUl9XM3BJYzBROWN3Y3RKQTF"
+    },
+    {
+      "source": "News Channel 5 Nashville",
+      "query": "\"spring hill\" tennessee development",
+      "title": "Spring Hill faces sewer moratorium as treatment plant violations mount - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc0V1OVVxZm5qT3F0Q1dWc1BvaUlBRGZ4R1A0UWtvRDVrLXpGNXlGMHZzUV8yOFA1amRPVG4xSHN1dU1LUkdOTkxHczJMNzE4cWNvWWFpUlhPSXdITW9rcWFzM3M0OV9VTGFwU0RXUlRjQjhBRVI5ckJQZnhkUlNDWC1HbFpmUG9LYThUYjdfRkFoQ2QwNHk1Qkp5WUZzRklIWEZXWW1sSQ?oc=5",
+      "pubDate": "Wed, 06 Aug 2025 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bspring hill\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNc0V1OVVxZm5qT3F0Q1dWc1BvaUlBRGZ4R1A0UWtvRDVrLXpGNXlGMHZzUV8yOFA1amRPVG4xSHN1dU1LUkdOTkxHczJMNzE4cWNvWWFpUlhPSXdITW9rcWFzM3M0OV9VTGFwU0RXUlRjQjhBRVI5ckJQZnhkUlNDWC1HbFpmUG9LYThUYjdfRkFoQ2QwNHk1Qkp5WUZzRklIWEZXWW1sSQ?"
+    },
+    {
+      "source": "The Tennessean",
+      "query": "franklin tn development",
+      "title": "Franklin's Aureum development to see more than 600 apartments added - The Tennessean",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUjBrdG5wS1N4dTVjWlNOTzZyV2o0QURPQmFPUmc0M3ZQNjJqWGhnd2FYbFpvc1ptREpLTFFMV0NXUk1CTFB3eTgwQU82Z2U5eTJtR1lfQzNiX1hsUmVzeVo4aWh5LUZyUnlPTEVNVGhXTndHbk9CS1lVamNXN0NDSXNYVXpfbWNIaG9vS3IybTN1VHZSRzJ5WWROVTVSX2UyS3RNNjl1UW5mWUxHeU9SVzhrQmx5b3A1NXZ4eDdjekVDaWJMWnlhU1J4Y1c4SU8wMWJXUmRNSDNfMHdEQUdtVTNEckxPLTdFZFN5eQ?oc=5",
+      "pubDate": "Wed, 04 Feb 2026 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bfranklin\\b/i"
+      ],
+      "matched_action": [
+        "/\\bapartments?\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUjBrdG5wS1N4dTVjWlNOTzZyV2o0QURPQmFPUmc0M3ZQNjJqWGhnd2FYbFpvc1ptREpLTFFMV0NXUk1CTFB3eTgwQU82Z2U5eTJtR1lfQzNiX1hsUmVzeVo4aWh5LUZyUnlPTEVNVGhXTndHbk9CS1lVamNXN0NDSXNYVXpfbWNIaG9vS3IybTN1VHZSRzJ5WWROVTVSX2UyS3RNNjl1UW5"
+    },
+    {
+      "source": "The Business Journals",
+      "query": "nashville expansion store",
+      "title": "Wawa adds to Nashville portfolio with planned Gallatin Pike location - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV1EwaFJOTkUzTDk0WUs0dUZLR1JsRW05NmwtNDlDSl9QZ1FPai1yZmlCWXR6WDY4ZEdwUHFhV1lfT0M1NXBsT1JBanhadzZ3WW5kbmZXWmVjN2JYQkFDQUtQVm0yRXVmSThqNE1hamgyOGo3QzdjWGszZkpncUM2d29PdnpEaEl0QnJlLWMwZjdic1FuMGoxQ25iaw?oc=5",
+      "pubDate": "Wed, 04 Feb 2026 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bgallatin\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQV1EwaFJOTkUzTDk0WUs0dUZLR1JsRW05NmwtNDlDSl9QZ1FPai1yZmlCWXR6WDY4ZEdwUHFhV1lfT0M1NXBsT1JBanhadzZ3WW5kbmZXWmVjN2JYQkFDQUtQVm0yRXVmSThqNE1hamgyOGo3QzdjWGszZkpncUM2d29PdnpEaEl0QnJlLWMwZjdic1FuMGoxQ25iaw?oc=5\" target=\"_b"
+    },
+    {
+      "source": "Williamson Scene",
+      "query": "\"spring hill\" tennessee development",
+      "title": "Storied Development Breaks Ground on 700-acre Spring Hill Community - Williamson Scene",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNndfZFRsbXBFU2F4dlhPY25lMFZCNHFvUHZ0SUR6QlczMmo0dHlpc0kyNkM1QWZoeTFyRURUdmVoUk14VDNYWS1COGFpTUJ2U2RiQXpFMDBiNHJiaVdndHpCclkyRUpJUW1FRTlQbncwV1c2Z1lBa1pBLUEwVU9acHBVdldWaVFOQTZOU19ReFZXNTZUYVVjY21pcnY5VFEtd05leXh5d3VwWGxqSFZGQmo2Q3dPbTk2cnZ5UHNKWW1MSGV3OTNxQVJmMVBqZ2RueG1mallzZnJmTzBJTEtCbEo5emQ3cVRPWnc?oc=5",
+      "pubDate": "Wed, 01 Jan 2025 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bspring hill\\b/i"
+      ],
+      "matched_action": [
+        "/\\bbreaks ground\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNndfZFRsbXBFU2F4dlhPY25lMFZCNHFvUHZ0SUR6QlczMmo0dHlpc0kyNkM1QWZoeTFyRURUdmVoUk14VDNYWS1COGFpTUJ2U2RiQXpFMDBiNHJiaVdndHpCclkyRUpJUW1FRTlQbncwV1c2Z1lBa1pBLUEwVU9acHBVdldWaVFOQTZOU19ReFZXNTZUYVVjY21pcnY5VFEtd05leXh5d3V"
+    },
+    {
+      "source": "The Business Journals",
+      "query": "nashville apartments development",
+      "title": "Texas firm buys Spring Hill site, plans hundreds of apartments amid city's development freeze - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWJIVHpVWUE0NGN0Z192aFRfZ0ktbkpBZVpLMHZueC1tUTJBV2ptWGtOZFQzbWcwWU4yUDZGNHZMS1dIeTZKVF9SYjBrMUNyLTFkRUE0a21DLVhBVnFXMndJQVZSYTBuRFU0S0V4aVM0NlIxNm5UNTA2NlpjUm9lb2I5VG5RSnh6UUY3eXVMdUVBYmhfUEdqTmo2US1FaHRZ?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bspring hill\\b/i"
+      ],
+      "matched_action": [
+        "/\\bapartments?\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWJIVHpVWUE0NGN0Z192aFRfZ0ktbkpBZVpLMHZueC1tUTJBV2ptWGtOZFQzbWcwWU4yUDZGNHZMS1dIeTZKVF9SYjBrMUNyLTFkRUE0a21DLVhBVnFXMndJQVZSYTBuRFU0S0V4aVM0NlIxNm5UNTA2NlpjUm9lb2I5VG5RSnh6UUY3eXVMdUVBYmhfUEdqTmo2US1FaHRZ?oc=5\" targ"
+    },
+    {
+      "source": "WKRN News 2",
+      "query": "franklin tn development",
+      "title": "Mixed-use development coming to Crescent Center Drive in Franklin - WKRN News 2",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVmNvN2MzLXBSRWRTWmluZ21JZkxNWTB6M0pDRjhaLVR6THlZbUdKYmp2bmhIcFZmR2k3QU9FZVVXNmlMcFVudXFWa0xReGExUkNHMXJaYkZYZEsyTlRGVmVrVW1xSndUemNaOUI0c0VSbGl3ODRyUzQ1a1Z4YTBldlZHNEJ4SUFYbVJsZzk0VlE1SzdJa3VLVWZmOHQzLXNaTFpxWjRZRG5Dd9IBrwFBVV95cUxPTnM5U1A2a04xM09ydFRvVzRTamtkamttTmpCX3o3S3gxQllFc0dxNE5CYzJtbWh2MW5QRUJvMnFZTmdMWlJJa0p6RU1aNkdJRXRmU18zRW1Fa3RPY1RBZ19NeW9JaFVBM2NDTmc5YzhHWkNSMDVWdTF4UmdHa2M1NHpESGxTbU4yRTFLR1lQaDN5WmpWNjJLWFh5MWhTU0s3MXBmbmVDWTVUYUJ1Z2NR?oc=5",
+      "pubDate": "Tue, 29 Apr 2025 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bfranklin\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmixed[\\s-]use\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVmNvN2MzLXBSRWRTWmluZ21JZkxNWTB6M0pDRjhaLVR6THlZbUdKYmp2bmhIcFZmR2k3QU9FZVVXNmlMcFVudXFWa0xReGExUkNHMXJaYkZYZEsyTlRGVmVrVW1xSndUemNaOUI0c0VSbGl3ODRyUzQ1a1Z4YTBldlZHNEJ4SUFYbVJsZzk0VlE1SzdJa3VLVWZmOHQzLXNaTFpxWjRZRG5"
+    },
+    {
+      "source": "CITY NOW NEXT",
+      "query": "nashville multifamily",
+      "title": "PieTown Slated For New Multifamily Development In Downtown Nashville. - CITY NOW NEXT",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZlotUFY2UjZNOC1Hdk9KWmF5MGRSeEctcXI3aTF3Z0xRWkVjUDN6UnRMZnNRaG9rMTdTVVljazliZWdkS3d6RlBnczU1ZjRLay1CVFJHV2hYNWFpNFY5NkxMZ3JDNndkaDVmcmZtNmdiVHZsY2phdFZiWVd3VnB4LUxfZjJ0OVRmMFIzUkVqUlRsclN6LXQyVTJhTTRmeXZaYXE3WWNqUQ?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmultifamily\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNZlotUFY2UjZNOC1Hdk9KWmF5MGRSeEctcXI3aTF3Z0xRWkVjUDN6UnRMZnNRaG9rMTdTVVljazliZWdkS3d6RlBnczU1ZjRLay1CVFJHV2hYNWFpNFY5NkxMZ3JDNndkaDVmcmZtNmdiVHZsY2phdFZiWVd3VnB4LUxfZjJ0OVRmMFIzUkVqUlRsclN6LXQyVTJhTTRmeXZaYXE3WWNqUQ?"
+    },
+    {
+      "source": "Nashville Post",
+      "query": "nashville apartments development",
+      "title": "Edgehill site eyed for apartment building | Development - Nashville Post",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM1lCY2R4TWdibFR3UWVkVXFHUHpGZDB3dmthbE5nU2dSNldMbTJWaGtLbXpCTUJLSzJZbDRzY3VtdV8tYlA0bnJMbWxBWVgwN1FzQmFfNTU5RzlWbVhaWThGX0pCTWo2aGZxYjNvaFJETGpoSFJuNTN4TkVHX0w3SlpDMXNnUnZjZktYNEUwWEk2M3EzRWRlVi1fRUpRVU9YTUhuRmh5a2d3OUkxeVVKYVhvNnY4VFp5R19BWXNjd1J3aWRBSVdPTnZFSjF2R0JsbHozbzZGaEFDZw?oc=5",
+      "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bapartments?\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM1lCY2R4TWdibFR3UWVkVXFHUHpGZDB3dmthbE5nU2dSNldMbTJWaGtLbXpCTUJLSzJZbDRzY3VtdV8tYlA0bnJMbWxBWVgwN1FzQmFfNTU5RzlWbVhaWThGX0pCTWo2aGZxYjNvaFJETGpoSFJuNTN4TkVHX0w3SlpDMXNnUnZjZktYNEUwWEk2M3EzRWRlVi1fRUpRVU9YTUhuRmh5a2d"
+    },
+    {
+      "source": "News Channel 5 Nashville",
+      "query": "franklin tn development",
+      "title": "Proposed Brownland Farm redevelopment would bring sports complex, retail to Franklin - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYkxvTTlZTDlYLWQzWTRlQV9heXFGNkxvRTI4YVA2WWR6SkZVSVd5cndMaVNhM2M4WmNxT3BmVVVvdXRQVUd2SmQ1M01CWGM0TC1lNVJCRFJQRVl6bG9vZnBfZGtHNnVnWWJwNHVzTHdSa0RZR1ljSUZOOTFsVW1raFZWYlpfTXlUdFhHNTBGTXhMcUc2Mzg3STBpckFsM1NvSG9PcFlkSVczMVF3YUpLcUVkb29rcWZDbExGN1dJbEFsZlk5ZEdTYzJpZ2pBSDluVDRuMEdRanozamxiNHlwWkpYQ09rUQ?oc=5",
+      "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bfranklin\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYkxvTTlZTDlYLWQzWTRlQV9heXFGNkxvRTI4YVA2WWR6SkZVSVd5cndMaVNhM2M4WmNxT3BmVVVvdXRQVUd2SmQ1M01CWGM0TC1lNVJCRFJQRVl6bG9vZnBfZGtHNnVnWWJwNHVzTHdSa0RZR1ljSUZOOTFsVW1raFZWYlpfTXlUdFhHNTBGTXhMcUc2Mzg3STBpckFsM1NvSG9PcFlkSVc"
+    },
+    {
+      "source": "The Business Journals",
+      "query": "nashville multifamily",
+      "title": "West End apartments trade for $61.5M as Nashville's multifamily market keeps momentum - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSG5EOVNkVXpCbjl6c01LeEktYXZCWjN0RFV1OGlIcFoxUTRNWkVaSFNSelpnakVGTTNsbk04RU5nZG1ONEVhbnhzcHJfWTNadl9FYVEycUpreUtLTFB1amU2RGY0R3QyamUybWZTRGxfNFRfVzZSMEdGeVFmZ0NYNDFRbkc?oc=5",
+      "pubDate": "Tue, 23 Aug 2022 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmultifamily\\b/i",
+        "/\\bapartments?\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPSG5EOVNkVXpCbjl6c01LeEktYXZCWjN0RFV1OGlIcFoxUTRNWkVaSFNSelpnakVGTTNsbk04RU5nZG1ONEVhbnhzcHJfWTNadl9FYVEycUpreUtLTFB1amU2RGY0R3QyamUybWZTRGxfNFRfVzZSMEdGeVFmZ0NYNDFRbkc?oc=5\" target=\"_blank\"&gt;West End apartments tr"
+    },
+    {
+      "source": "News Channel 5 Nashville",
+      "query": "nashville rezoning",
+      "title": "Metro Council approves rezoning plan to transform East Bank scrapyard - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT1lTWEhSanpDaHUyNGNRaFlFOF82XzM2NS1vT1pjUjlPd1lnNDBLUThnOWJZQjEwM2NpblJWSjliYlZlSXBLZ1ZvbC1Ra2ZJS1FzNHBVTEFSY2R4MzB3M280Ym04SDIzQjlSV2dFZ2l5a0s2QUNKOGNaZzRWU3Y4T1E3SjhyeDFVSWhqM05NM2NHUjhiMUJnQXFMdWhUWEtVRTFnUV93?oc=5",
+      "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\brezoning?\\b/i",
+        "/\\bmetro council\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPT1lTWEhSanpDaHUyNGNRaFlFOF82XzM2NS1vT1pjUjlPd1lnNDBLUThnOWJZQjEwM2NpblJWSjliYlZlSXBLZ1ZvbC1Ra2ZJS1FzNHBVTEFSY2R4MzB3M280Ym04SDIzQjlSV2dFZ2l5a0s2QUNKOGNaZzRWU3Y4T1E3SjhyeDFVSWhqM05NM2NHUjhiMUJnQXFMdWhUWEtVRTFnUV93?oc"
+    },
+    {
+      "source": "WSMV",
+      "query": "nashville rezoning",
+      "title": "Nashville renters, business tenants could get rezoning notices for first time under Metro Council proposal - WSMV",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaDhMMzhLT19iTjNGQWF1d1U0SGk5eWZqcy1NUllFZTBqY1hWY2hYYUE4TVJHb2wtcVRNc0hiY0VJc0prQ1p3c1FYNU5ocHRZM2psVVhuNm0wMzRZU3hnRFBReG9Sd2RNTHZBc3NxUzE3M0w1Zm0yZE01SENMckZGWXRCUWZaMlJ0NEVobGlsVXNXd0tSRXNibWdrbzhSXzEyMWlGeDZDb0ZJWFlWVU9jVDh0V3d6MGZHc3I3RHhCZmQ5OUZyaVZJQjFNZHNpWnc?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\brezoning?\\b/i",
+        "/\\bmetro council\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPaDhMMzhLT19iTjNGQWF1d1U0SGk5eWZqcy1NUllFZTBqY1hWY2hYYUE4TVJHb2wtcVRNc0hiY0VJc0prQ1p3c1FYNU5ocHRZM2psVVhuNm0wMzRZU3hnRFBReG9Sd2RNTHZBc3NxUzE3M0w1Zm0yZE01SENMckZGWXRCUWZaMlJ0NEVobGlsVXNXd0tSRXNibWdrbzhSXzEyMWlGeDZDb0Z"
+    },
+    {
+      "source": "Nashville Banner",
+      "query": "nashville rezoning",
+      "title": "Metro Council to weigh The Nations rezoning on third reading - Nashville Banner",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV0lVUDQ2Zi1WY0F6OWFpR0xHTUJYVG9pMENnV3F5cHczNU8wWE9mUDYwYmRCN3NvSy1lZVp0SkVKd21YdmtLcUVuYVhYVVZoSXBMZWtUWE1xTTc2QVJkRllrYmxVMHBSZzJIX2RQY1ctLVRFcUNOUzZrdzdCbVZGelpJb2ZmRUE?oc=5",
+      "pubDate": "Tue, 19 Aug 2025 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\brezoning?\\b/i",
+        "/\\bmetro council\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNV0lVUDQ2Zi1WY0F6OWFpR0xHTUJYVG9pMENnV3F5cHczNU8wWE9mUDYwYmRCN3NvSy1lZVp0SkVKd21YdmtLcUVuYVhYVVZoSXBMZWtUWE1xTTc2QVJkRllrYmxVMHBSZzJIX2RQY1ctLVRFcUNOUzZrdzdCbVZGelpJb2ZmRUE?oc=5\" target=\"_blank\"&gt;Metro Council to w"
+    },
+    {
+      "source": "The Tennessee Tribune",
+      "query": "nashville opens groundbreaking",
+      "title": "Oracle Celebrates Groundbreaking on Future Global Headquarters in Nashville - The Tennessee Tribune",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZjZJY0U1VVB1UHJPVXY0QXV4SXdHQ2pHVk9pVndaRVNjc0JTM3Z4N3gwaTlEZ0plbnc4NnQ4dmlJUWllZzFIckl5ZTZxOW5zQm5faTQ1MkNvVEhJdS04UXMwV1d5WFVfSjJhZ2sxeEU4TFlqWUtNbjRza2pvV3p0NXgtdzVTZElRTDNHU0hMV25iaE4zRG9TdENsampkNVU?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 19:36:47 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bground[\\s-]?breaking\\b/i",
+        "/\\bgroundbreaking\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNZjZJY0U1VVB1UHJPVXY0QXV4SXdHQ2pHVk9pVndaRVNjc0JTM3Z4N3gwaTlEZ0plbnc4NnQ4dmlJUWllZzFIckl5ZTZxOW5zQm5faTQ1MkNvVEhJdS04UXMwV1d5WFVfSjJhZ2sxeEU4TFlqWUtNbjRza2pvV3p0NXgtdzVTZElRTDNHU0hMV25iaE4zRG9TdENsampkNVU?oc=5\" targe"
+    },
+    {
+      "source": "Nashville Post",
+      "query": "murfreesboro development",
+      "title": "Buc-ee’s opens third Tennessee location in Murfreesboro - Nashville Post",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZWpqNnBNZ1pMX2Q1UWFPcVhVNjIyWEFqYjI5azNrd0gtWWg3WHJ3M3NqcWpsUFEzblBSWktRajRhMTZpclc3V3IwdmpyTEpQM2dRbXh6X3R2UlRyeTBOVG1ZUDlMOHNWWG5nbkZQWktuN1o5UnVtUXFoVWwwcFVYSlVlNmNKNFVlWi1reHAwX3N5bk1wVUY3dEZ6VHVYVkNSWjc1X2lhUHJybThYNjktREdieGhNNjFIeVBPUHFqRGZnN2tyWFBjb3dvUzBLbzVORkFydHZQeTdhbmNMYUVZR0FmdnJ5NWJwRmQ2RQ?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bmurfreesboro\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZWpqNnBNZ1pMX2Q1UWFPcVhVNjIyWEFqYjI5azNrd0gtWWg3WHJ3M3NqcWpsUFEzblBSWktRajRhMTZpclc3V3IwdmpyTEpQM2dRbXh6X3R2UlRyeTBOVG1ZUDlMOHNWWG5nbkZQWktuN1o5UnVtUXFoVWwwcFVYSlVlNmNKNFVlWi1reHAwX3N5bk1wVUY3dEZ6VHVYVkNSWjc1X2lhUHJ"
+    },
+    {
+      "source": "The Daily News Journal",
+      "query": "murfreesboro development",
+      "title": "Clari Park development in Murfreesboro touts restaurants and 300 apartments at The Rowley - The Daily News Journal",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMF8ydzlWRWY4c1FHcEs2QVlMWU5xTERVQVVURnN0NUtoeERPZGZna1JOS1dZdVoxM1ZqUlVxVXp4S1VaRXFZTzAxU1B0OWJ2UDBHTDRyWUcyUEN2cU5hRmk0ZkN3MjBIeUw1cEhtU2ZvdDlSbUhEVUNkTEs1NjNxX0oyel9xSUtfUkxHMXpTWEtsb3d1al9rY2JQT0Y0bmUxRmNUcDhES0lORlBOTXpQb3RsS21kN1d6a3BkQUhiT0k?oc=5",
+      "pubDate": "Tue, 17 Jun 2025 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bmurfreesboro\\b/i"
+      ],
+      "matched_action": [
+        "/\\bapartments?\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMF8ydzlWRWY4c1FHcEs2QVlMWU5xTERVQVVURnN0NUtoeERPZGZna1JOS1dZdVoxM1ZqUlVxVXp4S1VaRXFZTzAxU1B0OWJ2UDBHTDRyWUcyUEN2cU5hRmk0ZkN3MjBIeUw1cEhtU2ZvdDlSbUhEVUNkTEs1NjNxX0oyel9xSUtfUkxHMXpTWEtsb3d1al9rY2JQT0Y0bmUxRmNUcDhES0l"
+    },
+    {
+      "source": "WSMV",
+      "query": "nashville opens groundbreaking",
+      "title": "Groundbreaking held for Buc-ees in Murfreesboro - WSMV",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PLTBwMk55M2lLTm9uSDBVMk9mQmgwS3pHZ290azcyZHR4ZVJMRUp2Z0tqX2xKRmhzSFk4azBZYmtKYndIb0R1WmtObzV0THh6aUxsVjVRWWVqcmc0YW5TN2FkbHJHWGdsUXdmZENOdVFkNHZtVXRVcUpHb2tHdw?oc=5",
+      "pubDate": "Tue, 14 Oct 2025 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bmurfreesboro\\b/i"
+      ],
+      "matched_action": [
+        "/\\bground[\\s-]?breaking\\b/i",
+        "/\\bgroundbreaking\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5PLTBwMk55M2lLTm9uSDBVMk9mQmgwS3pHZ290azcyZHR4ZVJMRUp2Z0tqX2xKRmhzSFk4azBZYmtKYndIb0R1WmtObzV0THh6aUxsVjVRWWVqcmc0YW5TN2FkbHJHWGdsUXdmZENOdVFkNHZtVXRVcUpHb2tHdw?oc=5\" target=\"_blank\"&gt;Groundbreaking held for Buc-ees"
+    },
+    {
+      "source": "News Channel 5 Nashville",
+      "query": "\"mt juliet\" tn",
+      "title": "This Mt. Juliet neighbor has battled flooding for decades, and significant help is at least a year away - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPY1c2RDRxalhxREpVUkdVTW1PMi1OOUg0YmFVWDJXeHN3WHBHRXROd1NyUzY0TURGLWxTNmIxb0lUNzdaSzh5NXdBcmxUZDdfOVRFUGNHdk5SbFhMSFNoSXdQVUJmN2NqYXpuYVhUelFPVWJFc3FVXzBaSmowZkN6dVEtWE9iT2trV0U4a09kM2FjSGg3RDloMmRwUmNfVG5fY0RNbjhRMEwyWTBGV1pDUE1wR1hMdjgzb3Q0RHpCSy1mZTZnNllhc3VHNmZpVWw2Yi00RkVJLXYyZmRRVXg1NFU4ZDN4NnBEM3MyaXRTU29hZDVSY1RyZg?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bmt\\.?\\s+juliet\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPY1c2RDRxalhxREpVUkdVTW1PMi1OOUg0YmFVWDJXeHN3WHBHRXROd1NyUzY0TURGLWxTNmIxb0lUNzdaSzh5NXdBcmxUZDdfOVRFUGNHdk5SbFhMSFNoSXdQVUJmN2NqYXpuYVhUelFPVWJFc3FVXzBaSmowZkN6dVEtWE9iT2trV0U4a09kM2FjSGg3RDloMmRwUmNfVG5fY0RNbjhRMEw"
+    },
+    {
+      "source": "WSMV",
+      "query": "\"spring hill\" tennessee development",
+      "title": "New mixed-use development coming to Spring Hill - WSMV",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT1U3YjFJUVVxZGlMWEJ3YkFYWUc3TWtxazhlRlVrRFJCSTNYOS1ZcG5BdjdEQkV2R0N0ZmhiMl8yY0ctZDB0ZUI2LXlIT1VGT1czc3R3ZTd6OUdNc2Zmc2Nma24zdVg2ckQ0TV96dVcyMmtZdzE3ZVVSWmY2cGhUUTR1MNIBlwFBVV95cUxPZzlfTVdPTEZrRDlBRWh2RlhDODdwZEozR0FkMFFwdThpeE8tYVNfMlEwdTRCTjI4bUhDSXBLTlNSdVlvX1ktWHJLR1kxTkFmWDZ4eGstREZiZVA4RjZBV1BIeV9TQU15Z05LbG1UYTdtLXpCZGY4Y3UzdTlMdnZQSzlLQmJVbjF0Q01IV1o0bTFVa292ZHBJ?oc=5",
+      "pubDate": "Tue, 13 Sep 2022 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bspring hill\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmixed[\\s-]use\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPT1U3YjFJUVVxZGlMWEJ3YkFYWUc3TWtxazhlRlVrRFJCSTNYOS1ZcG5BdjdEQkV2R0N0ZmhiMl8yY0ctZDB0ZUI2LXlIT1VGT1czc3R3ZTd6OUdNc2Zmc2Nma24zdVg2ckQ0TV96dVcyMmtZdzE3ZVVSWmY2cGhUUTR1MNIBlwFBVV95cUxPZzlfTVdPTEZrRDlBRWh2RlhDODdwZEozR0F"
+    },
+    {
+      "source": "CITY NOW NEXT",
+      "query": "\"spring hill\" tennessee development",
+      "title": "237-Unit Mixed-Use Development Advances In Spring Hill, TN. - CITY NOW NEXT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQUR4ZG1HTUpyT2RPRUhudWpvNk4yTngzSjNqSVBNeWZOY2oxbnAtS0RiVDMtX0V4VVgtUGIyS0NMYmxfdUJrQkJkRDAwSFFtQlNJTlc5T3dqS2RMV1U2dUpRS0VmbktOYmc5N1hPQnRMeTA0a2JGdDdGTUJPRU9tSUNkd2l3UnIyTGZrM0RNc2h4VVVjbmI2WA?oc=5",
+      "pubDate": "Tue, 12 Sep 2023 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bspring hill\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmixed[\\s-]use\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQQUR4ZG1HTUpyT2RPRUhudWpvNk4yTngzSjNqSVBNeWZOY2oxbnAtS0RiVDMtX0V4VVgtUGIyS0NMYmxfdUJrQkJkRDAwSFFtQlNJTlc5T3dqS2RMV1U2dUpRS0VmbktOYmc5N1hPQnRMeTA0a2JGdDdGTUJPRU9tSUNkd2l3UnIyTGZrM0RNc2h4VVVjbmI2WA?oc=5\" target=\"_blank"
+    },
+    {
+      "source": "Oracle",
+      "query": "nashville opens groundbreaking",
+      "title": "Oracle Celebrates Groundbreaking on Future Global Headquarters in Nashville - Oracle",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObEs5VUJzU0VpdVlONzJxYWhWQmE2QmEwU0ZRakpYeGplOHFWSGJNVkY5bVRMWUNuZ053cElfUWpOLWJLa2lSTnNfcFpyX0ZjQ29rN0hrTmFlSmxhUUlDNGNLOEs3WTVOYXVlU0ZZZlRGTXg3Q1FtTGlOcXJ6cmZsOTYxNmk5dDA3d0tnRGNGQnZKd0FHbVNTaklqXzdpNHFnbm91MTIyZ19HdDRualZ2MVJHRW9NWWFTaDJFcVNQTTZpbVNKZkJV?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bground[\\s-]?breaking\\b/i",
+        "/\\bgroundbreaking\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxObEs5VUJzU0VpdVlONzJxYWhWQmE2QmEwU0ZRakpYeGplOHFWSGJNVkY5bVRMWUNuZ053cElfUWpOLWJLa2lSTnNfcFpyX0ZjQ29rN0hrTmFlSmxhUUlDNGNLOEs3WTVOYXVlU0ZZZlRGTXg3Q1FtTGlOcXJ6cmZsOTYxNmk5dDA3d0tnRGNGQnZKd0FHbVNTaklqXzdpNHFnbm91MTIyZ19"
+    },
+    {
+      "source": "WZTV",
+      "query": "nashville opens groundbreaking",
+      "title": "Big promises and big investments surround Oracle groundbreaking ceremony in Nashville - WZTV",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS1J1eGhTdGEwUkVnaEhPQVd3OXhjcGdvTnN1OC1zdGMtVUFiT21xVjFCeERVQ1BZU2NJYWVWOU84LVlFVU83NFJ0ZTNSNzFXY0MtTGE1SVUxM2owZ1I0cVJYdW9FNTlSc2FUVzBSbUQwTEJ3cVJlTW83bFF6eHdtQTVuWjlQN08tME9peTNhaElHTzlTR1lKdDVsXzVRLWN5YXZqcGt1RVB3dDM1S3pQSzlaa3lGQTl6WVR6MExFRTBNRzR5?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bground[\\s-]?breaking\\b/i",
+        "/\\bgroundbreaking\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOS1J1eGhTdGEwUkVnaEhPQVd3OXhjcGdvTnN1OC1zdGMtVUFiT21xVjFCeERVQ1BZU2NJYWVWOU84LVlFVU83NFJ0ZTNSNzFXY0MtTGE1SVUxM2owZ1I0cVJYdW9FNTlSc2FUVzBSbUQwTEJ3cVJlTW83bFF6eHdtQTVuWjlQN08tME9peTNhaElHTzlTR1lKdDVsXzVRLWN5YXZqcGt1RVB"
+    },
+    {
+      "source": "Yield PRO",
+      "query": "nashville multifamily",
+      "title": "Partnership Expands Portfolio with 336-Unit Nashville Acquisition of Discovery at Mountain View Apartments - Yield PRO",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YaFg1ZUtxekVmRXphN2NPRnlmS1lBTEt6cGMzLU82cFdTSHlib3NKXy1FYjJJMVFneWpvc1NVSnJVakM4Rjc3RUkwT29RVkdORW1Bb0h1N0h2MlZlNTlIMjlVdTh0VWs?oc=5",
+      "pubDate": "Tue, 09 Dec 2025 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bexpands\\b/i",
+        "/\\bapartments?\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YaFg1ZUtxekVmRXphN2NPRnlmS1lBTEt6cGMzLU82cFdTSHlib3NKXy1FYjJJMVFneWpvc1NVSnJVakM4Rjc3RUkwT29RVkdORW1Bb0h1N0h2MlZlNTlIMjlVdTh0VWs?oc=5\" target=\"_blank\"&gt;Partnership Expands Portfolio with 336-Unit Nashville Acquisit"
+    },
+    {
+      "source": "News Channel 5 Nashville",
+      "query": "\"mt juliet\" tn",
+      "title": "Mt. Juliet holding town halls to educate public on Home Rule ahead of election - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaXFLOGRvcTFhMUtsWV9QREdHZ2V6QVpyY2d2VkpoWDRTYmhSMGJnaEFBbnd2SDJ2N2dGSUl5M1RLUkpHQVAzazAtajBKVUlFcUh3TDFPbmQ3MjhPNGd4NzI3MFU1MlpfdnZHVU56NFZoSE4tRHo5UDVueC1ITFRvcFlBY1lJVXM1LWVTOHBtcWkzc0h5b19OVGFwZEpFZFdkWnpPTHJOR3IyT0Z1ZnhGd1BoVkduQ29xSDk4M2o4VnBTVkNyT1BaWkVNRUNvNkRCcWRIOXVkU1U?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bmt\\.?\\s+juliet\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaXFLOGRvcTFhMUtsWV9QREdHZ2V6QVpyY2d2VkpoWDRTYmhSMGJnaEFBbnd2SDJ2N2dGSUl5M1RLUkpHQVAzazAtajBKVUlFcUh3TDFPbmQ3MjhPNGd4NzI3MFU1MlpfdnZHVU56NFZoSE4tRHo5UDVueC1ITFRvcFlBY1lJVXM1LWVTOHBtcWkzc0h5b19OVGFwZEpFZFdkWnpPTHJOR3I"
+    },
+    {
+      "source": "CITY NOW NEXT",
+      "query": "murfreesboro development",
+      "title": "212,000 SF Mass Timber Mixed-Use Development Slated For Murfreesboro, TN. - CITY NOW NEXT",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV2NpN214Q2FWVVREcW5UZ0hZX292UVRtYmVDTzlBM3I1NGFyN3hwczFoRm5ZdENwOHNFRmtUanR3dF9QQjIwS0I4YkJVS1hwMTV1TG9GdTRscm9iVWRsMFA4OVhlR3BaWTVFdlc3STBIV1Z0elQ5WmRONUtSM2NGRFZaZ1pKdW9lWU9tLXJKc080ZDU3UlJiS3FicmItd29oSFpJMmJEb3p5Zw?oc=5",
+      "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bmurfreesboro\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmixed[\\s-]use\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV2NpN214Q2FWVVREcW5UZ0hZX292UVRtYmVDTzlBM3I1NGFyN3hwczFoRm5ZdENwOHNFRmtUanR3dF9QQjIwS0I4YkJVS1hwMTV1TG9GdTRscm9iVWRsMFA4OVhlR3BaWTVFdlc3STBIV1Z0elQ5WmRONUtSM2NGRFZaZ1pKdW9lWU9tLXJKc080ZDU3UlJiS3FicmItd29oSFpJMmJEb3p"
+    },
+    {
+      "source": "Multifamily &amp; Affordable Housing Business",
+      "query": "nashville multifamily",
+      "title": "PCCP, LIV Development Break Ground on Livano Oakmont in Nashville - Multifamily &amp; Affordable Housing Business",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYjE4SW9XUDVaRTNmbUVZd1llcDA2aGZabGRScDVKQXQ3cktxenBWUDBHcUZnSlVHbVI5OThqNFpra1g3X1UtaHEzblZpNjZQUzFQSzAwU1dwMGR5QW8wVnhkbDNoTFNaMFV0N1VZYmhuT0lMWkhmOENxbGtPQUpCUEtLQWRDVWo3ZlluaTJqSFNvc0NiSXZXZGJTc0tVNzBTaGVGYjZBNXJ3UQ?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmultifamily\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYjE4SW9XUDVaRTNmbUVZd1llcDA2aGZabGRScDVKQXQ3cktxenBWUDBHcUZnSlVHbVI5OThqNFpra1g3X1UtaHEzblZpNjZQUzFQSzAwU1dwMGR5QW8wVnhkbDNoTFNaMFV0N1VZYmhuT0lMWkhmOENxbGtPQUpCUEtLQWRDVWo3ZlluaTJqSFNvc0NiSXZXZGJTc0tVNzBTaGVGYjZBNXJ"
+    },
+    {
+      "source": "Multifamily Dive",
+      "query": "nashville multifamily",
+      "title": "Hamilton Zanze expands in Nashville area - Multifamily Dive",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU2xIclFPOTBUUG1rV05CdkFwTEo4ZWctTVpUUDVPSWg5bWQ5eWNmRTR5S01sQ0RsSmtuejJITXNITmhuOG1lMi05RG94eHhNM1hEUk0wZml5MmFaQjdUcW9RWDZ2Y0ZjY1VLeWpobXZmQ2FtaG45SS1uVzVMbGVQOGVUWU1wb00zMjgtSWw0dUFVenNGMnc?oc=5",
+      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bexpands\\b/i",
+        "/\\bmultifamily\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOU2xIclFPOTBUUG1rV05CdkFwTEo4ZWctTVpUUDVPSWg5bWQ5eWNmRTR5S01sQ0RsSmtuejJITXNITmhuOG1lMi05RG94eHhNM1hEUk0wZml5MmFaQjdUcW9RWDZ2Y0ZjY1VLeWpobXZmQ2FtaG45SS1uVzVMbGVQOGVUWU1wb00zMjgtSWw0dUFVenNGMnc?oc=5\" target=\"_blank\"&g"
+    },
+    {
+      "source": "The Business Journals",
+      "query": "nashville apartments development",
+      "title": "Local developer expands East Nashville project with townhomes, apartments - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTVBHbDdSQkIyUHJKV2drcEFzZTg2YmhzLTN1UHJIOFhpY2pwNmpSRllEVzMzbjFEWVJJMnVJTl9JVmg2WUdONWFmRFRVcDhMMDV1aUhRS3NsV1RfX3Y4bElUWmVGdmhPRHlncnNWSVBZNXZzMDRZWURnbmx6SHBVVHRJSjdyYk9YN0t2WTB5SG9UbzhPeU1PRHBGY0xPME5aSEJ6U2pyNA?oc=5",
+      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bexpands\\b/i",
+        "/\\bapartments?\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNTVBHbDdSQkIyUHJKV2drcEFzZTg2YmhzLTN1UHJIOFhpY2pwNmpSRllEVzMzbjFEWVJJMnVJTl9JVmg2WUdONWFmRFRVcDhMMDV1aUhRS3NsV1RfX3Y4bElUWmVGdmhPRHlncnNWSVBZNXZzMDRZWURnbmx6SHBVVHRJSjdyYk9YN0t2WTB5SG9UbzhPeU1PRHBGY0xPME5aSEJ6U2pyNA?"
+    },
+    {
+      "source": "The Business Journals",
+      "query": "nashville apartments development",
+      "title": "Germantown's newest apartment development defies leasing odds - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVkY0NkxidWViVVZSSVc1Q3dTTVFhNHN4QnpVOE52MDNhRC1ENmlldGJFY2F0M3liYnltU0R0enJJbzREUjZQbGNZaGVVZFFNX1pUWllWc2d5YmhGWjVHMFNWdzJ5WDdOSnJBU01zTEYtOGU1TzlQR3piMmszVHV0aXZFUXFmR1Z1dkJoZzBpZ0l3aE9wVFkyMmp0ZEwwaldCYWc?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bgermantown\\b/i"
+      ],
+      "matched_action": [
+        "/\\bapartments?\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQVkY0NkxidWViVVZSSVc1Q3dTTVFhNHN4QnpVOE52MDNhRC1ENmlldGJFY2F0M3liYnltU0R0enJJbzREUjZQbGNZaGVVZFFNX1pUWllWc2d5YmhGWjVHMFNWdzJ5WDdOSnJBU01zTEYtOGU1TzlQR3piMmszVHV0aXZFUXFmR1Z1dkJoZzBpZ0l3aE9wVFkyMmp0ZEwwaldCYWc?oc=5\" t"
+    },
+    {
+      "source": "Tennessee Titans",
+      "query": "nashville opens groundbreaking",
+      "title": "Metro Nashville Public Schools Turf Groundbreaking – Pearl-Cohn High School | Community Photos - Tennessee Titans",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQTh1aWtHSS1XejVXc2xoTGQ1N0pBOXptQ0Zzb1lYbmxYYk51SDBfVEs4T1lVQXRKcldPa29uanZBM21yU21qUkdXLWNVbmtDbnMycUlMU0NWX2NacUl2ZVVPc2dwcVZIRDdRbVlkdmluRnNrcU91MlJtMlhLalhXa3RPd29iSkxfZzN3NWFhUlE5MUEyZkNEOG1tN1VUQXpiX2hscFpTRVlDWGlodGkwQmMxOFVGMHpTOWxn?oc=5",
+      "pubDate": "Thu, 27 Jul 2023 23:48:38 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bground[\\s-]?breaking\\b/i",
+        "/\\bgroundbreaking\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQTh1aWtHSS1XejVXc2xoTGQ1N0pBOXptQ0Zzb1lYbmxYYk51SDBfVEs4T1lVQXRKcldPa29uanZBM21yU21qUkdXLWNVbmtDbnMycUlMU0NWX2NacUl2ZVVPc2dwcVZIRDdRbVlkdmluRnNrcU91MlJtMlhLalhXa3RPd29iSkxfZzN3NWFhUlE5MUEyZkNEOG1tN1VUQXpiX2hscFpTRVl"
+    },
+    {
+      "source": "Hospitality Net",
+      "query": "nashville opens groundbreaking",
+      "title": "The Nashville EDITION Hotel &amp; Residences Celebrates Groundbreaking - Hospitality Net",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONGprS0lJYTZrSmZZWXhETUtkUWRmc2J3TDR1ZWxjZFlFd3BKTGRoS3pfRDZoWnY4QkVNWFRFLUZ3aFdmMGRRTGlEWXhJTzF2OWhjdjJEZGRMY3BzY1JuU3I1aHNwbVlsODh2NmlIdjljTXV0QzBRbWhtYXhZZTRKUlpjeHBOTFNLWDNhWDRyYTduTFo5V29HQjUwLXIya2lSeXQ4bGI3M0xPVmgyYTB3c2gza3phR3A2?oc=5",
+      "pubDate": "Thu, 26 Feb 2026 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bground[\\s-]?breaking\\b/i",
+        "/\\bgroundbreaking\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxONGprS0lJYTZrSmZZWXhETUtkUWRmc2J3TDR1ZWxjZFlFd3BKTGRoS3pfRDZoWnY4QkVNWFRFLUZ3aFdmMGRRTGlEWXhJTzF2OWhjdjJEZGRMY3BzY1JuU3I1aHNwbVlsODh2NmlIdjljTXV0QzBRbWhtYXhZZTRKUlpjeHBOTFNLWDNhWDRyYTduTFo5V29HQjUwLXIya2lSeXQ4bGI3M0x"
+    },
+    {
+      "source": "CITY NOW NEXT",
+      "query": "nashville opens groundbreaking",
+      "title": "$400 Million Nashville EDITION Celebrates Groundbreaking In The Gulch. - CITY NOW NEXT",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdXJ2X1ZPZmpfNEh0NTVTbVpBYXRJdld0UFk5cmU0NTF2UDV6QlQ2MGhmY2RMUjFfZEZxYnJBV3lJMXA4Nm9BYTBOT1k2Z0UwSl9nbXhyY2I4X3lEUjhUb0lQOWZCNUFsSFJsWmVsVXdhdGZmSnpNT2M2N0dDLWdxdTViWjU5RUtMSHh4cHZYeHlmY2l1dFB4RndwbVNtUG0tZmc4eUhuNA?oc=5",
+      "pubDate": "Thu, 26 Feb 2026 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bground[\\s-]?breaking\\b/i",
+        "/\\bgroundbreaking\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPdXJ2X1ZPZmpfNEh0NTVTbVpBYXRJdld0UFk5cmU0NTF2UDV6QlQ2MGhmY2RMUjFfZEZxYnJBV3lJMXA4Nm9BYTBOT1k2Z0UwSl9nbXhyY2I4X3lEUjhUb0lQOWZCNUFsSFJsWmVsVXdhdGZmSnpNT2M2N0dDLWdxdTViWjU5RUtMSHh4cHZYeHlmY2l1dFB4RndwbVNtUG0tZmc4eUhuNA?"
+    },
+    {
+      "source": "News Channel 5 Nashville",
+      "query": "nashville rezoning",
+      "title": "Neighbors voice concerns over 40-home development as Nashville rezoning debates continue - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPemJIT3B3c2t5NjhJcm5QcFpHaUtndmJhdWJMbEhKbGJXOTlKZVpPWnVfa2JCTUdPbTVyMTJOSVp6TVdaV05CWVVsT3JQdGt3Ul9FX2U1QWljVnVIaGt3QzdtV0JSWDh3OUl3eVd0VURzNWh2MWFyRFJkcFhrUkJ0Wm1QRnUxcjBQcFdkejV1VjlMRWhVaDZFNzRoRnJxNGpqWXVLaHpQMUxZNGhpYl9DME95VjdIRzRBVGhCUEVabXBkQlF2SGt6QmxRVEd4RXVwS3NIbl92bDNuZjJzRmNNY29YMTJ0cWtudEE?oc=5",
+      "pubDate": "Thu, 25 Sep 2025 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\brezoning?\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPemJIT3B3c2t5NjhJcm5QcFpHaUtndmJhdWJMbEhKbGJXOTlKZVpPWnVfa2JCTUdPbTVyMTJOSVp6TVdaV05CWVVsT3JQdGt3Ul9FX2U1QWljVnVIaGt3QzdtV0JSWDh3OUl3eVd0VURzNWh2MWFyRFJkcFhrUkJ0Wm1QRnUxcjBQcFdkejV1VjlMRWhVaDZFNzRoRnJxNGpqWXVLaHpQMUx"
+    },
+    {
+      "source": "Medium",
+      "query": "nashville opens groundbreaking",
+      "title": "Exile in Nashville | Liz Phair celebrates her groundbreaking debut at the Ryman. - Medium",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdGFBQTFRc0ZIV3NWZFpxZ2s1VnhXVDFyaVI0ZURKaDlkM0RpMU9wRWItNHo5aXg2X3FVRGRmNEY2UXQxdGhYN2twemx2aWRQa3Y2c0NzNTRsQ2xIelUtRUNfUDV6NzhhTzhWeXR4Z2xnWkQ4aWFOalhXWGdGekhZMl9lT3d1Q2pGR19qcWtFa0Y2U2NlUGVodEtUSzhkLWloOWJ4RjZmQ245cWFMcXp1alJySnA4dWFmb0Y1clln?oc=5",
+      "pubDate": "Thu, 21 Dec 2023 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bground[\\s-]?breaking\\b/i",
+        "/\\bgroundbreaking\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNdGFBQTFRc0ZIV3NWZFpxZ2s1VnhXVDFyaVI0ZURKaDlkM0RpMU9wRWItNHo5aXg2X3FVRGRmNEY2UXQxdGhYN2twemx2aWRQa3Y2c0NzNTRsQ2xIelUtRUNfUDV6NzhhTzhWeXR4Z2xnWkQ4aWFOalhXWGdGekhZMl9lT3d1Q2pGR19qcWtFa0Y2U2NlUGVodEtUSzhkLWloOWJ4RjZmQ24"
+    },
+    {
+      "source": "News Channel 5 Nashville",
+      "query": "\"mt juliet\" tn",
+      "title": "Mt. Juliet voters to decide this fall if developers should pay more for city growth in years to come - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQR1hDbUl1MU9KT2FoalJwcV9JNDcwdTJ4OFVQQzkyU084R1EtVXpDYnZydk51OG5ZaWxpV1FrSldVdzN3NS1Vc1oyOERzY3BsRVhoZWhYMjRkNmZKb1psYk5GbURhUVpacWktam5XSWlwUGxpSGlheFljYWlFZkF4MklMNlowbmVVbm5ZM3lZSE9zTGxSbHJCbFMzMXBWTFltX0ExaEpZS1M3RHcxaWhZb0tnRmR2QzE2TlRfQ1p0QWtST2Z3UXhROW9PTlRVTzBnSVdreXg3aHNja1FkRF94aENHV1N2MjNwR3ViM1djZFdOckFpc2c?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bmt\\.?\\s+juliet\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQR1hDbUl1MU9KT2FoalJwcV9JNDcwdTJ4OFVQQzkyU084R1EtVXpDYnZydk51OG5ZaWxpV1FrSldVdzN3NS1Vc1oyOERzY3BsRVhoZWhYMjRkNmZKb1psYk5GbURhUVpacWktam5XSWlwUGxpSGlheFljYWlFZkF4MklMNlowbmVVbm5ZM3lZSE9zTGxSbHJCbFMzMXBWTFltX0ExaEpZS1M"
+    },
+    {
+      "source": "REBusinessOnline",
+      "query": "\"middle tennessee\" development",
+      "title": "GBT Realty Acquires 42.5 Acres in Middle Tennessee, Plans 300,000 SF Retail Development - REBusinessOnline",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZEk4bVo3SE9OTDVzZ09obC1XZDFwblJyOEVoMWZnYlVwOXdrU1MwejZ6MmpNQnJpMWNKQUZCM002ek8xUjRKTEU4dDgtMG5iX1VfYlZsdWp4VTVSeEpWbGdnWV9ZRW1hZU9hWlZyaXR3aDBSeGN2UUc1WlNlVEl0dGkwSXQ5QVhQTGVmZUhhNnNhYmI1NjUzRWZIXzZuc1c5VFV6M3E2U3pLU3JoTXI1T3dpOWh6QQ?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 15:31:33 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bmiddle tennessee\\b/i"
+      ],
+      "matched_action": [
+        "/\\bdevelopment\\b/i",
+        "/\\bacquires\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPZEk4bVo3SE9OTDVzZ09obC1XZDFwblJyOEVoMWZnYlVwOXdrU1MwejZ6MmpNQnJpMWNKQUZCM002ek8xUjRKTEU4dDgtMG5iX1VfYlZsdWp4VTVSeEpWbGdnWV9ZRW1hZU9hWlZyaXR3aDBSeGN2UUc1WlNlVEl0dGkwSXQ5QVhQTGVmZUhhNnNhYmI1NjUzRWZIXzZuc1c5VFV6M3E2U3p"
+    },
+    {
+      "source": "News Channel 5 Nashville",
+      "query": "nashville opens groundbreaking",
+      "title": "Oracle's Nashville headquarters project moves closer to groundbreaking after years of delays - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZmhMTEI3UjEzS05nMWh2eEt4T3dCZUtzajM3bGNWcFhLVDJQVFR1NWg3WGdNdm51Z0VISVRTMXZIdnY4Tm9KSHRtSm5NcGs3bUhzYlRZa05pMlVyU3BPRGJvVUloV29DcUM0RDhZMFhuVWlCTnIyZGcydGNGcm9fcG42RnFzTXk3OTg2OUEzRWtLTGVCYmZJeUwyb0xpNDVRV25FdzZWRWZ2T21ueUVrNnZSZjJVeVVfR05yR3ZBZ0EwVXM?oc=5",
+      "pubDate": "Thu, 09 Oct 2025 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bground[\\s-]?breaking\\b/i",
+        "/\\bgroundbreaking\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZmhMTEI3UjEzS05nMWh2eEt4T3dCZUtzajM3bGNWcFhLVDJQVFR1NWg3WGdNdm51Z0VISVRTMXZIdnY4Tm9KSHRtSm5NcGs3bUhzYlRZa05pMlVyU3BPRGJvVUloV29DcUM0RDhZMFhuVWlCTnIyZGcydGNGcm9fcG42RnFzTXk3OTg2OUEzRWtLTGVCYmZJeUwyb0xpNDVRV25FdzZWRWZ"
+    },
+    {
+      "source": "Nashville Post",
+      "query": "nashville apartments development",
+      "title": "Fairgrounds apartment property sells for $54.4M - Nashville Post",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN2wwMEtWN2U3Y01rbFlCT0FUWmhwRXRZRm9RSUYtQVlaa0ZBVjlYVzB0bGFtV2ZTMUpBSGVnX0FDRkQxVDNka2tFX2NaX0FwcGFKUEY0dXMzTTRPNE9xblU0R2VjMjFneHJOS1Nnc1BaeE03ZXBDblVUUlRGcF81MlcyWnFfRXI3R3BTRk41WHFqaEM1T1A3NWNkRURiYjJWeGxmTmJoWEZPN1dhbXAxZUlQRmQ3MWRIcXdyTjBzWEtTWUN0WEpYbUg1bHhzdHlCVWhJemhjanE5SEhWemFCMg?oc=5",
+      "pubDate": "Thu, 09 Apr 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bapartments?\\b/i",
+        "/\\bsells\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN2wwMEtWN2U3Y01rbFlCT0FUWmhwRXRZRm9RSUYtQVlaa0ZBVjlYVzB0bGFtV2ZTMUpBSGVnX0FDRkQxVDNka2tFX2NaX0FwcGFKUEY0dXMzTTRPNE9xblU0R2VjMjFneHJOS1Nnc1BaeE03ZXBDblVUUlRGcF81MlcyWnFfRXI3R3BTRk41WHFqaEM1T1A3NWNkRURiYjJWeGxmTmJoWEZ"
+    },
+    {
+      "source": "WKRN News 2",
+      "query": "nashville opens groundbreaking",
+      "title": "Metro leaders celebrate groundbreaking at Nashville Youth Campus for Empowerment - WKRN News 2",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZUVuckVoVlk0SkRDVXZCWnM1bUlMQ1l3R3VPUHdBYlpiT2t2YjRtMlpZSnpITmJZQ1Y4cnBuNFpqU2hneloyTlc0dDFHRDVJOHB5VEZlTExTRWNJV090ZGp3aHlpVmw4aFFudmV2YVY3QnNzdzFuemZnVXVCbVoyY3d3X3hUWkZ3RF9UUy1QbzVvZkU0SkVWMFdoZTNjUlhvek0xWVFGY0FkaWFNYmlzeUtfOXhXRW4yeXZ3RXdrSE5OSUZLSXZZ0gHMAUFVX3lxTE0xeGN6LS1zdWpQYnZibkpoMGlyLWh0cnMza3JfV0dnRkp1dFNZWFZ0dDFkMGwyLTY5TTlDbmVGUDhVY0loLVRsZk5laFZpT0JDby11N2t4R1ZHcEFjXzJwYnY5RlpickpPQ3VLREtEbkNJR1JLcS1wRWpFTmlQOXdLeEF4dFAzS1ZqRS1VVEROMm9LQXlVUk0wSTFqWC1EYTdlLW91QXlYZ2M5MWx3blNsa0lkZXF4Q2tOZFNrUVJ1RTNpeThRb3kzNTJ2TA?oc=5",
+      "pubDate": "Thu, 08 Aug 2024 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bground[\\s-]?breaking\\b/i",
+        "/\\bgroundbreaking\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQZUVuckVoVlk0SkRDVXZCWnM1bUlMQ1l3R3VPUHdBYlpiT2t2YjRtMlpZSnpITmJZQ1Y4cnBuNFpqU2hneloyTlc0dDFHRDVJOHB5VEZlTExTRWNJV090ZGp3aHlpVmw4aFFudmV2YVY3QnNzdzFuemZnVXVCbVoyY3d3X3hUWkZ3RF9UUy1QbzVvZkU0SkVWMFdoZTNjUlhvek0xWVFGY0F"
+    },
+    {
+      "source": "Yield PRO",
+      "query": "nashville multifamily",
+      "title": "Giarratana’s Nashville Multifamily Apartment Tower Alcove Listed for Sale - Yield PRO",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DeVNqWkU4MmxZdEFtNlJYWFRUeENoOWFjTEt3QnJtbmxaV3dBT2hlRDBnUlgyNWlKVVNOSGcweGZnZWdrVlRpcW1QVTRPQjQ2OV9EaG10aG5PWm9sUERmc0tpUjg2MjhLODhwcF9FOHQ2RURQdEtF?oc=5",
+      "pubDate": "Thu, 07 May 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmultifamily\\b/i",
+        "/\\bapartments?\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5DeVNqWkU4MmxZdEFtNlJYWFRUeENoOWFjTEt3QnJtbmxaV3dBT2hlRDBnUlgyNWlKVVNOSGcweGZnZWdrVlRpcW1QVTRPQjQ2OV9EaG10aG5PWm9sUERmc0tpUjg2MjhLODhwcF9FOHQ2RURQdEtF?oc=5\" target=\"_blank\"&gt;Giarratana’s Nashville Multifamily Apartm"
+    },
+    {
+      "source": "WKRN News 2",
+      "query": "\"mt juliet\" tn",
+      "title": "‘It’s been a nightmare’: Mt. Juliet receives $12M to widen part of Lebanon Road - WKRN News 2",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkZtV0hFQ0VQUWo5SGIwS29HUVpuQ3JmNUVhMlFtenNZMmlKS1hxTWo1Yk5PUWJUTjdWRTBHSXducXF5RC0xSkhQV2M3MXlTRFhpcWxBaDZUbnpMY0RGZzJOaEMyYlprRGZ3N0thUWJ2ZHNzSTF6WlJ2QzVZTzF1Rnh5dFg1SXdVbzBSQndvSGhNMThNRmNOaFhUdG81Z9IBowFBVV95cUxQUmtKRUUxLWdBSlBTQl9hR1MzVEF1azhIQ2ctM3MtaXZ4dWRCSTZHZFlHNXpvTjUxeEtlUy0xcjV1d1ZvYWxMaUtkLWV6bHRqbmdWWEZwTGs2WHdSR3J4akVoT0hqUHJkd2xaSnJ2MWlTa05CdkZ0bE13QkNWMmtnV2haMlMtc1drREZSeThrNlBfYmFhN3U3dEJCV093eVgzRHRF?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bmt\\.?\\s+juliet\\b/i",
+        "/\\blebanon\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOTkZtV0hFQ0VQUWo5SGIwS29HUVpuQ3JmNUVhMlFtenNZMmlKS1hxTWo1Yk5PUWJUTjdWRTBHSXducXF5RC0xSkhQV2M3MXlTRFhpcWxBaDZUbnpMY0RGZzJOaEMyYlprRGZ3N0thUWJ2ZHNzSTF6WlJ2QzVZTzF1Rnh5dFg1SXdVbzBSQndvSGhNMThNRmNOaFhUdG81Z9IBowFBVV95cUx"
+    },
+    {
+      "source": "NFHS Network",
+      "query": "\"mt juliet\" tn",
+      "title": "Mt. Juliet vs Gallatin - Boys Varsity Football 10/01/2026 | Watch Live &amp; On Demand - NFHS Network",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFZVYnltRld5d2Zkc0pHOTB5bnBibGFNNTd5SWVscTd4UmhmcU1IYVk2ZnZIYWQzZXdBTDlLb3RsUHVOSnJPRm83X1o5b2xpTWxyMmU1RFp0SnBVODJLTERJSGJ0Wm1tZWdBN3dBcy1sejFkOVd1YldSWUl4WjY4ckFxUk9pbmlXRnhr?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bgallatin\\b/i",
+        "/\\bmt\\.?\\s+juliet\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFZVYnltRld5d2Zkc0pHOTB5bnBibGFNNTd5SWVscTd4UmhmcU1IYVk2ZnZIYWQzZXdBTDlLb3RsUHVOSnJPRm83X1o5b2xpTWxyMmU1RFp0SnBVODJLTERJSGJ0Wm1tZWdBN3dBcy1sejFkOVd1YldSWUl4WjY4ckFxUk9pbmlXRnhr?oc=5\" target=\"_blank\"&gt;Mt. Juliet vs"
+    },
+    {
+      "source": "News Channel 5 Nashville",
+      "query": "nashville apartments development",
+      "title": "Nashville's Eastpoint Neighborhood groundbreaking marks largest affordable housing project in Tennessee - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVWtKVUFyaTRSQmJscnM2dG16X2JINk9yRDJObXBWMzF3eGNJR2ZOUHhGSjBDUnRnelZmZUhySGNqM3l2OVpqLWxyZ2lzSHZLZDIyTTlhaFJWc1FCNXdjN25OWkJNTWxBekdiRzZJSXEzaU9ZMXhJdk1OUmhnMFA0Zl9UenBSM3NNbTFvM1NvSTZBbGR1clJ1V1hCRmVYeVdvMUJHSlNweXZ5amFtS2NOd2FuU2VPUTE2bjhUZTloMlRJaFZGaUJUZVlTWlBUcnNGZms3X3RoUGdYSExkWjB1Y2hTdjJ4ZFhFZERVQXd3MHdjWjJteHduRlo2QVA?oc=5",
+      "pubDate": "Sun, 31 May 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bground[\\s-]?breaking\\b/i",
+        "/\\bgroundbreaking\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVWtKVUFyaTRSQmJscnM2dG16X2JINk9yRDJObXBWMzF3eGNJR2ZOUHhGSjBDUnRnelZmZUhySGNqM3l2OVpqLWxyZ2lzSHZLZDIyTTlhaFJWc1FCNXdjN25OWkJNTWxBekdiRzZJSXEzaU9ZMXhJdk1OUmhnMFA0Zl9UenBSM3NNbTFvM1NvSTZBbGR1clJ1V1hCRmVYeVdvMUJHSlNweXZ"
+    },
+    {
+      "source": "WKRN News 2",
+      "query": "\"mt juliet\" tn",
+      "title": "Mt. Juliet police arrest 2 women wanted in Rutherford County - WKRN News 2",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTTV6YkR0T1NIX09icU9PZUtHeUtkb3BDOVhwUDhQSWZMNUM5N1dvcGtOWUoxOXNadlBheHdDdnh0ckJBT05OYllINHBrMllTZ2dEbzVaaG45NllCTEZjX2JNV0k3OUVoNUotZTNiWFR3eG5kRWhxOFdTTmp1T3UtaUNJak91Z1pDMUw4LXp6MVd6R3BtU2ZyQlV4MU80Z9IBowFBVV95cUxQdlNmOHFEWEhGT1hwZHprWUNLZHYxWndFWUNrY3pmUk1aOURwa281VVppbk1nQlgwMml0NXVxczh3VWpqVUU0MFBBMEQ0MGItWTFDYTFZbDBDSWo0d1RTWWgxVDJZTk9CSkNuNE10YWhYa1RVUUlxZjVrUjZxQVdSSGxBbHdvSXlNZEdUS2lOMzl2X291WE1DU08zUjYyaF9IUWhV?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\brutherford county\\b/i",
+        "/\\bmt\\.?\\s+juliet\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTTV6YkR0T1NIX09icU9PZUtHeUtkb3BDOVhwUDhQSWZMNUM5N1dvcGtOWUoxOXNadlBheHdDdnh0ckJBT05OYllINHBrMllTZ2dEbzVaaG45NllCTEZjX2JNV0k3OUVoNUotZTNiWFR3eG5kRWhxOFdTTmp1T3UtaUNJak91Z1pDMUw4LXp6MVd6R3BtU2ZyQlV4MU80Z9IBowFBVV95cUx"
+    },
+    {
+      "source": "CITY NOW NEXT",
+      "query": "nashville opens groundbreaking",
+      "title": "550,000 SF North Cap Project Announce April Groundbreaking In Nashville. - CITY NOW NEXT",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmRWMk9KSUtPSlV6UVFBNXo3ajk1S0Eyek5xVnpFam1RbWt3WDk3bk55NzF0aEtvTkJBUW56OEh6eGNKVmdaZzJpclROM0lVQ3NmRXhVbHdic0toby1vbXZGYVdfYVJyQUdmbFFWdVF6ajNiNFJmdElJVkg3Zm9HcFBONjZOV1JoWFR2MFBFU0psd0wzY3RHQ2FwQk9jM3lzdkNkOEl5Uk56Zw?oc=5",
+      "pubDate": "Mon, 31 Mar 2025 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bground[\\s-]?breaking\\b/i",
+        "/\\bgroundbreaking\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmRWMk9KSUtPSlV6UVFBNXo3ajk1S0Eyek5xVnpFam1RbWt3WDk3bk55NzF0aEtvTkJBUW56OEh6eGNKVmdaZzJpclROM0lVQ3NmRXhVbHdic0toby1vbXZGYVdfYVJyQUdmbFFWdVF6ajNiNFJmdElJVkg3Zm9HcFBONjZOV1JoWFR2MFBFU0psd0wzY3RHQ2FwQk9jM3lzdkNkOEl5Uk5"
+    },
+    {
+      "source": "WSMV",
+      "query": "nashville apartments development",
+      "title": "Nashville’s East Bank development clears final hurdle, breaks ground soon - WSMV",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWjVBaENjRExnRExJOTl2WkRRZzNtcTBSdUUxT0w3WFE3OEZFcXFCekVBSHNBSDNWTExxVnBrZmVVcjNyNUt2X21lZXB2YjJDXzhvNkk3SHRDcGlWSFA3Ql9tUlhwUXpLbmlPTzZ5N1R0Y25KN1FhVllxcTlOOFY0THdGZmxkbk50SVRic1hETjBkMzZYdEdESkNTU2xlUnlTVDRxWlNlMA?oc=5",
+      "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bbreaks ground\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNWjVBaENjRExnRExJOTl2WkRRZzNtcTBSdUUxT0w3WFE3OEZFcXFCekVBSHNBSDNWTExxVnBrZmVVcjNyNUt2X21lZXB2YjJDXzhvNkk3SHRDcGlWSFA3Ql9tUlhwUXpLbmlPTzZ5N1R0Y25KN1FhVllxcTlOOFY0THdGZmxkbk50SVRic1hETjBkMzZYdEdESkNTU2xlUnlTVDRxWlNlMA?"
+    },
+    {
+      "source": "DroneXL",
+      "query": "\"mt juliet\" tn",
+      "title": "Amazon Drones Fly Over Mt. Juliet With Nashville Still 'Coming Soon' - DroneXL",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUctQ05EbnFkOHE2cVZHSGJzRzA0REVRazU1UVJEaGlHUFNhSUh6ZEpzRUI1a19XMjctek1TWXZGZ3lRVUVDdG95NkE3X1hZSHNXaUxHeDFlN2lIelJyWjJ2dVFlN3ZkNk1tYTcteEVId2QwaEwzdXdQVTdtUnhuTFhDZERmZEFKZGpWNklhYl84RWRzLXBBM3hxN2c?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 15:08:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bmt\\.?\\s+juliet\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUctQ05EbnFkOHE2cVZHSGJzRzA0REVRazU1UVJEaGlHUFNhSUh6ZEpzRUI1a19XMjctek1TWXZGZ3lRVUVDdG95NkE3X1hZSHNXaUxHeDFlN2lIelJyWjJ2dVFlN3ZkNk1tYTcteEVId2QwaEwzdXdQVTdtUnhuTFhDZERmZEFKZGpWNklhYl84RWRzLXBBM3hxN2c?oc=5\" target=\"_"
+    },
+    {
+      "source": "Nashville Post",
+      "query": "nashville apartments development",
+      "title": "Downtown apartment building sells for $23M - Nashville Post",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZk9jajl3Vkp4ajlUdElOdm9IN1pQdFc2X201SWl1WHBjSnhsQVdxYXdyN3VFUjBBWm5CTkJEM1dyTmtsYWFlTlpBWTBTbVg3NHZDSEJCbURYRzhBMnFfN25RczRkbGNXeXJJeTRmeUVGNDRQeEZON19IUERyOV9TSHNrSldiV0hXVFIwQlJxSGc1ZFN5MjhQTUpDSkNXZllNUGZWWkp1RmFLX3RrMFZWSkpqQ0hNcHN6a1UtLVpQWVo5cm5zTjZSX0pybmFHU0FTTFlQcnJxT0VEQQ?oc=5",
+      "pubDate": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bapartments?\\b/i",
+        "/\\bsells\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZk9jajl3Vkp4ajlUdElOdm9IN1pQdFc2X201SWl1WHBjSnhsQVdxYXdyN3VFUjBBWm5CTkJEM1dyTmtsYWFlTlpBWTBTbVg3NHZDSEJCbURYRzhBMnFfN25RczRkbGNXeXJJeTRmeUVGNDRQeEZON19IUERyOV9TSHNrSldiV0hXVFIwQlJxSGc1ZFN5MjhQTUpDSkNXZllNUGZWWkp1RmF"
+    },
+    {
+      "source": "WZTV",
+      "query": "\"middle tennessee\" development",
+      "title": "As Middle Tennessee grows, Mt. Juliet debates housing and safety - WZTV",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNlRRWXpxbUVWUXZZeE00bFhpdG9CZjJSQTNzY3VaankwenRER3AwYk0yOVlBOXZGZUFNeVR4VUEzWk0wMDNKcmhuMmxoSFBiSTdpX1pDVGxsSWdHSXdsLW5hc1dwMEl0Y05PTTNhM0dTWHdFeGx5dzFjWjIxWFhBWVJRQ0hQcVFMRU9OdWRsY0lFV3RDeUE?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bmiddle tennessee\\b/i",
+        "/\\bmt\\.?\\s+juliet\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNNlRRWXpxbUVWUXZZeE00bFhpdG9CZjJSQTNzY3VaankwenRER3AwYk0yOVlBOXZGZUFNeVR4VUEzWk0wMDNKcmhuMmxoSFBiSTdpX1pDVGxsSWdHSXdsLW5hc1dwMEl0Y05PTTNhM0dTWHdFeGx5dzFjWjIxWFhBWVJRQ0hQcVFMRU9OdWRsY0lFV3RDeUE?oc=5\" target=\"_blank\"&g"
+    },
+    {
+      "source": "Axios",
+      "query": "nashville rezoning",
+      "title": "Metro Council takes up rezoning plan for East Nashville scrapyard - Axios",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSU02SHZDOUtheW1KaTZxdER2QTduaEk1NURTWXNPQ2RLNXVXYUlkbEFZcGdWeXFiTUllMnVNeGFPc0prWWpXZXdmZkZlVDU3TVk3ZVRULUFsaGItS19ORkU2Uk00NGpFa0RGbG00OVlXWHk2Q1ZDY0l5QUtneXlIQW1TUTA0WVItcTlEWEVHR0VsMmR5RmY0RVFibHAyOUhWRGlJS3VXdm5RczNHYVF4c05rUFQ?oc=5",
+      "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\brezoning?\\b/i",
+        "/\\bmetro council\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNSU02SHZDOUtheW1KaTZxdER2QTduaEk1NURTWXNPQ2RLNXVXYUlkbEFZcGdWeXFiTUllMnVNeGFPc0prWWpXZXdmZkZlVDU3TVk3ZVRULUFsaGItS19ORkU2Uk00NGpFa0RGbG00OVlXWHk2Q1ZDY0l5QUtneXlIQW1TUTA0WVItcTlEWEVHR0VsMmR5RmY0RVFibHAyOUhWRGlJS3VXdm5"
+    },
+    {
+      "source": "WKRN News 2",
+      "query": "murfreesboro development",
+      "title": "New mixed-use development proposed for Murfreesboro - WKRN News 2",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnZ5WWlyWm1YVkdFeXBCSl9wZHpJcEtDSzRyY2NLZ2dxODU1U3JELWNWZy01MWYzRDBwOE80MFRTUTloeE5IcjN5OHZkaVowd2ExUXZwWm1uT3AwSzhyemJKaUlvaURZUEtla3VsUnRPM3FBTUg3LUpZTlJRdVd6ZWZwWE1vbkRvNF9JTlpqLUx3OXp5UmRIQ0FmcGowVUpVa0RYakhSdTFUbzJkQ3Y0ZF9sV0tvX3Qw0gG-AUFVX3lxTE5pLWUwc1RfZG56cVJTQ2REREZaUDQ3bUNBWHd5NlkxbzllSE5Da2s0Zjh3Mk9zVjZnWllDM3psOHNEZHZ3M25NbWNTNEgyOHppMnc4b2c2b2VWdlNGMGxnRm4wcFQyZWtEUm02dTRwZjd4UGVVb0FGNnpUc2Ryc2I5bEFnb052b1N3ZzIxNXJvRTdfaGtIQ2NQVmcwSUxFd0o0eXNnLW9nQ0FRUy0wUVNyTFVpYVhYTl9kTWtfdVE?oc=5",
+      "pubDate": "Mon, 16 Jun 2025 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bmurfreesboro\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmixed[\\s-]use\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnZ5WWlyWm1YVkdFeXBCSl9wZHpJcEtDSzRyY2NLZ2dxODU1U3JELWNWZy01MWYzRDBwOE80MFRTUTloeE5IcjN5OHZkaVowd2ExUXZwWm1uT3AwSzhyemJKaUlvaURZUEtla3VsUnRPM3FBTUg3LUpZTlJRdVd6ZWZwWE1vbkRvNF9JTlpqLUx3OXp5UmRIQ0FmcGowVUpVa0RYakhSdTF"
+    },
+    {
+      "source": "News Channel 5 Nashville",
+      "query": "\"mt juliet\" tn",
+      "title": "New indoor family entertainment center in Mt. Juliet opens over Labor Day weekend - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRmJlNFBFYVlDYWNvSWFoRVRSZFJpWUowbGdsX3FHUktEVmNGUHZ4TmlKOWZLZGlNNTRUVGtNSGxCMEpyb2xyZG9ib05JdGFWVFpTcE1uVnR5S3NPb0I2S1JxUWhzRnZ2eEpPMzFsV3BITlNac3NvVlFyM1Vha2V5dW15S3pDT3dFdkNaWHdwYlZ0UXBsXy1reEFRWDR1eXN5R0YxcmQzaHl5MFgxVGpXVHByUTExaWtMR1g1UkZSaHE0NFNqZ1hLbkRjRFdCUzFJdG9oZUROa1RmWEE?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bmt\\.?\\s+juliet\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRmJlNFBFYVlDYWNvSWFoRVRSZFJpWUowbGdsX3FHUktEVmNGUHZ4TmlKOWZLZGlNNTRUVGtNSGxCMEpyb2xyZG9ib05JdGFWVFpTcE1uVnR5S3NPb0I2S1JxUWhzRnZ2eEpPMzFsV3BITlNac3NvVlFyM1Vha2V5dW15S3pDT3dFdkNaWHdwYlZ0UXBsXy1reEFRWDR1eXN5R0YxcmQzaHl"
+    },
+    {
+      "source": "Multifamily Dive",
+      "query": "nashville multifamily",
+      "title": "Hines opens apartments in fast-growing Nashville, Tennessee, submarket - Multifamily Dive",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUnFNalNUR3dqYlRaSTFuUUhaSXE1UW5scWZoMnVOMFN6TlZ3UWVZaG9JRVdWNng1UnRRa1hxMndGVVZvWnl6RnJoa1RuNXdyMkhiZlJNZEJqYnI5U2pRbXJuNnVJMnBKVTJkNExfT2hZWEQzd0N6X0ZRdWZEdnJMa0FjZkU3UlFpNWpTUXhITzZfTEZqTHpHY3BDUExRSkNEeGMzbzh0V1VPQnVYa3h3?oc=5",
+      "pubDate": "Mon, 07 Jul 2025 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmultifamily\\b/i",
+        "/\\bapartments?\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQUnFNalNUR3dqYlRaSTFuUUhaSXE1UW5scWZoMnVOMFN6TlZ3UWVZaG9JRVdWNng1UnRRa1hxMndGVVZvWnl6RnJoa1RuNXdyMkhiZlJNZEJqYnI5U2pRbXJuNnVJMnBKVTJkNExfT2hZWEQzd0N6X0ZRdWZEdnJMa0FjZkU3UlFpNWpTUXhITzZfTEZqTHpHY3BDUExRSkNEeGMzbzh0V1V"
+    },
+    {
+      "source": "CoStar",
+      "query": "nashville apartments development",
+      "title": "News | Nashville apartment construction falls to seven-year low as development cycle resets - CoStar",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeTZhZHgtZTNZVmtpZEI5ekVzQ0JTRVRkM0N3UDRZRGNWU0gwRE1RcXpfLVdnUGItR1ZCUjd6SWJ3U01KRE5WZ0JmT1Z3Y2otR3dPOTBNT24wX0QyWm1DcElVY01KSnI4bHltZ21jSFBJNzJFZlIyelpSMGRyWW9tZkhoYmVKVHk3ZEJaejh3RFlBS1YxUk9aaDRsaWRLTmhudFRETDhuTXA0cHdLUmRkWWpCMmUyeTJXZWpZZEJuZlNZaE0?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bapartments?\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeTZhZHgtZTNZVmtpZEI5ekVzQ0JTRVRkM0N3UDRZRGNWU0gwRE1RcXpfLVdnUGItR1ZCUjd6SWJ3U01KRE5WZ0JmT1Z3Y2otR3dPOTBNT24wX0QyWm1DcElVY01KSnI4bHltZ21jSFBJNzJFZlIyelpSMGRyWW9tZkhoYmVKVHk3ZEJaejh3RFlBS1YxUk9aaDRsaWRLTmhudFRETDhuTXA"
+    },
+    {
+      "source": "News Channel 5 Nashville",
+      "query": "franklin tn development",
+      "title": "Franklin's first agri-hood aims to feed the neighborhood and beyond - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSWNyRG9fNjVSRUs0SDVpLTN2ZlhKNnVISTdtTm82N1ZNZXVYZFQ3MmxLMllfem1NYUdhaXpsRk1acFg4bHphUFhDMTh5WUZ6TC1WWTFPVnJ5RnNfZzhaQnJ4bk5OYzNxamdmN0c3TEROQTN4T3d4WlNuYW9lcGV3Q3E5QzFteVE5cTRldGZsUEpGcjhUNHZCU3l6X3J6cGpPSWIyVThONFN0VlpxXzY2SVkwTnZUczJHcDk2SG1ya1ZGM0FLRGY1ZE0tNW9rZk0?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bfranklin\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOSWNyRG9fNjVSRUs0SDVpLTN2ZlhKNnVISTdtTm82N1ZNZXVYZFQ3MmxLMllfem1NYUdhaXpsRk1acFg4bHphUFhDMTh5WUZ6TC1WWTFPVnJ5RnNfZzhaQnJ4bk5OYzNxamdmN0c3TEROQTN4T3d4WlNuYW9lcGV3Q3E5QzFteVE5cTRldGZsUEpGcjhUNHZCU3l6X3J6cGpPSWIyVThONFN"
+    },
+    {
+      "source": "The Business Journals",
+      "query": "nashville apartments development",
+      "title": "Germantown property home to longtime Nashville business eyed for redevelopment - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQnBTZ1BWSmc4Qk5uRzJyU2Q0bnRHRC1PY29QR0JFWDEzZk1OcVVxUDFOdVVXZTRvc2R6WnNxT1Z0NGJ1aVNURGt5QXJFRUxlWTRWU3dWZDZ1YWZlUnhWUGlfeDFVUHZHemNVVkhIdjU2dWRnTGRlRlBGN1Rid1hidGJxaGtUX0lDS2ZPQlBpSGllek14LWQzVV85NnNhMmM?oc=5",
+      "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bgermantown\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQnBTZ1BWSmc4Qk5uRzJyU2Q0bnRHRC1PY29QR0JFWDEzZk1OcVVxUDFOdVVXZTRvc2R6WnNxT1Z0NGJ1aVNURGt5QXJFRUxlWTRWU3dWZDZ1YWZlUnhWUGlfeDFVUHZHemNVVkhIdjU2dWRnTGRlRlBGN1Rid1hidGJxaGtUX0lDS2ZPQlBpSGllek14LWQzVV85NnNhMmM?oc=5\" targe"
+    },
+    {
+      "source": "Building Design + Construction",
+      "query": "nashville multifamily",
+      "title": "At 60 stories, the Paramount multifamily development will stand as Nashville’s tallest high rise - Building Design + Construction",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaE9sbWhidVdaM0JTbWoydlVscFNrcUZfbGltUndmZ1VwOFdwMC1SOEZubDhpdW40eTJTOUVQdEo5YVJpdF93SDRBbWVXYm90Q2RNUjFxaFNJanMxcng4UzhuTEE2NEFsZzRJS2pKNEtRNkxmTUk4X0F1ZmFTdExlRmpGRk1pNExIeVF3dWs0cmJBb2Q4aVUwRWI4bVZEeUo0TEpWVzBHUHlJbDFIaGpoQklkb0FRN2V3cjlTVS1pU2ZITnU4Yy1HbjdkZzg0UEI0b2NSbnEwVGRsLTJ3NXFERnkwU1lBRzNkRm9lNE5IeVhqcHdmaW1sQ1dJMk9HbUU?oc=5",
+      "pubDate": "Fri, 16 Aug 2024 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmultifamily\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaE9sbWhidVdaM0JTbWoydlVscFNrcUZfbGltUndmZ1VwOFdwMC1SOEZubDhpdW40eTJTOUVQdEo5YVJpdF93SDRBbWVXYm90Q2RNUjFxaFNJanMxcng4UzhuTEE2NEFsZzRJS2pKNEtRNkxmTUk4X0F1ZmFTdExlRmpGRk1pNExIeVF3dWs0cmJBb2Q4aVUwRWI4bVZEeUo0TEpWVzBHUHl"
+    },
+    {
+      "source": "Nashville Post",
+      "query": "franklin tn development",
+      "title": "Developer preps start on $165M downtown Franklin project - Nashville Post",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaU1YdzJCeDNaLXdPLXhwN3NFNXRJMGE3NU50SmJXUTA4NExkRFpyWTVJdFF2QVBRV2JGdm54OG0yNXdRSW5qekE0M3htR3p6M0d4RmdWNU1rWURDMFpIdUE0SnZzSmhHM1NjSXBESkhDX29YSXR6VzJEZlpuTjdPU2pBamVrT0o1bWxWOTd1TkJsLTRDU0lHdTk3b2JBamZLWmxGZm9QN3pGR3RiTkc4ME1Pa0MxN0hQZEhILU4xa0FGdHdIWUVTRmIyRlBqNFl6VXh2TDlyMkg1OHVjOEltcFFlWmlhaG5JWHpDZg?oc=5",
+      "pubDate": "Fri, 15 Nov 2024 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bfranklin\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaU1YdzJCeDNaLXdPLXhwN3NFNXRJMGE3NU50SmJXUTA4NExkRFpyWTVJdFF2QVBRV2JGdm54OG0yNXdRSW5qekE0M3htR3p6M0d4RmdWNU1rWURDMFpIdUE0SnZzSmhHM1NjSXBESkhDX29YSXR6VzJEZlpuTjdPU2pBamVrT0o1bWxWOTd1TkJsLTRDU0lHdTk3b2JBamZLWmxGZm9QN3p"
+    },
+    {
+      "source": "REJournals",
+      "query": "murfreesboro development",
+      "title": "Hines begins development of 300-unit multifamily development in Murfreesboro - REJournals",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ29VMzM2b2t6UndXMDk1LTJQTnRtM1A5VmtsTkpEY1hDREJaMHYtMkpzVW41UXJWSUhpX2JjWXpzdFhJVVcxNWZDZjFsNFpTeWVyb2lObS1waEp4MGhFYzBRUVNFQmNKY0R6cmNGeU1VT3VUVkNYdk1nOFZOS1lTbEgyUDFNUlNLQkV2cGpGb2hGQVY2eUFaaEhNOVl2b2NUNFE?oc=5",
+      "pubDate": "Fri, 12 Jan 2024 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bmurfreesboro\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmultifamily\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ29VMzM2b2t6UndXMDk1LTJQTnRtM1A5VmtsTkpEY1hDREJaMHYtMkpzVW41UXJWSUhpX2JjWXpzdFhJVVcxNWZDZjFsNFpTeWVyb2lObS1waEp4MGhFYzBRUVNFQmNKY0R6cmNGeU1VT3VUVkNYdk1nOFZOS1lTbEgyUDFNUlNLQkV2cGpGb2hGQVY2eUFaaEhNOVl2b2NUNFE?oc=5\" t"
+    },
+    {
+      "source": "The Business Journals",
+      "query": "murfreesboro development",
+      "title": "Mixed-use development planned in downtown Murfreesboro - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVHlILXY3QXp0aDhtTzR4RUZBRmFta2pIVEl3LTc3Qy1LNWJtLUtDUTNLVUg0WUJyZTVwbE1sNWNFUlVTRWtKTGxHS3dYQmNjbGQ0OXdTbThNTkJGSHlXT3FYbzJfN2VQSFhGZ1RxdVdaUlRMMDZ5SVZaeDU4bE5FZnFkUnBQU3A3QkM0REsxVjk5dw?oc=5",
+      "pubDate": "Fri, 10 Dec 2021 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bmurfreesboro\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmixed[\\s-]use\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQVHlILXY3QXp0aDhtTzR4RUZBRmFta2pIVEl3LTc3Qy1LNWJtLUtDUTNLVUg0WUJyZTVwbE1sNWNFUlVTRWtKTGxHS3dYQmNjbGQ0OXdTbThNTkJGSHlXT3FYbzJfN2VQSFhGZ1RxdVdaUlRMMDZ5SVZaeDU4bE5FZnFkUnBQU3A3QkM0REsxVjk5dw?oc=5\" target=\"_blank\"&gt;Mix"
+    },
+    {
+      "source": "Billboard",
+      "query": "nashville opens groundbreaking",
+      "title": "Jelly Roll Attends Groundbreaking Ceremony For New Youth Center in Nashville - Billboard",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS19QMXlOR0tRSFlwcU9kSVlwYTVUamlscHRNeUozcXZpdE00Y1pTUjBRZXlJV1lYal9CalBjZXV6Sl9LVVJCbWNUNXgtNUU0RFkzX0taY2N1OS0wUEgtUE5RU3dYNDlGaHA0N3pxR1d1UXROalpYMGtEaFNFMWVpODhZUVBkX3JZWDNVaHBYaVJpVEQxSGV2MDBiMkN1cmR4?oc=5",
+      "pubDate": "Fri, 09 Aug 2024 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bground[\\s-]?breaking\\b/i",
+        "/\\bgroundbreaking\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQS19QMXlOR0tRSFlwcU9kSVlwYTVUamlscHRNeUozcXZpdE00Y1pTUjBRZXlJV1lYal9CalBjZXV6Sl9LVVJCbWNUNXgtNUU0RFkzX0taY2N1OS0wUEgtUE5RU3dYNDlGaHA0N3pxR1d1UXROalpYMGtEaFNFMWVpODhZUVBkX3JZWDNVaHBYaVJpVEQxSGV2MDBiMkN1cmR4?oc=5\" targ"
+    },
+    {
+      "source": "WKRN News 2",
+      "query": "murfreesboro development",
+      "title": "Murfreesboro lawmakers file bill to allow moratorium on apartment complex development - WKRN News 2",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVHpsMWJxekNaZDc1NGpObmYybkpoUWFRdVNndzF3ZzBZQ3pZdE96ei1OdzB3SVNEZTI0UlFmb1YzTEtJcFdyYWc2amVWY3BhZUhLTWtXNVB5cWpHUmxIQTM4TWhxaENKVERyTExCcXZfc1o5SEdfUDl0S1Y5azlETTE2cW53VGluLWQ2TjhHRTZxQkxhOFNTQTRYeUl6ajJPOFEtMHpELTgtdzRST1NvV1Z6Rlg1M0hsVExxZ1NZZHFPZzNrNldXclp5U0Vhbm13NkHSAdcBQVVfeXFMTmNqci1Femd4V0lua3gyYml5NjFnSHlWTDVjX3RVV19hN2pLak9CREZPYzBCSUU4a213T1B1SE5RaXViQm9EaXVfXzNCVjN4N1I2RTJaendxS1R2S3hlbmtrOXFsaXBNUFp6MTN2NFBwY3phd1E3QS1teG5Vd0JHNG5nWG9zUU1jMkk5RE5LSHE3NE1TQUhtOVFvQ0xSOWJMdmx2OVNKclpUY2NIYzRpUS1TREhBSTVlZ3JRS3g3dmIwb3AtZm03V0RsbXQ4R2wtbElJc1d6VG8?oc=5",
+      "pubDate": "Fri, 07 Feb 2025 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bmurfreesboro\\b/i"
+      ],
+      "matched_action": [
+        "/\\bapartments?\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVHpsMWJxekNaZDc1NGpObmYybkpoUWFRdVNndzF3ZzBZQ3pZdE96ei1OdzB3SVNEZTI0UlFmb1YzTEtJcFdyYWc2amVWY3BhZUhLTWtXNVB5cWpHUmxIQTM4TWhxaENKVERyTExCcXZfc1o5SEdfUDl0S1Y5azlETTE2cW53VGluLWQ2TjhHRTZxQkxhOFNTQTRYeUl6ajJPOFEtMHpELTg"
+    },
+    {
+      "source": "WZTV",
+      "query": "nashville apartments development",
+      "title": "End of an era in West Nashville: Businesses closing to make way for apartment development - WZTV",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnowNXdRajczNXQ0RndFTWUyVHgyelE0NE9hZWVUNGJPT2k2Q2hXaGdVd3czaEd5NlEwTmFrUU04VHAydk9lLV9RdzhWMWF6bk1WeVJ1M2k3WVF3VTlCcmdQQWt5TlY1dHRMUVlPTWRRQlJTblNoSU44RW1xVURxdWIxNzJQLUZUVTV2QmxuT3ZwajJ1WWlYZV90amluZl9GdW9HX3hNbl9lNk0yRmdiVUpHQldQSE9L?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bapartments?\\b/i",
+        "/\\bdevelopment\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnowNXdRajczNXQ0RndFTWUyVHgyelE0NE9hZWVUNGJPT2k2Q2hXaGdVd3czaEd5NlEwTmFrUU04VHAydk9lLV9RdzhWMWF6bk1WeVJ1M2k3WVF3VTlCcmdQQWt5TlY1dHRMUVlPTWRRQlJTblNoSU44RW1xVURxdWIxNzJQLUZUVTV2QmxuT3ZwajJ1WWlYZV90amluZl9GdW9HX3hNbl9"
+    },
+    {
+      "source": "News Channel 5 Nashville",
+      "query": "\"mt juliet\" tn",
+      "title": "A new bookstore is coming to Mt. Juliet with big plans to bring more access to books - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUHpTTW1VTmtQN2NIWXR6VUpMbHRJbG55WGhfRzA5Njgya0lIblFBdjhPZzRSMUt1b01UZkRDMkQ1enZEZnFBNkI2YnJJTnplTE1CcEp1OHUyVlRBT09oN0sxNDhLd0NYYTFETkYwMVdodVBJTXlsOEtfTXBhUVhlcDJZVkVjeXRsTG5EakdSU3BsTTRsLVNHdnFoUnJsUHdsbnN5QjJJNlZCVzgzR1Y2QmhwXzA2YUF3Q09xQVEtNy1mNlRMTWd4MGM0d0JGd2tSY0hjN21fbWRTdHoyWjI0MQ?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i",
+        "/\\bmt\\.?\\s+juliet\\b/i"
+      ],
+      "matched_action": [],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUHpTTW1VTmtQN2NIWXR6VUpMbHRJbG55WGhfRzA5Njgya0lIblFBdjhPZzRSMUt1b01UZkRDMkQ1enZEZnFBNkI2YnJJTnplTE1CcEp1OHUyVlRBT09oN0sxNDhLd0NYYTFETkYwMVdodVBJTXlsOEtfTXBhUVhlcDJZVkVjeXRsTG5EakdSU3BsTTRsLVNHdnFoUnJsUHdsbnN5QjJJNlZ"
+    },
+    {
+      "source": "WGNS Radio",
+      "query": "murfreesboro development",
+      "title": "TDK Breaks Ground on Vintage 1959, an $84M Mixed-Use Community in Murfreesboro - WGNS Radio",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSUR6YUpPTFpHcFB1cUFCWUlZRFJCRy05R2JvOW96S1BKbDNWOWk1ZFduY19FVHE2Q3FmX3pPVVotSmZ5UlptRmNkOW5wSllMbG56REVkWXd4QTQtWE53Rnl3bENONExHQ1FoelNRVHNjRHV1UlJBODFZRlFBa0tmT05BUTdqSWJuZ1ZIeTdPTXFfd0l5c2JJMGxKQ1ZIVU1DelhmUVFvZ2szNTFNSkhNQXZQZ1ZLZmfSAbwBQVVfeXFMUGUtYUdyOV9FV002V283RHNYYUlReXl3TFpaeGxwdVFqZWZtem9xS3B3ZWk3T1pwWWtCYVdpczFoOU5kdkZGbURLTXY3Z05HSnpvSk1Udl90MFUzZWFiY0xhX1RRMjlqMjdNMUk2Z0tIekNZc1dWOE5GNUUzN05FX0tnNV91S0s1ZGRmNTN6ZkljMVhCcGJKckFvZmgzUVVnZ1MwQklzVllCTnY3RTk5UlVPSlR5MDl2SXo3SGY?oc=5",
+      "pubDate": "Fri, 03 Oct 2025 07:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bmurfreesboro\\b/i"
+      ],
+      "matched_action": [
+        "/\\bbreaks ground\\b/i",
+        "/\\bmixed[\\s-]use\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOSUR6YUpPTFpHcFB1cUFCWUlZRFJCRy05R2JvOW96S1BKbDNWOWk1ZFduY19FVHE2Q3FmX3pPVVotSmZ5UlptRmNkOW5wSllMbG56REVkWXd4QTQtWE53Rnl3bENONExHQ1FoelNRVHNjRHV1UlJBODFZRlFBa0tmT05BUTdqSWJuZ1ZIeTdPTXFfd0l5c2JJMGxKQ1ZIVU1DelhmUVFvZ2s"
+    },
+    {
+      "source": "The Country Note",
+      "query": "nashville opens groundbreaking",
+      "title": "Groundbreaking Performer, Record Label Owner and Producer Felipe de La Rosa Passes Away in Nashville, Tennessee - The Country Note",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGh6YjRRd09WUEVTVEtqY0RxNlVEUWdCVlFYNWJlcmxDVVZTQ1BTdkp6dkptdTRpLVozVk9hLTF1NUVVRUdzSTB1VUw1N1FBRWhOUEVGM3ZuVTU2S0xGdWNhWXZZWGhFOVZHSEF6bkc2S182dmxKVHVhdFItbnR6X3BjWHI2c0FQNk1peU1Fd0pYQ3M3UWE2T2FLckdXeERpbzNuZ1NzT2QtYjNrUFBIR2dFc0J1bTNLLVpMV2d2MTZ2aWU5STk1Y29IRTFrUkc0U2VrSVdwRUljZw?oc=5",
+      "pubDate": "Fri, 02 Mar 2018 08:00:00 GMT",
+      "score": 4,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bground[\\s-]?breaking\\b/i",
+        "/\\bgroundbreaking\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGh6YjRRd09WUEVTVEtqY0RxNlVEUWdCVlFYNWJlcmxDVVZTQ1BTdkp6dkptdTRpLVozVk9hLTF1NUVVRUdzSTB1VUw1N1FBRWhOUEVGM3ZuVTU2S0xGdWNhWXZZWGhFOVZHSEF6bkc2S182dmxKVHVhdFItbnR6X3BjWHI2c0FQNk1peU1Fd0pYQ3M3UWE2T2FLckdXeERpbzNuZ1NzT2Q"
+    },
+    {
+      "source": "Northmarq",
+      "query": "nashville multifamily",
+      "title": "Tapering multifamily supply sets stage for improving fundamentals in Nashville - Northmarq",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeURuNjUybG1hRmIyR1dEMDVpNUtyaHhIUElGZzFCcmZ1M1hvQWFmb2lwR2Nmc0ppdnpzVkNJR2czTGxTRG5tYU9FcGZ0LXE3ZU41MHA2ZHVET1NGS2tVQjIxVXNDam1qUGVOT2tmNEdibG44VmlGSWt4ZVJDR3F2eFdXeFYxZzJOal9MOVItd05DREVTT0hxcEZrVHVfeXFRNWdkN3h2cE5wMFVrdDVpd0VqYzd3QQ?oc=5",
+      "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
+      "score": 3,
+      "matched_geo": [
+        "/\\bnashville\\b/i"
+      ],
+      "matched_action": [
+        "/\\bmultifamily\\b/i"
+      ],
+      "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOeURuNjUybG1hRmIyR1dEMDVpNUtyaHhIUElGZzFCcmZ1M1hvQWFmb2lwR2Nmc0ppdnpzVkNJR2czTGxTRG5tYU9FcGZ0LXE3ZU41MHA2ZHVET1NGS2tVQjIxVXNDam1qUGVOT2tmNEdibG44VmlGSWt4ZVJDR3F2eFdXeFYxZzJOal9MOVItd05DREVTT0hxcEZrVHVfeXFRNWdkN3h2cE5"
+    }
+  ]
+}

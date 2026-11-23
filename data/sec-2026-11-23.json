@@ -1,0 +1,95 @@
+{
+  "fetched_at": "2026-11-23T23:07:31.311Z",
+  "source": "SEC EDGAR",
+  "keywords": [
+    "/nashville/i",
+    "/\\bmiddle tennessee\\b/i",
+    "/\\bdavidson county\\b/i",
+    "/\\bwilliamson county\\b/i",
+    "/\\brutherford county\\b/i",
+    "/\\bsumner county\\b/i",
+    "/\\bwilson county\\b/i",
+    "/\\bfranklin,?\\s+tn\\b/i",
+    "/\\bmurfreesboro\\b/i",
+    "/\\bspring hill,?\\s+tn\\b/i",
+    "/\\bmt\\.?\\s+juliet\\b/i",
+    "/\\bbrentwood,?\\s+tn\\b/i",
+    "/\\bsmyrna,?\\s+tn\\b/i",
+    "/\\bgallatin,?\\s+tn\\b/i",
+    "/\\bhendersonville,?\\s+tn\\b/i"
+  ],
+  "companies_tracked": 31,
+  "hit_count": 5,
+  "hits": [
+    {
+      "company": "Starbucks",
+      "form": "10-K",
+      "filingDate": "2026-11-12",
+      "reportDate": "2026-09-27",
+      "accession": "0000829224-26-000162",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/829224/000082922426000162/sbux-20260927.htm",
+      "snippets": [
+        {
+          "keyword": "Nashville",
+          "context": "...ring plans to close additional coffeehouses, relocate certain support organization functions to an additional office in Nashville, Tennessee, continue the transformation of our global support organization and non-retail facilities, and reduce the future operational complexity of our Starbucks Reserv..."
+        }
+      ]
+    },
+    {
+      "company": "Camden Property",
+      "form": "10-Q",
+      "filingDate": "2026-11-06",
+      "reportDate": "2026-09-30",
+      "accession": "0001628280-26-071470",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/906345/000162828026071470/cpt-20260930.htm",
+      "snippets": [
+        {
+          "keyword": "Nashville",
+          "context": "...06345 cpt:CamdenLoSoMember 2026-07-16 0000906345 cpt:CamdenGulchMember 2026-09-09 0000906345 cpt:CamdenLeanderCamdenWestNashvilleMember 2025-01-01 2025-09-30 0000906345 cpt:CamdenLeanderMember 2025-01-23 0000906345 cpt:CamdenWestNashvilleMember 2025-02-27 0000906345 cpt:CamdenClearwaterMember 2025-0..."
+        }
+      ]
+    },
+    {
+      "company": "HCA Healthcare",
+      "form": "8-K",
+      "filingDate": "2026-11-05",
+      "reportDate": "2026-11-02",
+      "accession": "0001193125-26-449922",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/860730/000119312526449922/hca-20261102.htm",
+      "snippets": [
+        {
+          "keyword": "Nashville",
+          "context": "...ission &#160; (I.R.S. Employer of Incorporation) &#160; File Number) &#160; Identification No.) &#160; One Park Plaza , Nashville , Tennessee &#160; 37203 (Address of Principal Executive Offices) &#160; (Zip Code) &#160; (615) 344-9551 (Registrant&#8217;s Telephone Number, Including Area Code) Not A..."
+        }
+      ]
+    },
+    {
+      "company": "HCA Healthcare",
+      "form": "8-K",
+      "filingDate": "2026-11-02",
+      "reportDate": "2026-11-02",
+      "accession": "0001193125-26-443864",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/860730/000119312526443864/hca-20261102.htm",
+      "snippets": [
+        {
+          "keyword": "Nashville",
+          "context": "...n of Incorporation) &#160; (Commission File Number) &#160; (I.R.S. Employer Identification No.) &#160; One Park Plaza , Nashville , Tennessee &#160; 37203 (Address of Principal Executive Offices) &#160; (Zip Code) (615) 344-9551 (Registrant&#8217;s Telephone Number, including area code) Not Applicab..."
+        }
+      ]
+    },
+    {
+      "company": "HCA Healthcare",
+      "form": "10-Q",
+      "filingDate": "2026-10-29",
+      "reportDate": "2026-09-30",
+      "accession": "0001193125-26-437871",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/860730/000119312526437871/hca-20260930.htm",
+      "snippets": [
+        {
+          "keyword": "Nashville",
+          "context": "...5930 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) One Park Plaza Nashville , Tennessee 37203 (Address of principal executive offices) (Zip Code) ( 615 ) 344-9551 (Registrant&#8217;s telephone number, including area code) Not Applicable (Former n..."
+        }
+      ]
+    }
+  ]
+}
